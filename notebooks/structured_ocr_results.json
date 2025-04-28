@@ -1,0 +1,744 @@
+{
+    "img-0.jpeg": {
+        "file_name": "image",
+        "topics": [],
+        "languages": "English",
+        "ocr_contents": {},
+        "image_path": "processed_images/img-0.jpeg.jpg"
+    },
+    "img-1.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "Image",
+            "OCR",
+            "Markdown",
+            "JSON",
+            "Conversion"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:\n![img-0.jpeg](img-0.jpeg)\n.\nConvert this into a structured JSON response with the OCR contents in a sensible dictionary."
+        },
+        "image_path": "processed_images/img-1.jpeg.jpg"
+    },
+    "img-2.jpeg": {
+        "file_name": "The Balances effect",
+        "topics": [
+            "Balances",
+            "effect",
+            "categories"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "The Balances effect\n\n3 main categories:\n![img-0.jpeg](img-0.jpeg)\n\n## Assets\n\nLiabilities"
+        },
+        "image_path": "processed_images/img-2.jpeg.jpg"
+    },
+    "img-3.jpeg": {
+        "file_name": "Liabilities",
+        "topics": [
+            "Accounts receivable, inventory",
+            "Liabilities"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "section_title": "Liabilities",
+            "content": "1. Will be paid in less than 1 year."
+        },
+        "image_path": "processed_images/img-3.jpeg.jpg"
+    },
+    "img-4.jpeg": {
+        "file_name": "financial_statement_ocr",
+        "topics": [
+            "financial statements",
+            "assets",
+            "liabilities",
+            "current assets",
+            "non-current assets",
+            "property, plant, and equipment"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "assets": {
+                "current_assets": {
+                    "accounts_receivable": {
+                        "2018": 2199273,
+                        "2019": 3225686
+                    },
+                    "inventories": {
+                        "2018": 2302693,
+                        "2019": 2585519
+                    },
+                    "prepaid_expenses": {
+                        "2018": 269530,
+                        "2019": 131448
+                    },
+                    "deferred_tax_liabilities": {
+                        "2018": 315760,
+                        "2019": 374545
+                    },
+                    "total_current_assets": {
+                        "2018": 8739571,
+                        "2019": 9916135
+                    }
+                },
+                "non_current_assets": {
+                    "property_plant_equipment": {
+                        "2018": 6775727,
+                        "2019": 6724278
+                    },
+                    "goodwill": {
+                        "2018": 523961,
+                        "2019": 523961
+                    },
+                    "intangible_assets": {
+                        "2018": 215760,
+                        "2019": 379060
+                    },
+                    "total_non_current_assets": {
+                        "2018": 6991487,
+                        "2019": 7862844
+                    }
+                },
+                "total_assets": {
+                    "2018": 15731058,
+                    "2019": 17776979
+                }
+            },
+            "liabilities": {
+                "current_liabilities": {
+                    "accounts_payable": {
+                        "2018": 3873904,
+                        "2019": 3336064
+                    },
+                    "short_term_loans": {
+                        "2018": 376686,
+                        "2019": 485724
+                    },
+                    "tax_payable": {
+                        "2018": 352940,
+                        "2019": 444959
+                    },
+                    "total_current_liabilities": {
+                        "2018": 4313520,
+                        "2019": 4246767
+                    }
+                },
+                "non_current_liabilities": {
+                    "long_term_loans": {
+                        "2018": 257430,
+                        "2019": 213511
+                    },
+                    "deferred_tax_assets": {
+                        "2018": 2159937,
+                        "2019": 2215130
+                    },
+                    "warranties": {
+                        "2018": 270000,
+                        "2019": 270000
+                    },
+                    "total_non_current_liabilities": {
+                        "2018": 7040897,
+                        "2019": 6683398
+                    }
+                },
+                "liabilities_and_reserves_attributable_to_impany_s_equity_holders": {
+                    "reserve": {
+                        "2018": 119946,
+                        "2019": 130832
+                    },
+                    "retained_earnings": {
+                        "2018": 30086,
+                        "2019": 29048
+                    },
+                    "total": {
+                        "2018": 15731058,
+                        "2019": 17776979
+                    }
+                }
+            }
+        },
+        "image_path": "processed_images/img-4.jpeg.jpg"
+    },
+    "img-5.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "Investments",
+            "Equity",
+            "Debt Instruments",
+            "Capital Gain",
+            "Income",
+            "Short Term",
+            "Long Term",
+            "External Investments",
+            "Internal Investments",
+            "Subsidiaries",
+            "Associates",
+            "Joint Ventures",
+            "OCR"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "- Investments in equity or debt instruments to be held for capital gain and/or income\n- (less than a year)\n- Investment in subsidiaries, associates and joint ventures\n- (more than a year)\n![img-0.jpeg](img-0.jpeg)"
+        },
+        "image_path": "processed_images/img-5.jpeg.jpg"
+    },
+    "img-6.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-6.jpeg.jpg"
+    },
+    "img-7.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "Financial Statements",
+            "Assets",
+            "Liabilities",
+            "Equity"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "assets": {
+                "2018": {
+                    "cash and cash equivalents": 2199273,
+                    "short-term deposits": 3968075,
+                    "current assets": 8739571,
+                    "plant and equipment": 6775727,
+                    "assets in associates": 0,
+                    "receivables": 215789,
+                    "current securities": 1379060,
+                    "sets": 15731058
+                },
+                "2019": {
+                    "cash and cash equivalents": 3225686,
+                    "short-term deposits": 3974545,
+                    "current assets": 9316135,
+                    "plant and equipment": 6724278,
+                    "assets in associates": 593961,
+                    "receivables": 165545,
+                    "current securities": 979060,
+                    "sets": 17778979
+                }
+            },
+            "liabilities": {
+                "2018": {
+                    "liabilities and other payables": 3873804,
+                    "non-current borrowings": 378689,
+                    "finance lease liabilities": 362940,
+                    "current liabilities": 4613530
+                },
+                "2019": {
+                    "liabilities and other payables": 3336084,
+                    "non-current borrowings": 485724,
+                    "finance lease liabilities": 444969,
+                    "current liabilities": 4266757
+                }
+            },
+            "current_liabilities": {
+                "current": {
+                    "liabilities": {
+                        "will be paid in less than 1 year": "Current Liabilities",
+                        "trade accounts payable": "Trade accounts payable"
+                    }
+                }
+            },
+            "non_current_liabilities": {
+                "non-current": {
+                    "liabilities": {
+                        "repayment terms longer than 1 year": "Repayment terms longer than 1 year",
+                        "loan repayable over a 5 year period": "Loan repayable over a 5 year period"
+                    }
+                }
+            },
+            "equity": {
+                "2018": {
+                    "equity attributable to equity holders": 1192647,
+                    "retained earnings": 119946,
+                    "other reserves": 30086,
+                    "total equity": 15731058
+                },
+                "2019": {
+                    "equity attributable to equity holders": 1192647,
+                    "retained earnings": 130832,
+                    "other reserves": 29048,
+                    "total equity": 17778979
+                }
+            }
+        },
+        "image_path": "processed_images/img-7.jpeg.jpg"
+    },
+    "img-8.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-8.jpeg.jpg"
+    },
+    "img-9.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-9.jpeg.jpg"
+    },
+    "img-10.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-10.jpeg.jpg"
+    },
+    "img-11.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-11.jpeg.jpg"
+    },
+    "img-12.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-12.jpeg.jpg"
+    },
+    "img-13.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "image",
+            "computer",
+            "desk",
+            "office",
+            "window",
+            "plant"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "![img-0.jpeg](img-0.jpeg)\n.\n"
+        },
+        "image_path": "processed_images/img-13.jpeg.jpg"
+    },
+    "img-14.jpeg": {
+        "file_name": "Revenues_Expenses_Profit_or_loss",
+        "topics": [
+            "Financial Statements",
+            "Accounting",
+            "Business"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "Revenues": "14 <br> Revenues\n\n![img-0.jpeg](img-0.jpeg)",
+            "Expenses": "![img-1.jpeg](img-1.jpeg)",
+            "Profit or loss": "."
+        },
+        "image_path": "processed_images/img-14.jpeg.jpg"
+    },
+    "img-15.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-15.jpeg.jpg"
+    },
+    "img-16.jpeg": {
+        "file_name": "image_ocr",
+        "topics": [
+            "OCR",
+            "Markdown"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:\n\n.\n\nConvert this into a structured JSON response with the OCR contents in a sensible dictionary."
+        },
+        "image_path": "processed_images/img-16.jpeg.jpg"
+    },
+    "img-17.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-17.jpeg.jpg"
+    },
+    "img-18.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-18.jpeg.jpg"
+    },
+    "img-19.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-19.jpeg.jpg"
+    },
+    "img-20.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-20.jpeg.jpg"
+    },
+    "img-21.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-21.jpeg.jpg"
+    },
+    "img-22.jpeg": {
+        "error": "Expecting value: line 42 column 1 (char 705)",
+        "image_path": "processed_images/img-22.jpeg.jpg"
+    },
+    "img-23.jpeg": {
+        "file_name": "image",
+        "topics": [
+            "currency",
+            "dollar sign"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:\n.\n\nConvert this into a structured JSON response with the OCR contents in a sensible dictionary."
+        },
+        "image_path": "processed_images/img-23.jpeg.jpg"
+    },
+    "img-24.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "Image",
+            "OCR",
+            "Markdown"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:\n![img-0.jpeg](img-0.jpeg)\n."
+        },
+        "image_path": "processed_images/img-24.jpeg.jpg"
+    },
+    "img-25.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-25.jpeg.jpg"
+    },
+    "img-26.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-26.jpeg.jpg"
+    },
+    "img-27.jpeg": {
+        "file_name": "Investing",
+        "topics": [
+            "Investing"
+        ],
+        "languages": "en",
+        "ocr_contents": {
+            "title": "Investing",
+            "content": "."
+        },
+        "image_path": "processed_images/img-27.jpeg.jpg"
+    },
+    "img-28.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-28.jpeg.jpg"
+    },
+    "img-29.jpeg": {
+        "file_name": "ocr_output",
+        "topics": [
+            "finance",
+            "accounting"
+        ],
+        "languages": "en",
+        "ocr_contents": {
+            "text": "The closing cash balance"
+        },
+        "image_path": "processed_images/img-29.jpeg.jpg"
+    },
+    "img-30.jpeg": {
+        "file_name": "image",
+        "topics": [
+            "OCR",
+            "image"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:\n\n.\n\n"
+        },
+        "image_path": "processed_images/img-30.jpeg.jpg"
+    },
+    "img-31.jpeg": {
+        "file_name": "financial_statement_ocr",
+        "topics": [
+            "Financial Statements",
+            "Assets",
+            "Liabilities",
+            "Equity"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "assets": {
+                "current_assets": {
+                    "inventories": {
+                        "2018": 2199273,
+                        "2019": 3225686
+                    },
+                    "receivables_and_prepayments": {
+                        "2018": 2302693,
+                        "2019": 2585519
+                    },
+                    "investment_securities": {
+                        "2018": 269530,
+                        "2019": 130385
+                    },
+                    "cash_and_short_term_deposits": {
+                        "2018": 3968075,
+                        "2019": 3974545
+                    },
+                    "total_current_assets": {
+                        "2018": 8739571,
+                        "2019": 9916135
+                    }
+                },
+                "non_current_assets": {
+                    "property_plant_and_equipment": {
+                        "2018": 6775727,
+                        "2019": 6724278
+                    },
+                    "investment_in_associates": {
+                        "2018": 0,
+                        "2019": 593961
+                    },
+                    "trade_receivables": {
+                        "2018": 0,
+                        "2019": 165545
+                    },
+                    "investment_securities": {
+                        "2018": 215760,
+                        "2019": 379060
+                    },
+                    "total_non_current_assets": {
+                        "2018": 6991487,
+                        "2019": 7862844
+                    }
+                },
+                "total_assets": {
+                    "2018": 15731058,
+                    "2019": 17778979
+                }
+            },
+            "liabilities": {
+                "current_liabilities": {
+                    "trade_and_other_payables": {
+                        "2018": 3873904,
+                        "2019": 3336064
+                    },
+                    "short_term_borrowings": {
+                        "2018": 376686,
+                        "2019": 485724
+                    },
+                    "debt_payable": {
+                        "2018": 362940,
+                        "2019": 444969
+                    },
+                    "total_current_liabilities": {
+                        "2018": 4613530,
+                        "2019": 4266757
+                    }
+                },
+                "non_current_liabilities": {
+                    "deferred_tax_liabilities": {
+                        "2018": 257430,
+                        "2019": 213511
+                    },
+                    "borrowings": {
+                        "2018": 2169937,
+                        "2019": 2213130
+                    },
+                    "total_non_current_liabilities": {
+                        "2018": 2427367,
+                        "2019": 2426641
+                    }
+                },
+                "total_liabilities": {
+                    "2018": 7040897,
+                    "2019": 6693398
+                }
+            },
+            "equity": {
+                "equity": {
+                    "total_reserves_attributable_to_company_s_equity_holders": {
+                        "share_capital": {
+                            "2018": 1192647,
+                            "2019": 1192647
+                        },
+                        "total_reserve": {
+                            "2018": 119946,
+                            "2019": 130832
+                        },
+                        "translation_reserve": {
+                            "2018": 30086,
+                            "2019": 29048
+                        },
+                        "retained_earnings": {
+                            "2018": 7347482,
+                            "2019": 9733054
+                        }
+                    },
+                    "total_equity": {
+                        "2018": 8690161,
+                        "2019": 11085581
+                    }
+                },
+                "total_liabilities_and_equity": {
+                    "2018": 15731058,
+                    "2019": 17778979
+                }
+            }
+        },
+        "image_path": "processed_images/img-31.jpeg.jpg"
+    },
+    "img-32.jpeg": {
+        "file_name": "disclosure_document",
+        "topics": [
+            "full disclosure",
+            "document transparency"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "For full disclosure:\n.\n"
+        },
+        "image_path": "processed_images/img-32.jpeg.jpg"
+    },
+    "img-33.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-33.jpeg.jpg"
+    },
+    "img-34.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-34.jpeg.jpg"
+    },
+    "img-35.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "image",
+            "ocr",
+            "markdown"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:\n![img-0.jpeg](img-0.jpeg)\n."
+        },
+        "image_path": "processed_images/img-35.jpeg.jpg"
+    },
+    "img-36.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "Instruments"
+        ],
+        "languages": "en",
+        "ocr_contents": {
+            "text": "Instruments",
+            "image": "![img-0.jpeg](img-0.jpeg)"
+        },
+        "image_path": "processed_images/img-36.jpeg.jpg"
+    },
+    "img-37.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "Image",
+            "OCR",
+            "Markdown"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown: ![img-0.jpeg](img-0.jpeg) ."
+        },
+        "image_path": "processed_images/img-37.jpeg.jpg"
+    },
+    "img-38.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "image",
+            "floor plan",
+            "arrow",
+            "layout"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "recognized": "recognized"
+        },
+        "image_path": "processed_images/img-38.jpeg.jpg"
+    },
+    "img-39.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-39.jpeg.jpg"
+    },
+    "img-40.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-40.jpeg.jpg"
+    },
+    "img-41.jpeg": {
+        "file_name": "image",
+        "topics": [
+            "OCR",
+            "text extraction"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "line1": "What is included"
+        },
+        "image_path": "processed_images/img-41.jpeg.jpg"
+    },
+    "img-42.jpeg": {
+        "file_name": "Inventor",
+        "topics": [
+            "Inventor",
+            "OCCO"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "title": "Inventor",
+            "content": "OCCO"
+        },
+        "image_path": "processed_images/img-42.jpeg.jpg"
+    },
+    "img-43.jpeg": {
+        "file_name": "Inventor",
+        "topics": [
+            "Inventor",
+            "OCCO"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "title": "Inventor",
+            "content": "OCCO"
+        },
+        "image_path": "processed_images/img-43.jpeg.jpg"
+    },
+    "img-44.jpeg": {
+        "file_name": "Commitments_Contingencies_Stock_based",
+        "topics": [
+            "Commitments",
+            "Contingencies",
+            "Stock based"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "Commitments": "## Stock based\n.\n",
+            "Contingencies": "## Stock based\n.\n"
+        },
+        "image_path": "processed_images/img-44.jpeg.jpg"
+    },
+    "img-45.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-45.jpeg.jpg"
+    },
+    "img-46.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-46.jpeg.jpg"
+    },
+    "img-47.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-47.jpeg.jpg"
+    },
+    "img-48.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-48.jpeg.jpg"
+    },
+    "img-49.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-49.jpeg.jpg"
+    },
+    "img-50.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-50.jpeg.jpg"
+    },
+    "img-51.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-51.jpeg.jpg"
+    },
+    "img-52.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-52.jpeg.jpg"
+    },
+    "img-53.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-53.jpeg.jpg"
+    },
+    "img-54.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-54.jpeg.jpg"
+    },
+    "img-55.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-55.jpeg.jpg"
+    },
+    "img-56.jpeg": {
+        "error": "Processing timed out after 20 seconds",
+        "image_path": "processed_images/img-56.jpeg.jpg"
+    }
+}
