@@ -1,30 +1,49 @@
-2025-05-01 11:25:29,009 - __main__ - INFO - Building configuration graph
-2025-05-01 11:25:29,011 - __main__ - INFO - Configuration graph successfully built
-2025-05-01 11:25:29,011 - __main__ - INFO - Running configuration for document type: financial
-2025-05-01 11:25:29,015 - __main__ - INFO - Created new thread ID: thread_52685
-2025-05-01 11:25:29,015 - __main__ - INFO - Configuring vector stores for document type: financial
-2025-05-01 11:25:29,015 - __main__ - INFO - Using collections: orignal_chunks and contextulized_chunks
-2025-05-01 11:25:29,015 - __main__ - INFO - Creating vector store for collection: orignal_chunks
-2025-05-01 11:25:29,773 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
-2025-05-01 11:25:32,182 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
-2025-05-01 11:25:32,534 - __main__ - INFO - Successfully created vector store for orignal_chunks
-2025-05-01 11:25:32,534 - __main__ - INFO - Creating vector store for collection: contextulized_chunks
-2025-05-01 11:25:33,104 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
-2025-05-01 11:25:34,781 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
-2025-05-01 11:25:35,151 - __main__ - INFO - Successfully created vector store for contextulized_chunks
-2025-05-01 11:25:35,151 - __main__ - INFO - Configuration completed successfully for financial
-2025-05-01 11:26:25,080 - __main__ - INFO - Building configuration graph
-2025-05-01 11:26:25,082 - __main__ - INFO - Configuration graph successfully built
-2025-05-01 11:26:25,082 - __main__ - INFO - Running configuration for document type: financial
-2025-05-01 11:26:25,086 - __main__ - INFO - Created new thread ID: 51704
-2025-05-01 11:26:25,086 - __main__ - INFO - Configuring vector stores for document type: financial
-2025-05-01 11:26:25,086 - __main__ - INFO - Using collections: orignal_chunks and contextulized_chunks
-2025-05-01 11:26:25,086 - __main__ - INFO - Creating vector store for collection: orignal_chunks
-2025-05-01 11:26:25,766 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
-2025-05-01 11:26:28,598 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
-2025-05-01 11:26:29,151 - __main__ - INFO - Successfully created vector store for orignal_chunks
-2025-05-01 11:26:29,151 - __main__ - INFO - Creating vector store for collection: contextulized_chunks
-2025-05-01 11:26:29,709 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
-2025-05-01 11:26:32,076 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
-2025-05-01 11:26:32,518 - __main__ - INFO - Successfully created vector store for contextulized_chunks
-2025-05-01 11:26:32,518 - __main__ - INFO - Configuration completed successfully for financial
+2025-05-01 11:34:15,761 - __main__ - INFO - Building configuration graph
+2025-05-01 11:34:15,764 - __main__ - INFO - Configuration graph successfully built
+2025-05-01 11:34:39,605 - __main__ - INFO - Building configuration graph
+2025-05-01 11:34:39,608 - __main__ - INFO - Configuration graph successfully built
+2025-05-01 11:34:39,608 - __main__ - INFO - Running configuration for document type: financial
+2025-05-01 11:34:39,611 - __main__ - INFO - Created new thread ID: 8520
+2025-05-01 11:34:39,612 - __main__ - INFO - Configuring vector stores for document type: financial
+2025-05-01 11:34:39,612 - __main__ - INFO - Using collections: orignal_chunks and contextulized_chunks
+2025-05-01 11:34:39,612 - __main__ - INFO - Creating vector store for collection: orignal_chunks
+2025-05-01 11:34:40,366 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-05-01 11:34:42,593 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-01 11:34:42,863 - __main__ - INFO - Successfully created vector store for orignal_chunks
+2025-05-01 11:34:42,863 - __main__ - INFO - Creating vector store for collection: contextulized_chunks
+2025-05-01 11:34:43,390 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-05-01 11:34:45,235 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-01 11:34:45,568 - __main__ - INFO - Successfully created vector store for contextulized_chunks
+2025-05-01 11:34:45,568 - __main__ - INFO - Configuration completed successfully for financial
+2025-05-01 13:12:19,690 - __main__ - INFO - Building configuration graph
+2025-05-01 13:12:19,692 - __main__ - INFO - Configuration graph successfully built
+2025-05-01 13:12:34,812 - __main__ - INFO - Building configuration graph
+2025-05-01 13:12:34,814 - __main__ - INFO - Configuration graph successfully built
+2025-05-01 13:12:34,815 - __main__ - INFO - Running configuration for document type: financial
+2025-05-01 13:12:34,817 - __main__ - INFO - Created new thread ID: 31540
+2025-05-01 13:12:34,818 - __main__ - INFO - Configuring vector stores for document type: financial
+2025-05-01 13:12:34,818 - __main__ - INFO - Using collections: orignal_chunks and contextulized_chunks
+2025-05-01 13:12:34,818 - __main__ - INFO - Creating vector store for collection: orignal_chunks
+2025-05-01 13:12:34,823 - __main__ - INFO - Creating vector store for collection: contextulized_chunks
+2025-05-01 13:12:35,565 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-05-01 13:12:35,565 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-05-01 13:12:38,033 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-01 13:12:38,423 - __main__ - INFO - Successfully created vector store for contextulized_chunks
+2025-05-01 13:12:38,424 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-01 13:12:38,762 - __main__ - INFO - Successfully created vector store for orignal_chunks
+2025-05-01 13:12:38,763 - __main__ - INFO - Configuration completed successfully for financial
+2025-05-01 13:13:34,483 - __main__ - INFO - Building configuration graph
+2025-05-01 13:13:34,485 - __main__ - INFO - Configuration graph successfully built
+2025-05-01 13:13:34,485 - __main__ - INFO - Running configuration for document type: financial
+2025-05-01 13:13:34,488 - __main__ - INFO - Created new thread ID: 56549
+2025-05-01 13:13:34,488 - __main__ - INFO - Configuring vector stores for document type: financial
+2025-05-01 13:13:34,488 - __main__ - INFO - Using collections: orignal_chunks and contextulized_chunks
+2025-05-01 13:13:34,489 - __main__ - INFO - Creating vector store for collection: orignal_chunks
+2025-05-01 13:13:34,494 - __main__ - INFO - Creating vector store for collection: contextulized_chunks
+2025-05-01 13:13:35,074 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-05-01 13:13:35,074 - httpx - INFO - HTTP Request: GET https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-05-01 13:13:37,012 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-01 13:13:37,263 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-01 13:13:37,797 - __main__ - INFO - Successfully created vector store for contextulized_chunks
+2025-05-01 13:13:37,799 - __main__ - INFO - Successfully created vector store for orignal_chunks
+2025-05-01 13:13:37,800 - __main__ - INFO - Configuration completed successfully for financial

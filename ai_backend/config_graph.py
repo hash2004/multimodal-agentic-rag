@@ -1,24 +1,19 @@
 import os
 import logging
 import random
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict
 from typing_extensions import TypedDict
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langgraph.checkpoint.memory import MemorySaver
-from langgraph.graph import START, MessagesState, StateGraph, END
-from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
+from langgraph.graph import START, StateGraph, END
 from langchain_core.documents import Document
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_qdrant import QdrantVectorStore, RetrievalMode
-from qdrant_client import QdrantClient, models
-from qdrant_client.http.models import Distance, SparseVectorParams, VectorParams
-from langchain_openai import OpenAIEmbeddings
+import concurrent.futures
 
 from ai_backend.constants import (
     FINANCIAL_BASIC,
     FINANCIAL_ADVANCED
 )
 from ai_backend.config import dense_embeddings, sparse_embeddings
+import time
 
 # Configure logging
 logging.basicConfig(
@@ -77,7 +72,7 @@ def configure_thread(state: Config) -> Dict[str, str]:
 
 def configure_vector_store(state: Config) -> Dict[str, QdrantVectorStore]:
     """
-    Configure and initialize vector stores based on document type.
+    Configure and initialize vector stores in parallel based on document type.
     
     Args:
         state: The current configuration state including document type
@@ -107,9 +102,15 @@ def configure_vector_store(state: Config) -> Dict[str, QdrantVectorStore]:
         
         logger.info(f"Using collections: {basic_collection} and {advanced_collection}")
         
-        # Initialize vector stores
-        qdrant_original = create_vector_store(docs, basic_collection)
-        qdrant_advanced = create_vector_store(docs, advanced_collection)
+        # Initialize vector stores in parallel
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            # Submit tasks
+            original_future = executor.submit(create_vector_store, docs, basic_collection)
+            advanced_future = executor.submit(create_vector_store, docs, advanced_collection)
+            
+            # Wait for completion and get results
+            qdrant_original = original_future.result()
+            qdrant_advanced = advanced_future.result()
         
         return {
             "qdrant_orignal": qdrant_original,
@@ -223,14 +224,20 @@ def run_config(document_type: str) -> ConfigOutput:
         logger.error(f"Unexpected error during configuration: {e}")
         raise
 
-
 """
 try:
+    start_time = time.time()
+    
     response = run_config("financial")
+    
+    end_time = time.time()
+    execution_time = end_time - start_time
+    
     print("---------------------------------------------------------------")
     print("Response:", response)
     print(f"Thread ID: {response['thread_id']}")
     print(f"Vector stores configured: {bool(response['qdrant_orignal'])}, {bool(response['qdrant_advanced'])}")
+    print(f"Configuration execution time: {execution_time:.2f} seconds")
 except Exception as e:
     logger.critical(f"Failed to run configuration: {e}")
 """
