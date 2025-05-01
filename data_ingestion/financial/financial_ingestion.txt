@@ -1,0 +1,487 @@
+
+What are financial statements?: 3
+Balance sheet: 5
+Income statement: 16
+Cashflow statement: 24
+
+
+
+Balance sheet
+
+Assets:
+    Current assets:
+        Cash: 20,000
+        Accounts receivable: 3,000
+        Inventory: 60,000
+        Prepaid expenses: 11,000
+        Total current assets: 94,000
+    Non-current assets:
+        Property plant & equipment: 110,000
+        Intangible assets: 10,000
+        Total non-current assets: 120,000
+    Total assets: 214,000
+Liabilities:
+    Current liabilities:
+        Accounts payable: 2,000
+        Accrued expenses: 1,000
+        Total current liabilities: 3,000
+    Non-current liabilities:
+        Bank loan: 100,000
+        Non current liabilities: 11,000
+Shareholder equity:
+    Common shares: 89,000
+    Retained Earnings: 11,000
+    Total liabilities and shareholders equity: 214,000
+
+```
+Inventories (2018): 2,199,273
+Inventories (2019): 3,225,686
+Receivables and prepayments (2018): 2,302,693
+Receivables and prepayments (2019): 2,585,519
+Investment securities (2018): 269,530
+Investment securities (2019): 130,385
+Cash and short-term deposits (2018): 3,968,075
+Cash and short-term deposits (2019): 3,974,545
+Property, plant and equipment (2018): 6,775,727
+Property, plant and equipment (2019): 6,724,278
+Investment in associates (2019): 593,961
+Loans receivable (2019): 165,545
+Investment securities (2018): 215,760
+Investment securities (2019): 379,060
+Trade and other payables (2018): 3,873,904
+Trade and other payables (2019): 3,336,064
+Short-term borrowings (2018): 376,686
+Short-term borrowings (2019): 485,724
+Taxation payable (2018): 362,940
+Taxation payable (2019): 444,969
+Deferred tax liabilities (2018): 257,430
+Deferred tax liabilities (2019): 213,511
+Borrowings (2018): 2,169,937
+Borrowings (2019): 2,213,130
+Share capital (2018): 1,192,647
+Share capital (2019): 1,192,647
+Capital reserve (2018): 119,946
+Capital reserve (2019): 130,832
+Translation reserve (2018): 30,086
+Translation reserve (2019): 29,048
+Retained earnings (2018): 7,347,482
+Retained earnings (2019): 9,733,054
+Total Assets (2018): 15,731,058
+Total Assets (2019): 17,778,979
+Total Liabilities (2018): 7,040,897
+Total Liabilities (2019): 6,693,398
+Total Equity (2018): 8,690,161
+Total Equity (2019): 11,085,581
+Total Liabilities and Equity (2018): 15,731,058
+Total Liabilities and Equity (2019): 17,778,979
+```
+
+Cash and investments:
+- Excess cash.
+- Accumulating cash to make a large purchase.
+- External investments: Investments in equity or debt instruments to be held for capital gain and/or income.
+- Internal investments: Investment in subsidiaries, associates and joint ventures.
+- Short term (less than year).
+- Long term (more than year).
+
+Earned Revenue:
+January: $100
+March: $300
+June: $600
+September: $900
+December: $1,200
+
+Unearned Revenue:
+January: $1,100
+March: $900
+June: $600
+September: $300
+December: $0
+
+```
+Assets:
+  Current Assets (2018): 8,739,571
+  Current Assets (2019): 9,916,135
+  Non-Current Assets (2018): 6,991,487
+  Non-Current Assets (2019): 7,862,844
+  Total Assets (2018): 15,731,058
+  Total Assets (2019): 17,778,979
+
+Liabilities:
+  Current Liabilities (2018): 4,613,530
+  Current Liabilities (2019): 4,266,757
+  Non-Current Liabilities (2018): 2,427,367
+  Non-Current Liabilities (2019): 2,426,641
+  Total Liabilities (2018): 7,040,897
+  Total Liabilities (2019): 6,693,398
+
+Equity:
+  Total Equity (2018): 8,690,161
+  Total Equity (2019): 11,085,581
+```
+
+Commitments: Future obligations that a company agrees to.
+Examples:
+- New buildings
+- Leasehold improvements
+- Building improvements
+
+Contingencies: Liabilities that may or may not happen, depending on circumstance.
+Example:
+- Lawsuit
+
+The liability must be recorded if:
+1. A loss will be suffered in the future.
+2. The loss amount can be reasonably estimated.
+
+Contingent gains are never recorded in financial statements.
+
+Inventories:
+- 2018: 2,199,273
+- 2019: 3,225,686
+Receivables and prepayments:
+- 2018: 2,302,693
+- 2019: 2,585,519
+Investment securities:
+- 2018: 269,530
+- 2019: 130,385
+Cash and short-term deposits:
+- 2018: 3,968,075
+- 2019: 3,974,545
+Property, plant and equipment:
+- 2018: 6,775,727
+- 2019: 6,724,278
+Investment in associates:
+- 2018: -
+- 2019: 593,961
+Loans receivable:
+- 2018: -
+- 2019: 165,545
+Investment securities:
+- 2018: 215,760
+- 2019: 379,060
+Total Assets:
+- 2018: 15,731,058
+- 2019: 17,778,979
+Trade and other payables:
+- 2018: 3,873,904
+- 2019: 3,336,064
+Short-term borrowings:
+- 2018: 376,686
+- 2019: 485,724
+Taxation payable:
+- 2018: 362,940
+- 2019: 444,969
+Deferred tax liabilities:
+- 2018: 257,430
+- 2019: 213,511
+Borrowings:
+- 2018: 2,169,937
+- 2019: 2,213,130
+Total Liabilities:
+- 2018: 7,040,897
+- 2019: 6,693,398
+Share capital:
+- 2018: 1,192,647
+- 2019: 1,192,647
+Capital reserve:
+- 2018: 119,946
+- 2019: 130,832
+Translation reserve:
+- 2018: 30,086
+- 2019: 29,048
+Retained earnings:
+- 2018: 7,347,482
+- 2019: 9,733,054
+Total Equity:
+- 2018: 8,690,161
+- 2019: 11,085,581
+Total Liabilities and Equity:
+- 2018: 15,731,058
+- 2019: 17,778,979
+
+Balance at 1 July 2017 Total Equity: 7,560,300
+Net profit: 2,292,925
+Unrealised gain on investments: 3,728
+Total comprehensive income: 2,323,506
+Sale of ordinary shares (IPO): 1,134,720
+Dividends paid: (1,304,933)
+Transfer to owners consequent on reorganisation: (1,023,432)
+Balance at 30 June 2018: 8,690,161
+Net profit: 2,929,322
+Unrealised gain on investments: 10,886
+Total comprehensive income: 2,939,170
+Dividends paid: (543,750)
+Balance at 30 June 2019: 11,085,581
+
+
+```
+Assets:
+    Current Assets:
+        Inventories: 2018: 2,199,273, 2019: 3,225,686
+        Receivables and prepayments: 2018: 2,302,693, 2019: 2,585,519
+        Investment securities: 2018: 269,530, 2019: 130,385
+        Cash and short-term deposits: 2018: 3,968,075, 2019: 3,974,545
+        Total: 2018: 8,739,571, 2019: 9,916,135
+    Non-Current Assets:
+        Property, plant and equipment: 2018: 6,775,727, 2019: 6,724,278
+        Investment in associates: 2019: 593,961
+        Loans receivable: 2019: 165,545
+        Investment securities: 2018: 215,760, 2019: 379,060
+        Total: 2018: 6,991,487, 2019: 7,862,844
+    Total Assets: 2018: 15,731,058, 2019: 17,778,979
+Liabilities:
+    Current Liabilities:
+        Trade and other payables: 2018: 3,873,904, 2019: 3,336,064
+        Short-term borrowings: 2018: 376,686, 2019: 485,724
+        Taxation payable: 2018: 362,940, 2019: 444,969
+        Total: 2018: 4,613,530, 2019: 4,266,757
+    Non-Current Liabilities:
+        Deferred tax liabilities: 2018: 257,430, 2019: 213,511
+        Borrowings: 2018: 2,169,937, 2019: 2,213,130
+        Total: 2018: 2,427,367, 2019: 2,426,641
+    Total Liabilities: 2018: 7,040,897, 2019: 6,693,398
+Equity:
+    Capital and reserves attributable to the company's equity holders:
+        Share capital: 2018: 1,192,647, 2019: 1,192,647
+        Capital reserve: 2018: 119,946, 2019: 130,832
+        Translation reserve: 2018: 30,086, 2019: 29,048
+        Retained earnings: 2018: 7,347,482, 2019: 9,733,054
+        Total Equity: 2018: 8,690,161, 2019: 11,085,581
+    Total Liabilities and Equity: 2018: 15,731,058, 2019: 17,778,979
+
+Share Capital:
+    Authorised: 4,000,000,000 (2018 - 4,000,000,000) Ordinary stock units
+    Issued and fully paid: 3,750,000,000 (2018 - 3,750,000,000) Ordinary stock units at no par value
+```
+
+--- Page 14 ---
+Paid-up share capital (180,000 x 25¢): $45,000
+Contributed surplus (180,000 x 15¢): $27,000
+
+
+Income statement
+
+Revenues
+Expenses
+Profit or loss
+
+```json
+{
+"Single Step Income Statement": {
+"Revenue": "Revenue (+)",
+"Gains": "Gains (+)",
+"Total Revenue": "Total revenue",
+"Cost of Goods Sold": "Cost of Goods Sold (-)",
+"Selling, General & Administrative": "Selling, General & Administrative (-)",
+"Losses": "Losses (-)",
+"Other Expenses": "Other Expenses",
+"Total Expenses": "Total expenses",
+"Income Taxes": "Income taxes (-)",
+"Net Income": "Net income"
+},
+"Multiple Step Income Statement": {
+"Revenue": "Revenue (+)",
+"Cost of Goods Sold": "Cost of Goods Sold (-)",
+"Gross Profit": "Gross Profit",
+"Selling, General & Administrative": "Selling, General & Administrative (-)",
+"Operating Income": "Operating income",
+"Gains": "Gains (+)",
+"Losses": "Losses (-)",
+"Other Expenses": "Other Expenses (-)",
+"Pre-tax Income": "Pre-tax income",
+"Income Taxes": "Income taxes (-)",
+"Net Income": "Net income"
+}
+}
+```
+
+Revenue (2018): 24,544,049
+Revenue (2019): 28,412,414
+Cost of sales (2018): (15,421,144)
+Cost of sales (2019): (17,878,208)
+Gross Profit (2018): 9,122,905
+Gross Profit (2019): 10,534,206
+Other operating income (2018): 92,157
+Other operating income (2019): 288,656
+Selling and distribution expenses (2018): (5,412,601)
+Selling and distribution expenses (2019): (6,124,947)
+Administration expenses (2018): (956,683)
+Administration expenses (2019): (1,097,978)
+Operating Profit (2018): 2,845,778
+Operating Profit (2019): 3,599,937
+Finance income (2018): 130,837
+Finance income (2019): 119,218
+Finance costs (2018): (211,411)
+Finance costs (2019): (230,205)
+Share of results of associates (2019): 7,792
+Profit before Taxation (2018): 2,765,204
+Profit before Taxation (2019): 3,496,742
+Taxation (2018): (513,834)
+Taxation (2019): (567,420)
+Profit for the year from continuing operations (2018): 2,251,370
+Profit for the year from continuing operations (2019): 2,929,322
+Profit from discontinued operations (2018): 41,555
+Net Profit (2018): 2,292,925
+Net Profit (2019): 2,929,322
+Exchange differences on translation of foreign subsidiary (2018): 26,853
+Exchange differences on translation of foreign subsidiary (2019): (1,038)
+Unrealised gains on investment securities (2018): 3,728
+Unrealised gains on investment securities (2019): 10,886
+Total Comprehensive Income (2018): 2,323,506
+Total Comprehensive Income (2019): 2,939,170
+Net Profit attributable to Stockholders of Wisynco Group Limited (2018): 2,292,961
+Net Profit attributable to Stockholders of Wisynco Group Limited (2019): 2,929,322
+Net Profit attributable to Non-controlling interest (2018): (36)
+Total Comprehensive Income attributable to Stockholders of Wisynco Group Limited (2018): 2,323,542
+Total Comprehensive Income attributable to Stockholders of Wisynco Group Limited (2019): 2,939,170
+Total Comprehensive Income attributable to Non-controlling interest (2018): (36)
+Earnings Per Stock Unit from continuing operations (2018): 0.61
+Earnings Per Stock Unit from continuing operations (2019): 0.78
+Earnings Per Stock Unit from discontinued operations (2018): 0.01
+Earnings Per Stock Unit (2018): 0.62
+Earnings Per Stock Unit (2019): 0.78
+
+Cost of goods sold or Cost of sales:
+- Direct Materials (e.g. materials used in manufacturing)
+- Direct Labor (e.g. professional services delivered)
+- Direct overhead (to the production of the goods or services)
+
+Selling, general and administrative expenses (SG&A):
+- Advertising and promotion cost
+- Legal, Insurance and accounting expenses
+- Office supplies
+- Other related expenses
+
+Sale of Investments
+Foreign exchange translations
+Financial Instrument transactions
+
+
+Cashflow statement
+
+- **Operating:** Revenues and expenses that have been collected and paid during the year. Depreciation and amortisation are not included.
+- **Investing:** Non-current assets that support the business: Property, plant and equipment, Business acquisitions.
+- **Financing:** Transactions regarding shares or debt. Company raises funds by either borrowing or issuing shares.
+
+Statement of Cash Flows:
+Transactions sorted by activity type:
+- Operating
+- Investing
+- Financing
+Cash Flow:
+- Opening cash balance
+- All cash transactions
+- Closing cash balance
+
+Direct Method:
+Operating activities:
+- Cash collected from customers
+- Cash paid to suppliers
+- Cash paid to employees
+Investing activities:
+- Purchase of equipment
+- Disposal of property
+Financing activities:
+- Issuance of shares
+- Repayment of debt
+Net movement in cash
+
+Indirect Method:
+Operating activities:
+- Net income
+- Add back depreciation and amortization
+- Adjust change in working capital balances
+Investing activities:
+- Purchase of equipment
+- Disposal of property
+Financing activities:
+- Issuance of shares
+- Repayment of debt
+Net movement in cash
+
+
+Assets (J$'000):
+    Current Assets (2018):
+        Inventories: 2,199,273
+        Receivables and prepayments: 2,302,693
+        Investment securities: 269,530
+        Cash and short-term deposits: 3,968,075
+    Current Assets (2019):
+        Inventories: 3,225,686
+        Receivables and prepayments: 2,585,519
+        Investment securities: 130,385
+        Cash and short-term deposits: 3,974,545
+    Total Current Assets (2018): 8,739,571
+    Total Current Assets (2019): 9,916,135
+    Non-Current Assets (2018):
+        Property, plant and equipment: 6,775,727
+        Investment securities: 215,760
+    Non-Current Assets (2019):
+        Property, plant and equipment: 6,724,278
+        Investment in associates: 593,961
+        Loans receivable: 165,545
+        Investment securities: 379,060
+    Total Non-Current Assets (2018): 6,991,487
+    Total Non-Current Assets (2019): 7,862,844
+    Total Assets (2018): 15,731,058
+    Total Assets (2019): 17,778,979
+
+Liabilities (J$'000):
+    Current Liabilities (2018):
+        Trade and other payables: 3,873,904
+        Short-term borrowings: 376,686
+        Taxation payable: 362,940
+    Current Liabilities (2019):
+        Trade and other payables: 3,336,064
+        Short-term borrowings: 485,724
+        Taxation payable: 444,969
+    Total Current Liabilities (2018): 4,613,530
+    Total Current Liabilities (2019): 4,266,757
+    Non-Current Liabilities (2018):
+        Deferred tax liabilities: 257,430
+        Borrowings: 2,169,937
+    Non-Current Liabilities (2019):
+        Deferred tax liabilities: 213,511
+        Borrowings: 2,213,130
+    Total Non-Current Liabilities (2018): 2,427,367
+    Total Non-Current Liabilities (2019): 2,426,641
+    Total Liabilities (2018): 7,040,897
+    Total Liabilities (2019): 6,693,398
+
+Equity (J$'000):
+    Capital and reserves attributable to the company's equity holders (2018):
+        Share capital: 1,192,647
+        Capital reserve: 119,946
+        Translation reserve: 30,086
+        Retained earnings: 7,347,482
+    Capital and reserves attributable to the company's equity holders (2019):
+        Share capital: 1,192,647
+        Capital reserve: 130,832
+        Translation reserve: 29,048
+        Retained earnings: 9,733,054
+    Total Equity (2018): 8,690,161
+    Total Equity (2019): 11,085,581
+    Total Liabilities and Equity (2018): 15,731,058
+    Total Liabilities and Equity (2019): 17,778,979
+
+
+- Net Profit margin
+- Return on assets (ROA)
+- Return on equity (ROE)
+- Return on capital employed (ROCE)
+- Gross margin ratios
+- Current ratio = Current assets/Current liabilities
+- Leverage or Gearing
+- Operating cash flow/Interest paid
+- Operating cash flow/Dividends paid
+- Operating cash flow/Operating profit
+- Dividend yield
+- P/E ratio
+- Earnings per share (EPS)
+- Dividend payout ratio
+
+
+
+
+
