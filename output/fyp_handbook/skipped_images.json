@@ -1,0 +1,17 @@
+[
+    {
+        "index": 2,
+        "image_id": "img-1.jpeg",
+        "image_path": "processed_images/img-1.jpeg.jpg"
+    },
+    {
+        "index": 8,
+        "image_id": "img-7.jpeg",
+        "image_path": "processed_images/img-7.jpeg.jpg"
+    },
+    {
+        "index": 9,
+        "image_id": "img-8.jpeg",
+        "image_path": "processed_images/img-8.jpeg.jpg"
+    }
+]

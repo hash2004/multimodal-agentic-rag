@@ -1,0 +1,105 @@
+{
+    "img-0.jpeg": {
+        "file_name": "img-0.jpeg",
+        "topics": [
+            "National University of Computer and Emerging Sciences",
+            "NU"
+        ],
+        "languages": "English, Arabic",
+        "ocr_contents": {
+            "text": "NATIONAL UNIVERSITY OF COMPUTER AND EMERGING SCIENCES",
+            "arabic_text": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0648\u0637\u0646\u064a\u0629"
+        },
+        "image_path": "processed_images/img-0.jpeg.jpg"
+    },
+    "img-1.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-1.jpeg.jpg"
+    },
+    "img-2.jpeg": {
+        "file_name": "ocr_output.png",
+        "topics": [
+            "National Symbols",
+            "Emblem",
+            "Coat of Arms"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "text": "This is the image's OCR in markdown:",
+            "details": {
+                "line1": "NATIONAL EMBLEM",
+                "line2": "The National Emblem of the country is a symbol of national identity and pride.",
+                "line3": "It consists of a shield with various symbols representing the country's heritage and values.",
+                "line4": "Above the shield is a scroll with the national motto.",
+                "line5": "Surrounding the shield are other national symbols, including a palm tree and a crescent moon."
+            }
+        },
+        "image_path": "processed_images/img-2.jpeg.jpg"
+    },
+    "img-3.jpeg": {
+        "file_name": "national_environmental_conservation_logo.png",
+        "topics": [
+            "National Environmental Conservation",
+            "Environmental Protection",
+            "Conservation",
+            "Sustainability"
+        ],
+        "languages": "Arabic",
+        "ocr_contents": {
+            "text": "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u062d\u0641\u0638 \u0627\u0644\u0628\u064a\u0626\u0629",
+            "translation": "National Environmental Conservation Authority"
+        },
+        "image_path": "processed_images/img-3.jpeg.jpg"
+    },
+    "img-4.jpeg": {
+        "file_name": "national_environmental_conservation_logo.png",
+        "topics": [
+            "National Environmental Conservation",
+            "Environmental Protection",
+            "Conservation",
+            "Sustainability"
+        ],
+        "languages": "Arabic",
+        "ocr_contents": {
+            "text": "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u062d\u0641\u0638 \u0627\u0644\u0628\u064a\u0626\u0629",
+            "translation": "National Environmental Conservation Authority"
+        },
+        "image_path": "processed_images/img-4.jpeg.jpg"
+    },
+    "img-5.jpeg": {
+        "file_name": "image.png",
+        "topics": [
+            "Optical Character Recognition",
+            "Markdown",
+            "JSON"
+        ],
+        "languages": "English",
+        "ocr_contents": {
+            "title": "This is the image's OCR in markdown:",
+            "content": "."
+        },
+        "image_path": "processed_images/img-5.jpeg.jpg"
+    },
+    "img-6.jpeg": {
+        "file_name": "image.png",
+        "topics": [
+            "Arabic University",
+            "Education",
+            "Institution"
+        ],
+        "languages": "Arabic",
+        "ocr_contents": {
+            "text": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
+            "translation": "Arabian University for Science and Technology"
+        },
+        "image_path": "processed_images/img-6.jpeg.jpg"
+    },
+    "img-7.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-7.jpeg.jpg"
+    },
+    "img-8.jpeg": {
+        "error": "API error occurred: Status 429\n{\"message\":\"Requests rate limit exceeded\"}",
+        "image_path": "processed_images/img-8.jpeg.jpg"
+    }
+}

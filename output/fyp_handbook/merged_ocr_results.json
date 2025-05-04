@@ -1,0 +1,679 @@
+{
+    "pages": [
+        {
+            "index": 0,
+            "markdown": "# BS FINAL YEAR PROJECT HANDBOOK 2023 (FAST SCHOOL OF COMPUTING) \n\nChiniot-Faisalabad-Islamabad-Karachi-Lahore-Peshawar www.nu.edu.pk",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 1,
+            "markdown": "# NATIONAL UNIVERSITY of Computer and Emerging Sciences \n\n## BS FINAL YEAR PROJECT HANDBOOK 2023 <br> (FAST SCHOOL OF COMPUTING)\n\nRevised October 2023\n\n![img-0.jpeg](img-0.jpeg)\n\nRevised by:\nDr. Jawwad Ahmed Shamsi\nDr. Kashif Munir\n\nApproved by:\nDr. Aftab Ahmad Maroof\nDr. Waseem Ikram",
+            "images": [
+                {
+                    "id": "img-0.jpeg",
+                    "topics": [
+                        "National University of Computer and Emerging Sciences",
+                        "NU"
+                    ],
+                    "ocr_contents": {
+                        "text": "NATIONAL UNIVERSITY OF COMPUTER AND EMERGING SCIENCES",
+                        "arabic_text": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0648\u0637\u0646\u064a\u0629"
+                    }
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 2,
+            "markdown": "\n",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 3,
+            "markdown": "# Table of Contents \n\nPreface ..... 02\nAcknowledgments ..... 03\n\n1. Glossary ..... 04\n2. The Role of FYP Coordinators ..... 05\n3. The Role of a Supervisor ..... 12\n4. Final Year Project Offering ..... 13\n5. The Process ..... 14\n5.1 An Agile and Iterative FYP Process ..... 14\n5.2 FYP Iteration ..... 14\n6. Evaluation ..... 29\n7. Guidelines for the Preparation of FYP Poster ..... 32\n8. Guidelines for FYP Report Format ..... 33\n9. FYP Report Contents ..... 41\n10. FYP Forms ..... 44",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 4,
+            "markdown": "# Preface \n\nThe National University of Computer and Emerging Sciences (FAST-NU) is a pioneer of computing education in the country. The University aspires to promote research and development. The aim is to produce skilled graduates who are knowledge, well- trained, confident, and fully equipped with all necessary skills to address the emerging needs of the industry, at the national level as well as the international level. The students are expected to meet these goals through their enthusiasm, intelligence, commitment, and tireless efforts.\n\nThe Final Year Project (FYP) provides an excellent opportunity to each student in acquiring state of the art knowledge and applying it in the various fields of computing. The FYP plays a significant role in the accomplishment of overall objectives of excellence in undergraduate studies. It also provides a great opportunity for team building. This handbook provides important guidelines and rules and regulations for the twosemester duration of the FYP. Students are expected to follow these guidelines to achieve the overall goal of academic excellence.\n\nIt is envisioned that the students of FAST-NU will be the leaders of the research and development activities in the field of computing and achieve high accolades. The University team, the management, the faculty, and staff will always be available to provide support and guidance to the students in this context.\n\nMay God give us guidance and prosperity!\n\nDr Jawwad Ahmed Shamsi\nDean (Faculty of Computing)",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 5,
+            "markdown": "# Acknowledgements \n\nEfforts and contributions from Islamabad campus faculty members namely, Dr. Aftab A. Maroof, Dr. Rauf Baig, Dr. Arshad A. Shahid, Dr. Kashif Munir, Dr. Umar Manzoor, Dr. Naveed Ejaz, Mr. Ikram ul Haq. Dr. Uzair Khan, Dr. Atif Jilani, Ms. Saba Rasheed, Dr. Amna Basharat, Mr. Hassan Mustafa, and Dr. Shujaat Hussain for preparing the first version of the FYP handbook are remarkable.\n\nA Committee headed by Dr. Kashif Munir and comprising of FYP Coordinators of Computing Departments across all campuses discussed and finalized the handbook. Ms Sameera Sultan from Karachi campus has contributed in reviewing this handbook.\n\nThe University Management is thankful to all the faculty members in providing their valuable contribution.\n\nDr Jawwad Ahmed Shamsi\nDean (Faculty of Computing)\nOctober 2023",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 6,
+            "markdown": "# 1. Glossary \n\nFYP - BS Final Year Project\nStudent - A student registered for an FYP at NUCES\nFYP Group - A group of students formed as a team to work on an FYP\nFaculty-Permanent Computing faculty at NUCES\nSupervisor-A person responsible for the supervision of an FYP Group. S/he is a NUCES Faculty member.\nFaculty Panel - A subset of Faculty responsible for the evaluation of an FYP. External experts of the relevant area can also be included.\nPanel Head - A member of Faculty Panel responsible for the supervision of the panel examination\nFYP Committee - A committee of Faculty responsible for executing the FYP process\nFYP Coordinators - Responsible for managing FYP registrations, evaluations, and results",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 7,
+            "markdown": "# 2. The Role of FYP Coordinators \n\nFor the smooth conduct of the FYP process, the FYP coordinators carry out all the underlying supporting activities and provide the basic working platform for the execution of the FYPs.\nThe FYP committee works on different activities throughout an FYP lifecycle. Following is the detailed description of the roles and responsibilities of the FYP committee at different stages of the FYP process.\n\n## Step 1: Registration of FYP-1 Groups\n\nThe eligible students have to form FYP groups. A student who has completed 100 credit hours is eligible to register in FYP-1. As per current policy, an FYP group must consist of either 2 or 3 members. A group size of 3 members is preferable. More than 3 members and an individual student are not allowed to register in an FYP. The registration of an FYP group requires the students in the group to provide the following information to an FYP coordinator:\ni. FYP title and a brief description of the FYP (1 or 2 paragraphs)\nii. FYP type (Development or R\\&D)\niii. Name of the Supervisor\niv. Information of the group members (names, roll numbers, CGPAs)\nv. Any special hardware requirements\nvi. UN SDG(s) targeted by the FYP\nvii. Mapping of the algorithms and technologies from core courses used in the FYP\nviii. Proof of registration on Flex (Print out from Flex)\n\nThe information is provided to an FYP coordinator using the FYP group registration form, which must be duly signed by the supervisor. The submitted forms are then processed by the FYP coordinators. They check the eligibility of the FYP-1 students",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 8,
+            "markdown": "and the projects. A list of registered FYP-1's is produced by the end of the second week of a semester.\nNote: The registration of an FYP group with the FYP coordinators is different from registering the FYP as a course on Flex. All students starting their FYPs must register first on Flex. In case an FYP is not registered on Flex, the student is debarred from registering his/her FYP with the FYP coordinators.\n\n# Step 2: FYP Proposal Defense \n\nAll members of an FYP group must appear before a faculty panel to present their FYP proposal. The FYP coordinators provide the format and duration of the presentations. For organizing the FYP proposal defense, the FYP coordinators perform the following tasks.\ni. Formation of the faculty panels (on the basis of uniform distribution of the faculty expertise)\nii. Sharing the evaluation policy and guidelines with the students and faculty\niii. Scheduling of the FYP presentations\niv. Processing of the submitted forms and preparation of results\nv. Providing faculty feedback to the FYP groups and supervisors\nvi. Re-evaluation of the rejected FYPs (with new/revised ideas and same/new supervisors/groups)\n\n## Step 3: FYP-1 Mid-term Evaluation\n\nFYP groups submit the mid semester FYP-1 report (in soft form) to the FYP committee and deliver a presentation along with the demonstration of the work in front of faculty panels as scheduled by the FYP coordinators. The development process of the FYPs follows iterative model. The FYP coordinators communicate the required deliverables of this presentation to the students.\nFor this evaluation, the FYP coordinators are responsible for the following sequence of activities:",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 9,
+            "markdown": "i. Design and circulation of the presentation template and the evaluation guidelines to faculty and students;\nii. Formation of the faculty panels;\niii. Scheduling of the presentations;\niv. Processing of the submitted forms and the preparation of results; and\nv. Sharing the faculty feedback to groups and supervisors.\n\n# Step 4: FYP Poster Evaluation \n\nThe FYP groups are required to create posters of their FYPs. The FYP coordinators are responsible for the following activities:\ni. Collection of Posters from the FYP groups and verification of poster formats (manually done for every FYP group). The posters are accepted only after the approval from the supervisors;\nii. Printing of the posters and their display in university (coordination with the university printer);\niii. Evaluation of the Posters;\niv. Processing of the submitted forms and preparation of results; and\nv. Dissemination of the faculty feedback to groups and supervisors.\nNote: Poster evaluation may be merged (held in parallel) with the Mid-term evaluation.\n\n## Step 5: Final FYP-1 Evaluation\n\nThe FYP groups present the work completed as part of FYP-1. The FYP-1 report is submitted to the FYP committee in soft form after the approval of the supervisors. The faculty panels grade the reports along with the presentation. The FYP report that is not approved by the supervisor may be rejected.\nThe FYP coordinators are responsible for:\ni. Circulation of the presentation template and the evaluation guidelines to faculty and students;",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 10,
+            "markdown": "ii. Formation of the faculty panels;\niii. Scheduling of the presentations;\niv. Verification and vetting of the FYP reports;\nv. Processing of the submitted forms and the preparation of results;\nvi. Dissemination of the faculty feedback to groups and supervisors; and\nvii. Preparation of the results (by applying an anomaly removal mechanism).\n\n# Step 6: Preparation of FYP-1 Grade \n\nThe FYP coordinators prepare the FYP-1 result. Every submission is verified and accepted only after the approval of the supervisor. For grading, the standard university policy is followed. As per current policy, the minimum passing marks for an FYP student are $\\mathbf{5 0 \\%}$. In case of substantial difference of group members' performance reported/ verified by the FYP Supervisor, group members will be assigned grades based on their individual performances.\n\n## Step 7: Execution of FYP-2\n\nFYP-2 is centered on the \"job fair\" (previously called OpenHouse), where companies are invited to view the FYPs and to hold the interviews. The samples of the forms used for FYP-2 are given in the forms section. The FYP handbook contains the tasks to be completed by the students before the job fair evaluation.\n\n## Step 8-a: Pre-Job Fair Evaluation (FYP-2 Midterm Evaluation)\n\nA purpose of the pre-job fair evaluation is to determine whether the projects are ready to be presented to the industry professionals. The pre-job fair evaluation is held in the $7^{\\text {th }}$ week of FYP-2. Only the projects that clear the pre-job fair evaluation (or re-evaluation) are allowed to participate in the job fair.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 11,
+            "markdown": "Projects that fail to appear in the job fair are penalized (up to 30\\% of FYP-2 marks).\n\nThe FYP Coordinators are responsible for:\ni. Circulation of the presentation template and the evaluation guidelines to faculty and students;\nii. Formation of the faculty panels;\niii. Scheduling of the presentations;\niv. Approval of FYPs for appearing in the job fair; and\nv. Managing the project displays in the job fair.\n\n# Step 8-b: Re-Evaluation of Rejected Projects \n\nFull faculty panel (or multiple panels) evaluates the rejected FYPs for the final decision on acceptance/rejection of the FYPs for the job fair.\n\n## Step 9: Managing the Job Fair\n\nThe job fair is usually held around $12^{\\text {th }}-14^{\\text {th }}$ week of FYP-2. All FYPs that pass pre-job fair evaluation(s) appear in the job fair. The FYP coordinators are responsible for the display of FYPs on the day of the job fair and the overall management of the event. The FYP committee coordinates with the faculty member(s) responsible for the industrial liaison for inviting companies to the job fair. It provides an important opportunity for the graduating students to appear before the prospective employers. A large number of companies conduct interviews in the job fair.\n\nThe FYP coordinators are responsible for:\ni. Finalizing the list of invited companies in coordination with the placement office;\nii. Printing of updated FYP-2 posters (in coordination with the Printer);\niii. Allocation/organization of FYP slots for job fair. Preparation of the event room/hall; and\niv. Floor coordination to ensure smooth running of the job fair.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 12,
+            "markdown": "# Step 10: Final FYP-2 Evaluation \n\nThe final FYP-2 evaluations are held in the $15^{\\text {th }}$ week of the semester. The evaluations are conducted by the faculty panels. The FYP reports (submitted in soft form) are checked for plagiarism and then evaluated by the faculty panels along with the demonstration of the projects.\n\nThe FYP coordinators are responsible for:\ni. Circulation of the presentation template and the evaluation guidelines to faculty and students;\nii. Formation of the faculty panels;\niii. Scheduling of the presentations;\niv. Verification and vetting of the FYP reports;\nv. Processing of the submitted forms and the preparation of results;\nvi. Dissemination of the faculty feedback to FYP groups supervisors; and\nvii. Preparation of the results (by applying an anomaly removal mechanism).\n\n## Step 11: Final Deliverables and the Release of Grades\n\nThe FYP grades are released only upon receiving the final FYP report (in soft form) and other required documents (also in soft form). All reports must pass the plagiarism check specified by the university. The Reports are accepted only after the approval of the supervisors. In case of substantial difference of group members' performance reported/ verified by the FYP Supervisor, group members will be assigned grades based on their individual performances. The FYP coordinators are responsible for:\ni. Processing of FYP-2 evaluations and grading;\nii. Receiving of FYP-2 reports;\niii. Vetting of FYP-2 reports; and\niv. Release of the grades based on the verification of the final deliverables.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 13,
+            "markdown": "In addition to the above-mentioned responsibilities, FYP coordinators also oversee the issues related to FYP lab (allocation of resources, resolving student complaints etc.). Similarly, the coordinators are also involved in any FYP-related purchase and act as the interface between the faculty and the IT department.\n\nIn summary, throughout FYP-1 and FYP-2, the FYP coordinators are responsible for:\ni. Registration and maintenance of the records of FYP groups;\nii. Setting of the FYP evaluation policies;\niii. Scheduling and execution of the FYP evaluations;\niv. Processing of the evaluation forms and the preparation of results;\nv. Conflict resolution among faculty members;\nvi. Dissemination of the results and the faculty feedback;\nvii. Verification of the FYP reports;\nviii.Coordination of the equipment purchase for FYPs; and\nix. Overseeing the FYP lab.\n\nThe scope of the FYP committee does not cover:\n\n1. Routine activities of monitoring and guiding the FYP groups (as it is a job of a supervisor). Similarly, the supervisors are responsible for tracking the weekly progress of the FYPs (on the prescribed forms);\n2. Tracking of student attendance. This is a job of supervisors. Supervisors maintain the record of all meetings with students and provide the record to FYP coordinators at the end of a semester; and\n3. Providing support such as computing and other facilities and monitoring student activities in the campus/labs. These are the jobs of the Labs and the department management.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 14,
+            "markdown": "# 3. The Role of a Supervisor \n\nThe role of a supervisor consists of:\n\n1. Defining the scope of the project;\n2. Guiding the students about the technical issues related to the project;\n3. Monitoring the group's progress and assigning work to smoothly carry out the project;\n4. Making sure that the students regularly work on their project. A Supervisor should keep track of the weekly tasks completed by every student. This attendance/task allocation list should be submitted to the FYP coordinators at the end of a semester;\n5. Making sure that all the deadlines set by the FYP Committee are met on time;\n6. Reporting the non-functioning of a team to the FYP Committee, so that a timely action is taken to avoid the unnecessary wastage of time. Students can be referred to the Head, FAST School of Computing for debarring from an FYP in case of failure to meet minimum attendance criteria. An FYP group is required to visit its supervisor for an FYP meeting at least once in a week;\n7. Taking necessary action if an FYP group is not focusing on its work and rather it is spending most of the time on non-productive activities like playing games in the labs; and\n8. Training students for team work, professional ethics, and presentations, etc. In particular, an FYP supervisor is responsible for ensuring that his/her group follows the iterative approach for the FYP.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 15,
+            "markdown": "# 4. Final Year Project Offering \n\nThe Final Year Project (FYP) is a compulsory requirement at undergraduate level. The students register in FYP-1 in $7^{\\text {th }}$ semester and on successfully completing FYP-1, they register in FYP-2 in $8^{\\text {th }}$ semester. The overall quality of the finished FYPs is a good representative of the quality of education imparted at the department. To ensure high quality FYPs, a rigorous process is followed at NUCES.\nFYP ideas can be given by the faculty, the students, or experts from the industry. The faculty should offer the FYPs ideas well before the start of a semester. An FYP idea can be floated as onepage description in the following format:\n\n1. Title of the project\n2. Expected level of difficulty/effort involved\n3. General narrative description of the idea/tasks - one or two paragraphs\n4. References to a few resources such as books, bookchapters, papers, articles, technical reports, earlier project reports etc.\n5. A list of expected deliverables or outcomes (if possible)\n6. Any prerequisites or coursework for the project\n7. Any special hardware requirement\n\nThese one-page descriptions are available for students to review. If they are interested in a certain project, they need to study the referred materials and seek appointment from the concerned faculty. The supervisor and the students can then agree to carry out the project. The FYP Committee should approve the FYP proposals after the FYP proposal defense, as per recommendations of the panel(s).",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 16,
+            "markdown": "# 5. The Process \n\nThe students are required to register in the FYP-1 as a course on Flex. Once the students are registered on Flex, they become part of the FYP-1 process.\n\n### 5.1 An Agile and Iterative FYP Process\n\nThe main goal is to move away from the lengthy requirements and the design process and adopt a more balanced approach, especially as there is no implementation in FYP-1. The students are required to perform the complete cycles of requirements to analysis and design followed by the implementation in both FYP-1 and FYP-2. FYP-1 and FYP-2 are divided into iterations.\n\n### 5.2 FYP Iteration\n\nIteration is a unit of work. FYP-1 and FYP-2 are now composed of a number of iterations. The size and duration of an iteration are to be decided by the project supervisors.\n\nIn case of a development project, in every iteration, students pick a few use cases, expand and design them, followed by the implementation, before moving on to the next set of use cases. Students may use proxies and stubs where needed (for use case dependency). For every iteration, an FYP group should follow the standard analysis and design approach studied in the course work. Every iteration should result in a working product that can be demonstrated.\n\nIn case of an R\\&D-based project, in the first iteration, an FYP group designs the proposed mechanism/ heuristic/ algorithm/ protocol/ mathematical-model, etc. and in the remaining iterations, the group implements a part of the proposed mechanism/ heuristic/ algorithm/ protocol/ mathematicalmodel, etc. Excluding the first iteration, every remaining iteration should result in a working code that can be demonstrated.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 17,
+            "markdown": "Students should ideally complete 1-2 iterations in FYP-1 (all combining for around $45 \\%$ of the Project work). Remaining iterations are completed in FYP-2, thus completing the FYP project.\n\nA sample execution of FYP-1 is given in Table 1a. FYP-2 follows the same pattern as given in Table 1b.\n\nTable 1a: FYP-1\n\n| S. \\# | Deliverable/ <br> Evaluation | Week \\# | Deliverable/ Presentation |\n| :--: | :--: | :--: | :-- |\n| 1 | FYP <br> Proposal <br> Defense | 2 | Proposal Defense |\n| 2 | FYP poster <br> submission | 7 | Submission of Poster on <br> SLATE |\n| 3 | FYP Poster <br> Evaluation | 8 | Posters are displayed in <br> public area and are <br> evaluated (can be done at <br> the time of midterm <br> evaluation) |\n| 4 | Midterm <br> Evaluation | 8 | FYP Report (version 1.0) <br> Development Project <br> Project Vision <br> Research on related/ <br> existing products <br> Use Cases/ Use Case <br> Diagram, SSD, SRS, <br> Test Plan (Test Level, <br> Testing Techniques), <br> Software Development <br> Plan, Wireframes, UI |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 18,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| S. \\# | Deliverable/ Evaluation | Week \\# | Deliverable/ Presentation |\n| :--: | :--: | :--: | :--: |\n| 4 | Midterm <br> Evaluation | 8 | FYP Report (version 1.0) <br> Development Project <br> Project Vision <br> Research on related/ existing products <br> Use Cases/ Use Case <br> Diagram, SSD, SRS, <br> Test Plan (Test Level, <br> Testing Techniques), <br> Software Development <br> Plan, Wireframes, UI <br> Screens <br> Iteration - 1 <br> Design Phase (Select the design that is appropriate for your project): <br> Structure Design: <br> Domain Model/ Class <br> Diagram, <br> Component Diagram <br> Layer Diagram <br> Structure Chart <br> Behavior Design: <br> Flow Diagram, Data <br> Flow Diagram <br> (DFD), Data <br> Dictionary, Activity <br> Diagram, Network <br> Automata/ <br> Graphs or State <br> Machine, Call Graph <br> or Sequence Diagram, |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 19,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| S. \\# | Deliverable/ Evaluation | Week \\# | Deliverable/ Presentation |\n| :--: | :--: | :--: | :--: |\n|  |  |  | Interaction <br> Overview Diagram <br> For DB Representation: <br> Schema Design/ ER <br> Diagram <br> Data Structure Design <br> Algorithm Design <br> Development Phase: <br> Comments, Naming <br> Conventions, <br> Static Analysis of <br> Code, etc., Unit Test <br> Suites or Test Cases <br> Maintenance Phase: <br> $\\mathrm{Cl} / \\mathrm{CD}$ <br> Deployment Diagram <br> System-Level Test Suites, <br> Test <br> Cases (Validation and <br> Testing) <br> SVN or GitHub <br> Configuration/ Setup and <br> Tool Manual <br> Working Code + <br> Demonstration (for this <br> iteration) <br> R\\&D-Based Project <br> Introduction (of the <br> problem domain and the <br> research problem) <br> Literature Survey (of at <br> least 5 most relevant |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 20,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| S. \\# | Deliverable/ Evaluation | Week \\# | Deliverable/ Presentation |\n| :--: | :--: | :--: | :--: |\n|  |  |  | research items approved by the Supervisor) <br> SRS (if applicable) Iteration - 1 Design of the proposed approach (framework/ heuristic/ algorithm/ protocol/ mathematicalmodel etc.). The approach is proposed either by a Supervisor or by the group (in consultation with the supervisor) |\n| 5 | Final FYP-1 <br> Evaluation | 15 | FYP Report (version 2.0) (with corrections) <br> Adding <br> Subsequent iterations (after the $1^{\\text {st }}$ iteration) <br> Development project <br> Working Code + <br> Demonstration <br> R\\&D-based Project <br> Working code to demonstrate the implementation of a part of the proposed solution. |\n\nAny number of re-evaluations may be scheduled by the FYP Coordinator(s) as per the recommendations of the panel(s).",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 21,
+            "markdown": "Table 1b: FYP-2\n\n| S. \\# | Deliverable/ Evaluation | Week \\# | Deliverable/ Presentation |\n| :--: | :--: | :--: | :--: |\n| 1 | FYP Pre Job Fair Evaluation | 7 | Submission of the updated posters. <br> Preparation of the demos (development FYPs). <br> Preliminary results graphs/tables and the detailed discussion of the results (R\\&D-based FYPs). Submission of the updated Report. |\n| 2 | FYP Pre Job Fair (Reevaluation) | 9 | Re-evaluation of FYPs that fail first evaluation |\n| 3 | Job Fair | $12-14$ | FYP Projects are displayed to industry professionals. Students prepare and submit their CVs, FYP descriptions, pictures, and posters to be included in the Graduate Directory. |\n| 4 | Final FYP-2 <br> Evaluation | 15 | Complete FYP Report duly signed by the Supervisor adding: <br> Development FYP <br> Package \\& Deployment <br> Diagrams <br> SVN or GitHub <br> Google Play (for <br> Android-based Mobile <br> Applications) |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 22,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| S. \\# | Deliverable/ Evaluation | Week \\# | Deliverable/ Presentation |\n| :--: | :--: | :--: | :--: |\n|  |  |  | Configuration/ Setup and Tool Manual Any other artifact deemed suitable by Supervisor <br> Working Code + Demonstration R\\&D-based FYP <br> Complete Results (Graphs/Tables), the detailed discussion of results, and conclusions Validation and Testing Working Code |\n| 5 | FYP-2 Final Deliverables Submission | 17 | FYP report, FYP presentation, all codes, poster, any other documents etc. <br> The report must be approved by the supervisor |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 23,
+            "markdown": "# FYP-1 Process \n\n## Step 1: Registration of FYP-1 Groups\n\nDuring the semester break, faculty floats the proposals for the FYP through FYP coordinators. Students can also propose a project of their own, but faculty should formally approve the project. The students who are completing their degree in the next semester are eligible to register in FYP-1. This means that a student must have completed 100 credit hours prior to the registration. The Head, FAST School of Computing, can allow relaxation of 1 course. Additional relaxation of a second course may be allowed by the campus Director.\n\nA supervisor must be a full time faculty member and may be assisted by an external supervisor. The students who are taking FYP from an industry/ outside are required to have an internal supervisor from the faculty and they need to submit a three page (maximum) FYP proposal (whose requirements have been mentioned above) to the internal supervisor. An R\\&D-based FYP must include substantial programming effort.\n\nOnce an FYP is registered, no change in FYP, group, or supervisor is allowed without the approval of the FYP committee. A sample registration form is attached in the forms section.\n\n## Step 2: FYP Proposal Defense\n\nThe FYP-1 proposal defense is held within the first 2 weeks of the start of a semester and is used for vetting an FYP idea. All groups are allocated presentation times and they must appear to present their FYP proposals. The FYP coordinators provide the format and duration of the presentations. The FYP coordinators may create \"Faculty Panels\" to evaluate the FYPs.\n\nThe faculty panels make decisions related to the approval, reevaluation, or rejection of the FYPs. The FYP groups may be asked to modify their FYP scope, etc. In extreme case, a faculty",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 24,
+            "markdown": "panel may even reject an FYP idea, requiring the students to reregister in another FYP.\n\nThe FYP coordinators are responsible for gathering all the evaluation forms and preparing the results. For every group, the feedback provided by the faculty panel is shared with the groups and their supervisors. To preserve confidentiality, the comments are separately compiled and are forwarded without the names of the evaluators.\n\nThe steps 1 and 2 must be completed in the first 2 weeks of the semester. At the end of the $2^{\\text {nd }}$ week, the FYP coordinators circulate the list of approved projects. Every project is assigned to a faculty panel.\n\nThe approved projects are then assigned resources in the FYP lab. The FYP coordinators and the IT manager collectively oversee this allocation.\n\nNote: Requirements for any additional hardware or software must be clearly indicated to the FYP committee. An application duly approved by the supervisor must be submitted, containing the information such as availability and cost of the hardware/ software resource. Please note that the campus is not obliged to provide the required hardware/ software resource and such requests are considered on a case-to-case basis.\n\n# Step 3: FYP-1 Mid-Term Evaluation \n\nThe midterm evaluation is scheduled in the $8^{\\text {th }}$ week of a semester. The prime motivation behind this evaluation is to track the progress of the students and guide them in completing the remaining milestones. Hence, the primary focus of this evaluation is on the requirements and the design phase of FYP-1. FYP groups are required to submit the midterm report in soft form.\n\nIt is important to note that the number of use cases is not a measure for the quality of a project. The groups have to write as many use cases as possible to properly document the",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 25,
+            "markdown": "requirements. For a development FYP that lacks user interactions, this number may be quite low. However, if the students have only 2-4 use cases (which is the case with some development FYPs), they should be prepared to explain what they have been spending their time on. Perhaps, they have done some implementation, studied some new algorithms, made comparisons, etc. In case of the development FYPs, the groups should have a working code to demonstrate the implemented iteration.\n\nIn case of the report of an R\\&D-based project, the students have to focus more on the introduction of the problem domain and the research problem along with the related work of at least 5 most relevant research items (book chapters, technical reports, conference or journal papers, magazine articles etc.). The research items must be chosen with the approval of the supervisor. The FYP group can include the works that are either completed or in progress in the selected area. It is considered important that the FYP group should clearly describe the comparison of the proposed approach (framework/ heuristic/ algorithm/ protocol/ mathematical-model) with the related works as well as the limitations of the proposed approach. The group can either devise the approach under the guidance of the supervisor or the approach may entirely be given by the supervisor. In both cases, the FYP group should include the approach in the report that is submitted for the midterm evaluation.\n\nFor the evaluations, every group is given around 10 minutes for the presentation. The students are required to present the major components of their midterm report along with the work distribution among them.\n\nNote: The midterm evaluation form is attached at the end of the handbook.\n\n# Step 4: FYP Poster Evaluation \n\nThe FYP Poster evaluation is held in the $8^{\\text {th }}$ week of the semester",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 26,
+            "markdown": "or at the time of the FYP-1 midterm evaluation. The Poster size should be 22.5 \" x 34.5 \". The posters are placed on open display and are evaluated by the Faculty panels.\n\n# Step 5: Final FYP-1 Evaluation \n\nTill this stage, it is expected that the FYP groups should at least have accomplished $45 \\%$ implementation of their projects. Students are expected to complete the iteration-2 deliverables (the exact number of iterations to be completed in FYP-1 depends on the supervisor, but it is recommended that there should at least be 2 iterations).\n\nEvery group submits the FYP-1 report and delivers a presentation and demonstration of the work done publicly in front of a faculty panel, as per the schedule announced by the FYP coordinators. The report should also include the plan of the work to be done in the next semester (for FYP-2). The detailed contents of the report are according to the requirements of an FYP and are decided by the supervisor and the group. The basic format and the guidelines for an FYP report is given at the end of this handbook. The report and the presentation are graded by the supervisor and the faculty panel.\n\n## Step 6. Preparation of FYP-1 Grade\n\nThe FYP coordinators prepare the FYP-1 result. The grades are released only after the submission of FYP-1 report (in soft form). Every submission is verified and it is accepted only after the approval of the supervisor.\n\nThe set of deliverables (described in Table 2 below) depends upon the nature of the project. Every deliverable is mandatory. However, for an exceptional case, an alternate can be defined in consultation with the supervisor and in intimation to the FYP coordinators (at least a week before the submission deadline).\n\nEvery submitted deliverable must include a supervisor's approval form duly signed by the supervisor. The submission",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 27,
+            "markdown": "without the supervisor's approval form will not be entertained.\nThe late submissions are liable to get penalty as decided by the FYP committee. The students may get a zero for a late submission.\n\nTable 2: List of Milestones for FYP-1\n\n| S. \\# | Description | Deadline |\n| :--: | :--: | :--: |\n| 1 | Proposal Defense: Team, Logo, Team/ Company Named Supervisor(s), Project Title <br> Problem Statement, Motivation, Expected Outcomes/ Use/ Impact of Software <br> Type of Project: R\\&D/ Development <br> Project Scope/ High Level Features Tools/ Technologies/ Environment <br> Artifacts: FYP Proposal Document Presentation Slides | $2^{\\text {nd }}$ week |\n| 2 | System Requirements Definition and Iteration Plan <br> System functions and features (Development FYP) <br> Introduction and literature survey (R\\&D-based FYP) <br> Submitted directly to Supervisor. | $5^{\\text {th }}$ week |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 28,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| S. \\# | Description | Deadline |\n| :--: | :--: | :--: |\n| 3 | Poster <br> The group prepares a Poster of size 22.5 \" x 34.5 \", which is placed on open display and is evaluated by the Faculty Panels. | $7^{\\text {th }}$ week |\n| 4 | Mid Semester Evaluation <br> The Group submits a mid-semester report (in soft form) and delivers a presentation in front of a faculty panel | $8^{\\text {th }}$ week |\n| 5 | Report submission andv orking code demonstration to supervisors <br> The requirements have been described above in Table 1a. <br> Demonstration given to the supervisor | $14^{\\text {th }}$ week |\n| 6 | Final Evaluation (Iterations amounting to $45 \\%$ of the implementation work) <br> Report, and Presentations/ Demonstrations in front of a faculty panel. | $15^{\\text {th }}$ week |\n\n# Note \n\n- Exact due dates are announced at the start of a semester.\n- Supervisor/ teams should have their internal deadlines in order to meet the external deadlines.\n- All groups must follow the iterative approach",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 29,
+            "markdown": "# FYP-2 Process \n\n1. Those students who have passed FYP-1 register for the FYP-2 course on Flex and continue with their allotted FYPs.\n2. The academic office provides the official list of registered students (in FYP-2) to the FYP coordinators.\n3. The mid semester (pre-Job Fair) evaluation is held in the $8^{\\text {th }}$ week. Each group gives a demonstration of its FYP. The evaluation is done by the supervisor and the faculty panel.\n4. The preparation for the job fair should be kept in mind as it is the earliest stage when recruitment process is initiated and it is possible to impress/ attract the companies by showcasing the students' capabilities. Hence, a working system should be ready by the $12^{\\text {th }}$ week. The FYP coordinators will notify in this regard giving a complete schedule of the event.\n5. The final evaluation is held in the $15^{\\text {th }}$ week. A comprehensive FYP report (in soft form) is submitted before the presentation.\n6. Each group submits the final FYP report (in soft form) and all other deliverables (also in soft form) in the $18^{\\text {th }}$ week to the FYP coordinators. The submitted report and deliverables should include the corrections and amendments proposed during the final evaluation.\n7. The final report should follow the format specified by the university.\n\n| S. \\# | Description | Deadline |\n| :--: | :-- | :-- |\n| 1 | Iteration plan and implementation of the <br> iterations (Development FYP) <br> Remaining part of implementation of the <br> proposed approach and performance <br> evaluation (R\\&D-based FYP) | $4^{\\text {th }}$ week |\n| 2 | Mid Semester/Pre-Job Fair <br> Evaluation (1) | $7^{\\text {th }}$ week |\n| 3 | Remaining iterations (Development <br> FYP) or <br> Preliminary results in graphs/Tables <br> form (R\\&D-based FYP) | $10^{\\text {th }}$ week |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 30,
+            "markdown": "| S. \\# | Description | Deadline |\n| :--: | :-- | :--: |\n| 4 | Job Fair Evaluation (2) <br> Working System; Iteration deliverables <br> (Development FYP) or <br> Presentable results (R\\&D-based FYP) | $10-12^{\\text {th }}$ <br> week |\n| 5 | Final Presentation and <br> Demonstration (3) | $15^{\\text {th }}$ week |\n\n8. Deliverables: The set of deliverables depends upon the nature of the project as follows:\n\n# 9. Final Deliverables \n\nI. Report (soft copy of the final report and the complete power point FYP presentation).\nii. Reference (reference material like articles, tool information etc.).\niii. Code (complete source code of the project).\niv. Application (It is strongly recommended that a web application-based FYP is hosted at an appropriate webbased platform. Similarly, for mobile application-based FYPs, either Android App Store or Apple App Store is recommended for hosting).\nv. Demonstration (the executable in working order and a readme file containing the information about the software requirements (tools) and hardware requirements for the FYP as well as the instructions or the steps (Soft copy of the User manual) for running the FYP executable).\n\nNote\n\n1. Exact due dates are announced at the start of a semester.\n2. Supervisor/ teams should have their internal deadlines in order to meet the external deadlines",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 31,
+            "markdown": "# 6. Evaluation \n\nA recommended guideline for the composition of the grade is as follows:\n\n## FYP-1\n\n## Evaluation Items\n\n| Evaluation | Weight |\n| :--: | :--: |\n| Proposal Defense | $10 \\%$ |\n| Poster | $40 \\%$ |\n| Mid Semester |  |\n| Final | $50 \\%$ |\n\n## FYP-2\n\n## Evaluation Items\n\n| Evaluation | Weight |\n| :--: | :--: |\n| Pre-Job Fair | $40 \\%$ |\n| Final | $60 \\%$ |\n\n## Evaluators' Weights for both FYP-1 and FYP-2\n\n| Evaluation | Weight |\n| :--: | :--: |\n| Supervisor(s) | $35-60 \\%$ |\n| Faculty Panel (the entire <br> panel is treated as examiner) | $40-65 \\%$ |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 32,
+            "markdown": "# Compilation of Results \n\nThe evaluations submitted by a supervisor and the faculty panel are compiled and converted into a letter grade by the FYP Coordinators.\n\n- The recommended distribution of marks between supervisor and faculty may change as per the range given in the above table.\n- The letter grade is assigned after taking into account any deduction for the late submission of proposals, reports, failure in any evaluation, etc.\n\n\n## Miscellaneous Rules\n\nThe entire FYP process is designed to ensure that students are able to develop and deliver high quality FYPs. At the same time, the university has put in place rigorous rules to ensure fairness of the FYP process. Following additional rules apply:\n\n1. Failing the FYP-1 proposal defense requires the group to resubmit a new/improved proposal. This can be done with the same supervisor or new supervisor.\n2. Once an FYP idea has been registered with a given supervisor, the change of supervisor can only be done with the consent of the existing supervisor. Another option is to change the idea entirely and register with a new supervisor, giving up the previous idea.\n3. FYP-1 and FYP-2 must be registered consecutively. There cannot be a frozen semester in between FYP-1 and FYP-2.\n4. In case of receiving an \" F \" in FYP-1, the students must reregister in the FYP (same process as FYP-1). However, if they wish to change the supervisor, they must obtain permission from the supervisor through the supervisor change form. Another option is to drop the idea and register a new idea with a new supervisor. This only requires approval from the FYP Coordinators.\n5. In case of receiving an \" F \" in FYP-2, the students cannot",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 33,
+            "markdown": "change supervisor without the consent of the existing supervisor. FYP-2 must be re-registered as per normal practice. However, the idea cannot be changed at this stage as this may require re-doing the FYP-1 (FYP-1 and FYP-2 must be on the same idea). The Head, FAST School of Computing, in consultation with the FYP Coordinators may grant an exemption to this rule. The change of supervisor is allowed, but only through the explicit approval of the supervisor and the FYP coordinators.\n6. In case the supervisor leaves the university, the FYP coordinators shall assign a new supervisor.\n7. If case of the late submission of the final report (or submitting a report without supervisor's approval), the awarded grade may be converted to an \" F \", in line with the university policy.\n8. Any student may be referred to the Head, FAST School of Computing, or the campus Director for missing the scheduled appointments with the Supervisor. Such students may be debarred from the final evaluation and be awarded an \"F\" grade on the recommendation of the supervisor and approval from the Head, FAST School of Computing. However, the supervisor must inform the FYP committee that the student is not coming to meetings and must issue a formal warning to the student.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 34,
+            "markdown": "# 7. Guidelines for the Preparation of FYP Poster \n\nThe FYP poster is a condensed representation of an FYP. It should be neat, attractive, and very inviting. Posters are evaluated by the faculty panel. The following is a list of recommended poster guidelines:\n\n- Poster size must be 22.5 \" x 34.5 \".\n- The orientation of the poster should be Portrait.\n- Don't use too much text - just highlight your major points. Use bullets whenever possible.\n- Make sure that the font is large enough for people to see it from a meter away.\n- Illustrations and visualizations of concepts (maps, pictures, photos, design drawings, diagrams, tables, charts, graphs, \"screen captures\") look nice and can often say more than words.\n- Make sure you spell check! (Also, note that capitalized words are often skipped by most spell checkers.)\n- The top-left part may contain the title of the project, names of the group members and the Supervisor(s).\n- The top-right part may contain the Project Goals.\n- The bottom part may contain the Project Plan and the list of tentative deliverables for the final FYP-1 evaluation.\n- While staying within these guidelines, there is plenty of scope for individual creativity through the use of different fonts, colors, backgrounds, and graphics.\n- Do not include too much information. Too much text may obscure the main message of the poster. Limit the information to the key information, rely on answering questions, and on your project summary to get across the details.\n- Use graphics where appropriate.\n- The original Photoshop/Corel file of the poster should be submitted along with a jpeg image of the poster.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 35,
+            "markdown": "- Recommended tools for making poster are Adobe Photoshop or Corel Draw. If a group uses some other tool, he/she will be responsible for the printing of the Poster.\n\n\n# 8. Guidelines for FYP Report Format \n\n## Title Page\n\nThe title page should include the title of the report along with the name(s) of the department or university/organization for which the report is written and the year of submission. Also included on the title page should be the name(s) of the author(s) of the report along with the name (s) of the supervisor (s). Title Page is followed by a blank page. A sample is shown below.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 36,
+            "markdown": "# Final Year Project \n\n## (Title)\n\n## Producing Quality FYP (Subtitle)\n\nFYP Team\n\nMr. ABCXYZ Mehboob\n\nSupervised by\nMr. ABC\n\nFAST School of Computing\nNational University of Computer and Emerging Sciences\n[Campus], Pakistan\n2023",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 37,
+            "markdown": "# Students' Submission \n\nThis includes the title of the report and its occasion.\n\n## Anti-Plagiarism Declaration\n\nThis is to declare that the above FYP report produced under the:\nTitle:\nis the sole contribution of the author(s) and no part hereof has been reproduced on as it is basis (cut and paste) which can be considered as Plagiarism. All referenced parts have been used to argue the idea and have been cited properly. I/We will be responsible and liable for any consequence if violation of this declaration is determined.\n\nDate: $\\qquad$ Student 1 Name: $\\qquad$\nSignature: $\\qquad$\n\nStudent 2 Name: $\\qquad$\nSignature: $\\qquad$\n\nStudent 3 Name: $\\qquad$\nSignature: $\\qquad$\nSupervisor (Faculty) Name: $\\qquad$\nSignature: $\\qquad$\n\nFAST-NUCES",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 38,
+            "markdown": "# Authors' Declaration \n\nThis states Authors' declaration that the work presented in the report is their own, and has not been submitted/presented previously to any other institution or organization.\n\n## Abstract (optional) (50 to 125 words)\n\nThree to five sentences describing the essence of the work. An abstract is a short, 50-125 words summary of a work. An Abstract should state the purpose, findings, and conclusions of your work without commenting on or evaluating the work itself. Put the abstract on a separate page that follows the title page.\n\n## Acknowledgments (if any)\n\n## Executive Summary:\n\nThe executive summary should be one to two pages' overview of the information contained in the FYP report. It should give the reader an easy reference, in a very brief form, to the important information contained in the report and explained in more detail in the body of the report. People reading the report will use this section as a reference during presentations.\n\n## Table of Contents\n\nThe table of contents lists the information contained in the report in the order in which it will be found. All major topics of interest should be listed.\n\n## Introduction\n\nThe introduction should contain a brief overview of the problem being addressed and the background information needed for the reader to understand the work being done and the reasoning behind it. After reading the introduction, the reader should know exactly what the report is about, why the work was done, and how this work adds to the knowledge that the reader may have about the topic.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 39,
+            "markdown": "# Body Chapters \n\n## Conclusions and/or Recommendations\n\nPresent a summary of what you found in the results section. Here you should describe the techniques that you used for each analysis and the results of each analysis.\n\nConclusions are broad generalizations that focus on addressing the questions to answer which the project was undertaken. Recommendations are your choices for strategies or tactics based on your conclusions. Quite often authors are tempted to speculate on outcomes that cannot be supported by the findings. Do not draw any conclusions or make any recommendations that your work cannot clearly support.\n\n## References\n\nThis section should list all existing information sources used in the FYP. It is important to allow the reader to see all of the sources used and enable the reader to further explore these sources to verify the information presented.\n\n## Appendix/ces\n\nThis section should include all supporting information from the project that was not included in the body of the report. You should include surveys, complex statistical calculations, certain detailed tables, and other such information in an appendix. The information presented in this section is important to support the work presented in the body of the report but would make it more difficult to read and understand the work if presented within the body of the report. Appendixes may include maps, graphs, charts, or other helpful material.\n\nCite the appendix items in the report narrative (write \"see Appendix A\") and organize appendices (e.g., Appendix A, Appendix B, etc.)",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 40,
+            "markdown": "Any tables, figures, form, or other materials that are not totally central to the analysis but that need to be shown are placed in the Appendix.\n\n# Footnotes/ End Notes \n\nFootnotes are located at the bottom of a page. End notes are like footnotes but are located at the back rather than the bottom of each page. These would include all of the references for all works cited in the review of related literature or any other sections of the report as well as the references for quotations, either direct or indirect, taken from other sources, or any footnote comments that might have been included. These are listed in numeric order as presented in the text.\n\n1. Lani Arredondo (1999) Business Presentations, McGraw-Hill, pp. 23-34.\n2. Jann Schill (1996) On Purpose, Heinemann, Australia, p. 23.\n3. Paul Tench (1981) Pronunciation Skills, Macmillan, p. 23.\n\nIn case an endnote is followed by another citing the same source, only the word: \"Ibid\" (as above) shall substitute for the entire text. If the page no. is different, then the page number shall appear after the word: \"Ibid\". For example:\n\n1. Jann Schill (1996) On Purpose, Heinemann, Australia, p. 23.\n\nIbid., p. 54.\nIn case the same source comes to be mentioned after a few interrupting sources, then the word \"op cit\" would suffice (mentioned earlier is written), followed by the page number.\n\n## Bibliography or Literature Cited\n\nBibliography will appear in alphabetic order of the authors' surnames. Author's surname shall come first as is the case in the catalogues of libraries.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 41,
+            "markdown": "Arredondo, Lani (1999) Business Presentations, McGraw-Hill. Schill, Jann (1996) On Purpose, Heinemann, Australia.\n\nTench, Paul (1981) Pronunciation Skills, Macmillan.\nNote: Use underlining (italics) for titles of books, periodicals newspapers, works of art, ships, etc. Articles or chapters in books, periodicals, or journals shall come in double quotes.\n\n# Paper \n\nStandard A4 size\nWidth: 8.27\"\nHeight: 11.69\"\nWeight: 90 Grams\n\n## Fonts, Type Styles\n\nFont Size $=11$ (Normal Text)\nFont $=$ Times New Roman\nTitle $=26$ bold (Times New Roman)\nSub-title $=20$ bold (Times New Roman)\nHeading 1 (Font Size) $=16$ (Bold)\nFont $=$ Arial\nHeading 2 (Font Size) $=14$ (Bold)\nFont $=$ Arial\nHeading 3 (Font Size) $=13$ (Bold, Italics)\nFont $=$ Arial\n\n## Margins\n\nTop $=1.5^{\\prime \\prime}$\nBottom $=1.0^{\\prime \\prime}$\nLeft $=2.0^{\\prime \\prime}$\nRight $=1.0^{\\prime \\prime}$\n\n## Spacing\n\nLine Spacing $=1.5$\nParagraph Spacing $=6$ pts",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 42,
+            "markdown": "# Indentation \n\nIndent all quotations comprising 4 or more lines by 5 spaces from left.\n\n## Page Numbers\n\nExcept for the title page, number all pages which come before the first page of the body chapters consecutively with lower case roman numerals (i, ii, iii, iv, ...).\nThe first page with Arabic numeral (1, 2, 3, and so on) starts from the page of the introduction but it is mentioned from page 2 onwards.\n\nMention page numbers on the top right of the page. The first page of each section or chapter will not carry the page number; however, the page number will be counted for the proceeding page.\n\n## Headers\n\nThe header will comprise the title of the Project report. On every odd page will appear the title of the report while on the even pages the title of the chapter or section will be mentioned. The first page of every section or chapter shall not carry the header.",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 43,
+            "markdown": "# 9. FYP Report Contents \n\nThere are two types of FYPs - R\\&D and development. Therefore, the basic contents for the two types of reports are given below as a guideline. A specific and tailored format according to an FYP's need is suggested by a supervisor.\n\n## Development FYP Report Format\n\n1. Introduction\n2. Research on existing products\n3. Project Vision\n3.1. Problem Statement\n3.2. Business Opportunity\n3.3. Objectives\n3.4. Project Scope\n3.5. Constraints\n3.6. Stakeholders Description\n3.6.1. Stakeholders Summary\n3.6.2. Key High Level Goals and Problems of Stakeholders\n4. Software Requirement Specifications\n4.1. List of Features\n4.2. Functional Requirements\n4.3. Non-Functional Requirements\n5. Iteration Plan\n6. Iteration 1 (all artifacts mentioned in Table 1a)\n7. Iteration 2 (all artifacts mentioned in Table 1a) and so on ... (for subsequent iterations)\n8. Implementation Details (not the programming code but the algorithmic and procedural details especially related to the hidden/backend algorithms that are not covered in the design)\n9. User Manual",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 44,
+            "markdown": "References\nAppendices\n\n# R\\&D-Based FYP Report Format \n\nChapter 1. Introduction\n1.1. Problem Domain\n1.2. Research Problem Statement\n1.3. Software Requirements Specification (if applicable)\nChapter 2. Literature Review\n2.1. Research Item \\# 1\n2.1.1. Summary of the research item (1 or 2 paragraphs)\n2.1.2. Critical analysis of the research item (Strengths and Weaknesses)\n2.1.3. Relationship to the proposed research work\n2.2. Research Item \\# 2\n2.2.1. Summary of the research item (1 or 2 paragraphs)\n2.2.2. Critical analysis of the research item (Strengths and Weaknesses)\n2.2.3. Relationship to the proposed research work\n2.3. Research Item \\# 3\n2.3.1. Summary of the research item (1 or 2 paragraphs)\n2.3.2. Critical analysis of the research item (Strengths and Weaknesses)\n2.3.3. Relationship to the proposed research work\n2.4. Research Item \\# 4\n2.4.1. Summary of the research item (1 or 2 paragraphs)\n2.4.2. Critical analysis of the research item (Strengths and Weaknesses)\n2.4.3. Relationship to the proposed research work",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 45,
+            "markdown": "# 2.5. Research Item \\# 5 \n\n2.5.1. Summary of the research item (1 or 2 paragraphs)\n2.5.2. Critical analysis of the research item (Strengths and Weaknesses)\n2.5.3. Relationship to the proposed research work\n\nChapter 3. Proposed Approach (Framework/ Heuristic/ Algorithm/Protocol/ Mathematical-model)\n\nChapter 4. Implementation (Simulations or Experiments)\nChapter 5. Validation and Testing\nChapter 6. Results and Discussion\nChapter 7. Conclusions and Future Work\nReferences\nAppendices",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 46,
+            "markdown": "# 10. FYP Forms \n\n![img-1.jpeg](img-1.jpeg)\n\n## National University of Computer \\& Emerging Sciences, [Campus]\n\n## FYP Registration Form\n\nFYP Title:\nFYP Type (Development or R\\&D-based):\nBrief Description\n\nUN SDGs targeted by the FYP:\n\nFYP (Algorithms and knowledge used from Core Courses):\n\n| Course Name (Limit of up to 10 <br> courses) | Core ideas used in FYP |\n| :-- | :-- |\n|  |  |\n|  |  |",
+            "images": [
+                {
+                    "id": "img-1.jpeg",
+                    "topics": [],
+                    "ocr_contents": {}
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 47,
+            "markdown": "# Group Members: \n\n| Roll \\# | Name | Cell \\# | CGPA | E-mail <br> Address |\n| :-- | :-- | :-- | :-- | :-- |\n|  |  |  |  |  |\n|  |  |  |  |  |\n|  |  |  |  |  |\n\n## External Supervisor (if any):\n\nName $\\qquad$\nOrganization $\\qquad$\n\nName of Faculty Supervisor\n\nSupervisor's Signature $\\qquad$ Dated $\\qquad$",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 48,
+            "markdown": "![img-2.jpeg](img-2.jpeg)\n\n# National University <br> of Computer \\& Emerging Sciences, [Campus] \n\nFYP Proposal Defense Evaluation Form\n\nTitle of FYP:\n\nGroup Members:\n\n| Sr \\# | Roll \\# | Name |\n| :-- | :-- | :-- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\nAbout Evaluator:\n\n## Name and Signature:\n\nYour role in this evaluation: (please tick one)\n\n| Supervisor |  |\n| :-- | :-- |\n| Panel Member |  |",
+            "images": [
+                {
+                    "id": "img-2.jpeg",
+                    "topics": [
+                        "National Symbols",
+                        "Emblem",
+                        "Coat of Arms"
+                    ],
+                    "ocr_contents": {
+                        "text": "This is the image's OCR in markdown:",
+                        "details": {
+                            "line1": "NATIONAL EMBLEM",
+                            "line2": "The National Emblem of the country is a symbol of national identity and pride.",
+                            "line3": "It consists of a shield with various symbols representing the country's heritage and values.",
+                            "line4": "Above the shield is a scroll with the national motto.",
+                            "line5": "Surrounding the shield are other national symbols, including a palm tree and a crescent moon."
+                        }
+                    }
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 49,
+            "markdown": "Evaluation: (please tick one)\n\n| Approved |  |\n| :-- | :-- |\n| Approved with Minor Modifications |  |\n| Approved with Major Modifications |  |\n| Rejected |  |\n\n* Modifications (Minor/Major) Recommended (if any)\n* Reason for Rejection (mandatory, if any FYP is rejected)",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 50,
+            "markdown": "![img-3.jpeg](img-3.jpeg)\n\n# National University <br> of Computer \\& Emerging Sciences, [Campus] \n\nFYP-1 Mid-Semester Evaluation Form\n\nTitle of FYP:\n\n## Group Members:\n\nAbout Evaluator:\n\n## Name and Signature:\n\nYour role in this evaluation: (please tick one)\n\n| Supervisor |  |\n| :-- | :-- |\n| Panel Member |  |",
+            "images": [
+                {
+                    "id": "img-3.jpeg",
+                    "topics": [
+                        "National Environmental Conservation",
+                        "Environmental Protection",
+                        "Conservation",
+                        "Sustainability"
+                    ],
+                    "ocr_contents": {
+                        "text": "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u062d\u0641\u0638 \u0627\u0644\u0628\u064a\u0626\u0629",
+                        "translation": "National Environmental Conservation Authority"
+                    }
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 51,
+            "markdown": "Evaluation:\n(A=Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, $\\mathrm{F}=$ Not Accepted')\n(Dev = Development FYP, R\\&D = R\\&D-based FYP)\n\n| Criteria |  | Tick one in each row |  |  |  |  |\n| :--: | :--: | :--: | :--: | :--: | :--: | :--: |\n|  | $\\%$ | A | B | C | D | $\\mathbf{F}^{*}$ |\n| Iteration definition, FYP Plan, Work breakdown <br> (What is to be covered in the iteration) | 10 |  |  |  |  |  |\n| Presentation (Contents, Style, Confidence, Dress) | 20 |  |  |  |  |  |\n| FYP Report <br> (Artifacts / Features) | Dev | 40 |  |  |  |  |\n| Work Completed (as per iteration plan) |  | 30 |  |  |  |  |\n| FYP Report <br> Introduction of problem domain and research problem statement, SRS (if applicable), Literature survey of at least 5 research items, Proposed approach | R\\&D | 70 |  |  |  |  |\n\n* Justify in case of ticking \"Not Accepted\". Any other comments/suggestions!",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 52,
+            "markdown": "![img-4.jpeg](img-4.jpeg)\n\n# National University <br> of Computer \\& Emerging Sciences, [Campus] \n\nFYP-1 Final Evaluation Form\n\nTitle of FYP:\n\nGroup Members:\n\nAbout Evaluator:\n\nName and Signature:\n\nYour role in this evaluation: (please tick one)\n\n| Supervisor |  |\n| :-- | :-- |\n| Panel Member |  |\n\nEvaluation:\n(A=Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, $\\mathrm{F}=$ Not Accepted $^{\\prime}$ )\n(Dev = Development FYP, R\\&D = R\\&D-based FYP)",
+            "images": [
+                {
+                    "id": "img-4.jpeg",
+                    "topics": [
+                        "National Environmental Conservation",
+                        "Environmental Protection",
+                        "Conservation",
+                        "Sustainability"
+                    ],
+                    "ocr_contents": {
+                        "text": "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u062d\u0641\u0638 \u0627\u0644\u0628\u064a\u0626\u0629",
+                        "translation": "National Environmental Conservation Authority"
+                    }
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 53,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| Criteria |  | Tick one in each row |  |  |  |  |  |\n| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |\n|  | $\\%$ | A | B | C | D | $F^{*}$ |  |\n| Iteration definition, FYP Plan, Work breakdown | 5 |  |  |  |  |  |  |\n| Presentation (Contents, Style, Confidence, Dress) | 15 |  |  |  |  |  |  |\n| FYP Report (Artifacts / Features) | Dev | 25 |  |  |  |  |  |\n| Demonstration of the code (Quality, Conformance with design, User interface etc.) |  | 30 |  |  |  |  |  |\n| FYP Report <br> (Introduction of problem domain and research problem statement, SRS (if applicable), Literature survey of at least 5 research items, Proposed approach, experimental | R\\&D | 55 |  |  |  |  |  |\n\n* Justify in case of ticking \"Not Accepted\". Any other comments/suggestions!",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 54,
+            "markdown": "BS Final Year Project Handbook 2023\n![img-5.jpeg](img-5.jpeg)\n\n# National University <br> of Computer \\& Emerging Sciences, [Campus] \n\nFYP-2 Pre-Job Fair (Midterm) Evaluation Form\nTitle of FYP:\n\n## Group Members:\n\nAbout Evaluator:\n\n## Name and Signature:\n\nYour role in this evaluation: (please tick one)\n\n| Supervisor |  |\n| :-- | :-- |\n| Panel Member |  |",
+            "images": [
+                {
+                    "id": "img-5.jpeg",
+                    "topics": [
+                        "Optical Character Recognition",
+                        "Markdown",
+                        "JSON"
+                    ],
+                    "ocr_contents": {
+                        "title": "This is the image's OCR in markdown:",
+                        "content": "."
+                    }
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 55,
+            "markdown": "Evaluation:\n(A=Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, $\\mathrm{F}=$ Not Accepted')\n(Dev = Development FYP, R\\&D = R\\&D-based FYP)\n\n| Criteria |  | Tick one in each row |  |  |  |  |\n| :--: | :--: | :--: | :--: | :--: | :--: | :--: |\n|  | $\\%$ | A | B | C | D | $\\mathbf{F}^{*}$ |\n| Work completed (Implementation) |  | 30 |  |  |  |  |\n| Work suitable for the Job Fair <br> (Interface, <br> Functionality, <br> Demonstration) | Dev | 30 |  |  |  |  |\n| Code quality (conformance with design, plagiarism issues, good coding practices) |  | 20 |  |  |  |  |\n| Level of code integration <br> (Are all components / modules fully integrated?) |  | 20 |  |  |  |  |\n| Preliminary Results (in the form of graphs / tables) | R\\&D | 40 |  |  |  |  |\n| Work suitable for the Job Fair |  | 30 |  |  |  |  |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 56,
+            "markdown": "| Criteria |  |  | Tick one in each row |  |  |  |  |\n| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |\n|  | $\\%$ | A | B | C | D | $\\mathbf{F}^{*}$ |  |\n| (Results of the <br> performance <br> evaluation in <br> presentable form <br> clearing depicting the <br> outcomes of the <br> research) |  |  |  |  |  |  |  |\n\n* Justify in case of ticking \"Not Accepted\". Any other comments/suggestions!",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 57,
+            "markdown": "BS Final Year Project Handbook 2023\n![img-6.jpeg](img-6.jpeg)\n\n# National University <br> of Computer \\& Emerging Sciences, [Campus] \n\nFYP-2 Final Evaluation Form\n\nTitle of FYP:\n\n## Group Members:\n\nAbout Evaluator:\n\n## Name and Signature:\n\nYour role in this evaluation: (please tick one)\n\n| Supervisor |  |\n| :-- | :-- |\n| Panel Member |  |",
+            "images": [
+                {
+                    "id": "img-6.jpeg",
+                    "topics": [
+                        "Arabic University",
+                        "Education",
+                        "Institution"
+                    ],
+                    "ocr_contents": {
+                        "text": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
+                        "translation": "Arabian University for Science and Technology"
+                    }
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 58,
+            "markdown": "Evaluation:\n(A=Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, $\\mathrm{F}=$ Not Accepted')\n(Dev = Development FYP, R\\&D = R\\&D-based FYP)\n\n| Criteria |  | Tick one in each row |  |  |  |  |\n| :--: | :--: | :--: | :--: | :--: | :--: | :--: |\n|  | $\\%$ | A | B | C | D | $\\mathbf{F}^{*}$ |\n| Work completed (Implementation) |  | 30 |  |  |  |  |\n| Work suitable for the Job Fair <br> (Interface, <br> Functionality, <br> Demonstration) | Dev | 30 |  |  |  |  |\n| Code quality (conformance with design, plagiarism issues, good coding practices) |  | 20 |  |  |  |  |\n| Level of code integration <br> (Are all components / modules fully integrated?) |  | 20 |  |  |  |  |\n| Preliminary Results (in the form of graphs / tables) | R\\&D | 40 |  |  |  |  |\n| Work suitable for the Job Fair |  | 30 |  |  |  |  |",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 59,
+            "markdown": "BS Final Year Project Handbook 2023\n\n| (all | previous <br> requirements, | plus <br> complete performance <br> evaluation results along <br> with an appropriate <br> discussion on the results, <br> validation and testing) | R\\&D |  |  |  |  |  |\n| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |\n| Quality of the research <br> (Usefulness of the <br> results, whether the <br> contribution is good for <br> publishing etc.) |  |  |  |  |  |  |  |  |\n\n* Comments on the FYP (Mandatory)!",
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 60,
+            "markdown": "![img-7.jpeg](img-7.jpeg)\n\n# National University \n\nof Computer \\& Emerging Sciences, [Campus]\n\n## FYP Tracking/Monitoring Form (For Supervisors)\n\nTitle of FYP:\n\nStudents: $\\qquad$ Semester: $\\qquad$\n\nPeriod from: $\\qquad$ To: $\\qquad$\n\n| Date | Work <br> Completed | Work <br> Assigned | Target Date |\n| :-- | :-- | :-- | :-- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n\nSupervisor: $\\qquad$\nSignature: $\\qquad$",
+            "images": [
+                {
+                    "id": "img-7.jpeg",
+                    "topics": [],
+                    "ocr_contents": {}
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        },
+        {
+            "index": 61,
+            "markdown": "# NATIONAL UNIVERSITY of Computer \\& Emerging Sciences \n\n![img-8.jpeg](img-8.jpeg)\n\n## Karachi\n\nShah Latif Town (on National Highway)\nTel: (021) 111-128-128\n\n## L\n\n## Peshawar\n\n160 Industrial Estate, Hayatabad Tel: (091) 111-128-128\nfor further query, please contact regsitrar@nu.edu.pk",
+            "images": [
+                {
+                    "id": "img-8.jpeg",
+                    "topics": [],
+                    "ocr_contents": {}
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 1800,
+                "width": 1200
+            }
+        }
+    ],
+    "model": "mistral-ocr-2503-completion",
+    "usage_info": {
+        "pages_processed": 62,
+        "doc_size_bytes": 24967319
+    }
+}

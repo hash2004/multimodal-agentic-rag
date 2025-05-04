@@ -1,0 +1,191 @@
+{
+    "img-0.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "![img-0.jpeg](img-0.jpeg)",
+                "images": [
+                    {
+                        "id": "img-0.jpeg",
+                        "top_left_x": 0,
+                        "top_left_y": 0,
+                        "bottom_right_x": 238,
+                        "bottom_right_y": 238,
+                        "image_base64": null
+                    }
+                ],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 239,
+                    "width": 239
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 15932
+        }
+    },
+    "img-1.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 139,
+                    "width": 133
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 6850
+        }
+    },
+    "img-2.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 135,
+                    "width": 137
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 6990
+        }
+    },
+    "img-3.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 139,
+                    "width": 137
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 7013
+        }
+    },
+    "img-4.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 139,
+                    "width": 137
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 7013
+        }
+    },
+    "img-5.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 139,
+                    "width": 127
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 6795
+        }
+    },
+    "img-6.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 139,
+                    "width": 123
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 6752
+        }
+    },
+    "img-7.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "\n",
+                "images": [],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 135,
+                    "width": 138
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 7003
+        }
+    },
+    "img-8.jpeg": {
+        "pages": [
+            {
+                "index": 0,
+                "markdown": "# Chiniot - Faisalabad \n\nLoonaywala Stop\n(9 Km from Motorway) Faisalabad-Chiniot Ro\nTel: (041) 111-128-128\n![img-0.jpeg](img-0.jpeg)\n\nIslamabad\nA.K. Brohi Road, H-1\n\nTel: (051) 111-128-128",
+                "images": [
+                    {
+                        "id": "img-0.jpeg",
+                        "top_left_x": 36,
+                        "top_left_y": 171,
+                        "bottom_right_x": 91,
+                        "bottom_right_y": 195,
+                        "image_base64": null
+                    }
+                ],
+                "dimensions": {
+                    "dpi": 200,
+                    "height": 306,
+                    "width": 406
+                }
+            }
+        ],
+        "model": "mistral-ocr-2503-completion",
+        "usage_info": {
+            "pages_processed": 1,
+            "doc_size_bytes": 32961
+        }
+    }
+}
