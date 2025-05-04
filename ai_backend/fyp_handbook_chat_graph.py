@@ -33,7 +33,7 @@ qdrant = QdrantVectorStore.from_documents(
     url=url,
     prefer_grpc=True,
     api_key=api_key,
-    collection_name=ANNUAL_REPORT_VECTOR_STORE,
+    collection_name=FYP_HANDBOOK_VECTOR_STORE_CONTEXULIZED,
 )
 
 class AChatInput(MessagesState):
@@ -49,7 +49,7 @@ class AChatOutput(TypedDict):
 def get_context(state: AChatInput) -> str:
     """
     """
-    retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 5, 'fetch_k': 10})
+    retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 3, 'fetch_k': 10})
     response = retriever.invoke(state['query'])
     
     return {
@@ -59,7 +59,7 @@ def get_context(state: AChatInput) -> str:
     
 def get_answer(state: AChatInput) -> Dict[str, str]:
     chat_message = [
-        SystemMessage(content=financal_assistant_prompt.format(
+        SystemMessage(content=fyp_handbook_assistant_prompt.format(
             context=state['retrieved_docs'],
             query=state['query']
         )),
@@ -71,27 +71,27 @@ def get_answer(state: AChatInput) -> Dict[str, str]:
     return {'last_ai_message': response.content}
     
 
-a_chat_builder = StateGraph(input=AChatInput, output=AChatOutput)
+f_chat_builder = StateGraph(input=AChatInput, output=AChatOutput)
 
-a_chat_builder.add_node("get_context", get_context)
-a_chat_builder.add_node("get_answer", get_answer)
+f_chat_builder.add_node("get_context", get_context)
+f_chat_builder.add_node("get_answer", get_answer)
 
-a_chat_builder.add_edge(START, "get_context")
-a_chat_builder.add_edge("get_context", "get_answer")
-a_chat_builder.add_edge("get_answer", END)
+f_chat_builder.add_edge(START, "get_context")
+f_chat_builder.add_edge("get_context", "get_answer")
+f_chat_builder.add_edge("get_answer", END)
 
 memory = MemorySaver()
 
-annual_report_assistant = a_chat_builder.compile(checkpointer=memory)
+fyp_handbook_assistant = f_chat_builder.compile(checkpointer=memory)
 
 """
-response = annual_report_assistant.invoke(
+response = fyp_handbook_assistant.invoke(
     {
-        "query": "What degree programs are offered by Islamabad campus thats not offered by Lahore campus?",
+        "query": "What is the role of FYP coordinator?",
         "retrieved_docs": [],
         "last_ai_message": ""
     },
-    config={"configurable": {"thread_id": 2}}
+    config={"configurable": {"thread_id": 3}}
 )
 
 print(response)

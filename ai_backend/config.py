@@ -11,6 +11,12 @@ os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
 
+FINANCIAL_VECTOR_STORE = "financial_chunks"
+FINANCIAL_VECTOR_STORE_CONTEXULIZED = "financial_chunks_contextulized"
+ANNUAL_REPORT_VECTOR_STORE = "annual_report_chunks"
+FYP_HANDBOOK_VECTOR_STORE = "fyp_handbook_chunks"
+FYP_HANDBOOK_VECTOR_STORE_CONTEXULIZED = "fyp_handbook_chunks"
+
 class chat_model(BaseModel):
     user_query: str = Field(
         description="The user query to be answered."
