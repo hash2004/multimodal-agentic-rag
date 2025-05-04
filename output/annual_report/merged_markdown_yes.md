@@ -1,0 +1,2210 @@
+# ANNUAL REPORT OF THE UNIVERSITY 
+
+## FOR THE YEAR 2023-2024
+
+![img-0.jpeg](img-0.jpeg)
+
+NATIONAL UNIVERSITY of Computer \& Emerging Sciences
+
+FAST House, Rohtas Road, G-9/4
+ISLAMABAD, PAKISTAN
+URL www.nu.edu.pk
+Email registrar@nu.edu.pk
+---### Image Data: (img-0.jpeg)
+#### Topics:- University Logo- National University of Sciences and Technology- NUST
+#### OCR Contents:
+**text:**
+  - Data: National University of Sciences and Technology
+
+**arabic_text:**
+  - Data: جامعة العلوم والتكنولوجيا الوطنية
+
+**logo:**
+  - Data: NUST---# Contents 
+
+Preamble ..... 3
+Vision ..... 4
+Mission ..... 4
+The Foundation ..... 5
+The University ..... 5
+University Campuses ..... 6
+Chapter-2 Faculty and Staff ..... 13
+Chapter-3 Students' Profile ..... 18
+Chapter-4 Academic Activities ..... 20
+CHINIOT-FAISALABAD Campus ..... 20
+ISLAMABAD CAMPUS ..... 26
+KARACHI CAMPUS ..... 34
+LAHORE CAMPUS ..... 47
+PESHAWAR CAMPUS ..... 56
+Chapter-5 Office of Research, Innovation and Commercialization (ORIC) ..... 58
+Chapter-6 Research \& Development ..... 63
+Chapter-7 Quality Assurance ..... 68
+Chapter-8 Industrial Collaboration ..... 79
+Chapter-9 Health Care Facilities ..... 84
+
+---
+
+# Preamble 
+
+As we reflect on another year of growth and achievement, we proudly present the Annual Report for the National University of Computer and Emerging Sciences (FAST-NUCES). Founded as a Federally Chartered University in July 2000, FASTNUCES has emerged as a premier institution in Pakistan, distinguished by the quality and impact of its graduates in the local software and technology sectors. With five modern campuses strategically located in Karachi, Lahore, Islamabad, Peshawar, and Chiniot-Faisalabad, fostering an inclusive environment with a vibrant community of female scholars. Our commitment to providing a world-class educational experience is matched by our dedication to advancing research that addresses the pressing social, economic, and technological challenges facing our nation.
+
+This report highlights the significant strides we have made towards our vision of becoming a globally recognized research University within the next decade. From groundbreaking research initiatives to innovative educational programs, we remain steadfast in our mission to empower our students and contribute meaningfully to Pakistan development. We invite you to explore our achievements, challenges, and the promising future that lies ahead as we continue to elevate standards in higher education and research.
+
+Dr Aftab Ahmad
+Rector
+
+---
+
+# Vision 
+
+To produce world- class professionals, who are responsible citizens and good human beings.
+
+## Mission
+
+1. To identify and attract the most promising students from diverse communities, to shape them into visionary leaders and world- class professionals.
+2. To impart quality education to students, irrespective of their financial background ethnicity, gender or religion to create an inclusive society.
+3. To promote research and scholarly activities to generate knowledge.
+
+---
+
+# The Foundation 
+
+The sponsoring body of the University - the Foundation for Advancement of Science and Technology (FAST) was established in 1980. It is registered with the Government of Pakistan as a charitable institution. In 1985, it selected higher education as a vehicle to pursue its objective of producing scientists and technologists of the highest caliber. FAST pioneered the development of IT industry in Pakistan by offering the country's first undergraduate program in Computer Science. Today, this University, sponsored by FAST, stands recognized as the leader and trend-setter in this field in Pakistan and abroad.
+A Board of Governors, elected in accordance with its Charter, manages the affairs of the Foundation. The members of the Board are eminent personalities in their respective fields and are associated with the Foundation in an honorary capacity.
+
+## The University
+
+Founded as a Federally Chartered University in July 2000, the National University of Computer and Emerging Sciences is a premiere University of Pakistan, renowned for quality and impact of its students in the development of local software and other industries. The university has five modern campuses at Karachi, Lahore, Islamabad, Peshawar and Chiniot-Faisalabad. These campuses provide world class educational environment and recreational facilities to about 13,000 students, around one-quarter are female.
+
+Research wings of the university are well recognized, nationally and internationally. They are embarked upon cutting edge research having direct impact on the social, economic and technological needs of Pakistan. Our vision is to become a globally recognized research university of Pakistan within the next decade.
+
+---
+
+# University Campuses 
+
+## Chiniot-Faisalabad Campus
+
+Situated at the junction of Pakistan's Textile Capital-Faisalabad and the historically rich city of Chiniot in suburbs of River Chenab, the Chiniot - Faisalabad campus is the 5th campus of the university. The campus symbolizes the desirable connection between nature and industry and between tradition and modernity. Its picturesque surroundings in the outskirts of Pakistan's Manchester, the home to the textile industry, represent human advancement from agrarian to industrial and technological society. Spanning around 30 acres along the Faisalabad Sargodha Road, approximately 9 kilometers from the M4 Motorway interchange towards Chiniot, this campus is a testament to academic excellence in both professional and personal realms. Following in the footsteps of its esteemed sister campuses in Islamabad, Lahore, Karachi, and Peshawar, graduates here are highly sought after by both national and multinational corporations, with many holding prominent positions in renowned institutions like Google, Facebook, and Microsoft.
+
+FAST-NUCES Chiniot-Faisalabad is the first residential campus of the University offering Boys and Girls Hostel and allied facilities inside the campus. The campus is home to 1000+ boys and girls residing in campus. Offering programs in Computer Science, Software Engineering, Artificial Intelligence, Electrical Engineering, and Business Administration, the campus boasts a distinguished faculty dedicated to nurturing academic excellence. State-of-the-art facilities, including advanced computing and engineering labs, provide students with hands-on experience and a conducive learning environment.
+
+Moreover, the campus has catalyzed Faisalabad's technological landscape, fostering a surge in technology startups. Its strategic proximity to leading industrial enterprises promises to elevate the standard of professional education across the nation. Beyond academics, the campus fosters a vibrant student life, fostering holistic development through sports, competitions, and cultural events. From cricket to chess, students engage in a diverse array of activities that enrich their collegiate experience. The campus has state of the art computing, engineering and other support facilities. Spacious and well-equipped computer and engineering labs impart practical orientation to the students in their respective areas of study. Audio-visually supported and well-furnished classrooms offer a favorable, conducive, and constructive learning environment to the students.
+
+The Campus other than academics offer a very vibrant student life to contribute towards the personality development of the students. Extends sports facilities in both indoor and outdoor games like cricket, football, badminton, table tennis, volleyball, basketball, futsal, and chess. Besides sports, healthy competitions in the fields of information technology, business and arts are frequently organized by the campus.
+
+---
+
+# Islamabad Campus 
+
+The Islamabad campus is situated along the Srinagar Highway, offering a breathtaking vista of the picturesque capital city renowned for its beauty and tranquility. Nestled in such an exquisite locale, the campus provides a captivating and delightful view of the city.
+
+Spanning over 15 acres of land, the campus is strategically located in the academic heart of the city. Its infrastructure, including the newly constructed eight-story academic block, reflects a futuristic approach. With a steadily expanding covered area, the campus's academic programs are continuously evolving.
+
+Our campus boasts a highly qualified, fully committed, and professionally stimulated faculty dedicated to academic excellence. Our faculty members excel in teaching competence and are adept at integrating the latest advancements in science and technology into their instruction. They are accomplished researchers, contributors, and developers in their respective fields, conducting research in areas such as Intelligent Networks, Software Testing, Software Engineering, Machine Intelligence, Image Processing, Neural Networks, Embedded Systems, RF Systems, and Control Systems.
+
+We offer undergraduate programs in Computer Science, Software Engineering, Artificial Intelligence, Data Science, Cyber Security, Electrical Engineering, Robotics, Business Administration, Analytics, and Accounting and Finance. Additionally, we provide Master of Science and Doctor of Philosophy programs in Computer Science, Software Engineering, Artificial Intelligence, Data Science, Computer Networks and Security, Electrical Engineering, and Management Sciences.
+
+Our graduates are highly sought after by both national and multinational corporations, holding prominent positions in companies such as Microsoft, Oracle, NCR, LMKR, IBM, Telenor, and Huawei. The campus is equipped with state-of-the-art facilities for both academic and extracurricular activities. Our spacious and well-equipped computer and engineering labs provide students with practical training, while audio-visually supported and well-furnished classrooms offer an optimal learning environment.
+
+To promote physical fitness and relaxation, we offer sports facilities for indoor and outdoor games, including cricket, football, badminton, table tennis, volleyball, and chess. We also organize healthy programming competitions and events, such as NASCON, a national-level competition highly regarded by both industry and educational institutions across the country.
+
+With over 24 student societies and clubs, we foster co-curricular activities to instill a sense of responsibility and leadership potential in our students.
+
+We look forward to welcoming you to our campus and witnessing the vibrant atmosphere of academic excellence and innovation.
+
+---
+
+# Karachi Campus 
+
+The Karachi Campus provides state-of-the-art facilities at two campuses. The Campus offers expertise of dynamic and staunch faculty members, a secure and healthy environment, and a variety of extracurricular opportunities for students to embrace their existing potentials. Adequate emphasis has been placed upon espousal of student well - being, which includes provision of quality education and availability of various extracurricular projects. Multiple inter campuses committees, student clubs and societies have been established to encourage the intellectual and social development of students, cumulatively. The Campus, while emboldening the entrepreneurial aspirations existing within the students, maintains facilities of Incubation and innovation centre as well. Students are provided with adherent mentoring and support. The esteemed faculty members help the students nurture their novel research and developmental ideas, substantially. The Main Campus is located on a six-acre site in Shah Latif Town on the National Highway, ten kilometers east of Karachi airport. The Campus has spacious, fully air conditioned classrooms, laboratories, auditorium, seminar rooms, sports room and a modern library. All Engineering Labs for power systems Electronics, Electrical, Control Engineering, Signal Processing, Telecommunications, Networking, and Multimedia are fully equipped. Computing labs feature the latest technology computers and workstations that use Linux and Windows-based environments. The Campus upholds a potential network infrastructure and provides seamless connectivity throughout. The Campus maintains a vibrant Research and Development culture. Faculty members are part of research groups. Research seminars, local IEEE, ACM and IET chapters' meetings and seminars are held on a regular basis. Enhancing the capacity building the campus has formed a centre for professional training where periodically different training and seminars are arranged to embrace, improve and retain existing knowledge and skills of the employees and students, respectively. A separate student facilitation centre with a distinctive library, commodious cafeteria, an extensive auditorium, and indoor sports facilities exists within the campus. The campus also includes Gym with latest equipment playgrounds for Cricket, Hockey, Football, Basketball, Badminton, futsal court, Volleyball. An in house Mosque is also available for the students and employees. The Campus extends efficient and comfortable transport services for students and staff to commute easily from varied locations across the city. An independent Placement and student Affairs office exists at Karachi Campus for facilitate the students in job placements and internships. The office arranges various recruitment related events both on campus and externally. The department provides career and skill development counselling to students, which helps them in effective resume writing, job hunting and personality building. This office even participates in resolving general student concerns and arranging various on campus student engagement events. The Campus maintains a unique Language Lab to teach students English and other foreign languages while preparing them via video cameras, and round table discussions, for both National and International employability. The City Campus is situated on the main Shahrah-e-Faisal (near Nursery), hosts Postgraduate Studies. The City campus retains air conditioned, contemporary classrooms; high tech computer labs, Seminar Hall and an astounding library, integrated with the Main campus Library. All the facilities and services extended at the Main Campus are equivalently accessible for the students of City Campus as well. In addition to the University sponsored financial assistance and scholarships, Karachi Campus also receives scholarships for position holders from the Boards of Sindh and Baluchistan, Sindh Endowment Board Scholarship ( $40 \%$ urban and $60 \%$ rural quota, every year up to 40 scholarships), Baluchistan Endowment Board Scholarship, Memon Welfare Association's HEC-JICA etc. These funding, aid the students from challenged social backgrounds to pursue quality education smoothly, throughout their academic tenure. FAST NUCES Karachi campus while extending eminence provides quality education, a conducive learning environment and a creative learning experience to its students throughout their academic tenure.
+
+---
+
+# Lahore Campus 
+
+Situated in the central region of Lahore, Faisal Town, the Lahore Campus spans 12.5 acres. The four blocks that make up the campus are a noteworthy addition to Lahore's rich architectural legacy with their distinctive external brickwork and spectacular marble domes. Entire purpose-built classrooms with air conditioning and educational aids, as well as several computer and engineering labs, are the hallmarks of campus facilities. Software engineering, database, programming, and computer application laboratories are all part of the computing labs. The newest workstations, PCs, and services with environments based on Windows and Linux are easily accessible to students. The Engineering laboratories consist of the following Digital Systems, Communications, Antenna and Microwave, Microprocessors, Embedded Controls, and Electronics. The whole campus is fully equipped with high-speed Local Area Network and the latest wireless hotspots. Moreover, there is an Auditorium, Seminar Hall, Cafeteria, Girls Common Rooms, Day-Care, Medical Center, Career and Placement Office, Student Center, and International Office. In addition, Justice Gul Muhammad Library is facilitating FAST- NUCES, Lahore campus academic and research programs with prosperous information resources. FAST - NU Library is multi discipline library having scholarly and research - oriented learning resources on Business Management, Computer Sciences, Civil Engineering, Electrical Engineering, Humanities, Applied Linguistics, and Mathematics. The library has more than 25000 printed books, around 400 centrally subscribed Ebscohost and Pearson e - books, a number of research Journals and Magazines, 13 HEC databases, and 10 national and international newspapers. The campus has facilities for both indoor and outdoor sports which include Football, Volleyball, Badminton, Cricket, Basketball, Lawn Tennis, Table Tennis and Jogging. In addition to the University sponsored financial assistance and scholarships, Lahore Campus also receives scholarships for meritorious students from different Boards of Intermediate and Secondary Education and Punjab Information Technology Board.
+
+---
+
+# Peshawar Campus 
+
+The Peshawar campus is located in the vicinity of Hayatabad, a modern residential suburb of Peshawar. Spread over an area of 4 acres, the campus houses an academic and administrative block; constructed in the university's signature red brick architectural style, and a hostel for boys. It offers a conducive environment with green lawns, flora, plantations, and water fountains. The campus is conveniently close to multiple hospitals, markets, residential areas, sports complexes, government offices, and food streets. With multiple routes, transportation via the city's Metro BRT is quite convenient and economical and can be accessed through the university's own metro BRT bus stop.
+
+To add value to the student learning process and academic excellence, the university has state of the art infrastructure and academic resources, along with highly qualified and committed faculty. The faculty are up-to-date with both scientific and technological progresses, industry requirements, and global trends in their respective fields. With one of the best students to faculty ratios, students have more exposure to learning and working closely with them. The campus has state of the art computing, engineering, and computer assisted language/ communications labs. High speed network access to all devices is made available through campus-wide wireless access points. There is a provision of GPU and bigdata enabled high performance computing facilities for its research students. There are separate labs for students of all levels who require them to work on their projects and research theses. The campus also offers co-working spaces and pre-incubation environment to selected students. The campus library has a collection of over 15,000 unique books, and hundreds of printed research journals. Subscriptions to research journals of IEEE, Springer, Science Direct, and ACM, are made and these can be accessed from student homes through VPN. All classrooms, labs, and halls are fully air-conditioned. For class-room learning, all rooms are equipped with audio/video facilities.
+
+The campus highly encourages its students to get affiliated with various societies of the campus. Students are offered membership of local and regional chapters of the ACM, IEEE, and Microsoft. Technical societies deal with activities related to programming and engineering competitions, whereas social societies include activities associated to travel and hiking, indoor and outdoor sports, E-gaming, religious events, debating and fine arts, music, and other philanthropic activities.
+
+Among the programs offered by the campus, the Bachelor of Science (Electrical Engineering) has the distinction of being one of the first in Khyber Pakhtunkhwa to have received Outcome Based Level II accreditation status by the Pakistan Engineering Council (PEC). Likewise, the various BS computing programs are regularly accredited with the National Computing Education and Accreditation Council (NCEAC). With the input from these accreditation councils, and Industrial Advisory Boards, the curriculum and study plans are highly customized according to the national industrial needs. As such, graduates of the campus are well received by industry and hold prominent positions in national and multinational corporations.
+
+---
+
+# Chapter-1 Programs Offered and Campuses 
+
+## DEGREE programs (Undergraduate, Graduate and Postgraduate programs)
+
+|  | Degree program | Programs Offered and Campuses |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  | CFD | ISB | KHI | LHR | PWR |
+| Bachelor's degree programs |  |  |  |  |  |  |
+| 1 | Bachelor of Business Administration | Yes | Yes |  | Yes |  |
+| 2 | Bachelor of Science (Accounting \& Finance) |  | Yes |  | Yes |  |
+| 3 | Bachelor of Science (Artificial Intelligence) | Yes | Yes | Yes |  | Yes |
+| 4 | Bachelor of Science (Business Analytics) | Yes | Yes | Yes | Yes |  |
+| 5 | Bachelor of Science (Civil Engineering) |  |  |  | Yes |  |
+| 6 | Bachelor of Science (Computer Science) | Yes | Yes | Yes | Yes | Yes |
+| 7 | Bachelor of Science (Cyber Security) |  | Yes | Yes |  |  |
+| 8 | Bachelor of Science (Data Science) |  | Yes |  | Yes |  |
+| 9 | Bachelor of Science (Electrical Engineering) | Yes | Yes | Yes | Yes | Yes |
+| 10 | Bachelor of Science (Financial Technologies) |  | Yes | Yes | Yes |  |
+| 11 | Bachelor of Science (Software Engineering) | Yes | Yes | Yes | Yes | Yes |
+
+Master's degree programs
+
+| 1 | Master of Business Administration | Yes | Yes |  | Yes |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 2 | Master of Science (Applied Linguistics) |  |  |  | Yes |  |
+| 3 | Master of Science (Artificial Intelligence) |  | Yes |  |  |  |
+| 4 | Master of Science (Business Analytics) |  | Yes | Yes | Yes |  |
+| 5 | Master of Science (Civil Engineering) |  |  |  | Yes |  |
+| 6 | Master of Science (Computer Networks \& Security) |  | Yes | Yes |  |  |
+| 7 | Master of Science (Computer Science) | Yes | Yes | Yes | Yes | Yes |
+| 8 | Master of Science (Data Science) |  | Yes | Yes | Yes | Yes |
+| 9 | Master of Science (Electrical Engineering) | Yes | Yes | Yes | Yes |  |
+
+---
+
+|  | Degree program | Programs Offered and Campuses |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  | CFD | ISB | KHI | LHR | PWR |
+| 10 | Master of Science (Management Sciences) | Yes |  |  |  |  |
+| 11 | Master of Science (Mathematics) |  |  |  | Yes |  |
+| 12 | Master of Science (Software Engineering) | Yes |  |  |  |  |
+| 13 | Master of Science (Software Project Management) |  |  | Yes | Yes |  |
+|  | PhD degree programs |  |  |  |  |  |
+| 1 | Doctor of Philosophy (Civil Engineering) |  |  |  | Yes |  |
+| 2 | Doctor of Philosophy (Computer Science) | Yes | Yes | Yes | Yes | Yes |
+| 3 | Doctor of Philosophy (Electrical Engineering) | Yes | Yes | Yes | Yes |  |
+| 4 | Doctor of Philosophy (Management Sciences) |  | Yes |  | Yes |  |
+| 5 | Doctor of Philosophy (Mathematics) |  |  |  | Yes |  |
+| 6 | Doctor of Philosophy (Software Engineering) |  | Yes | Yes |  |  |
+
+---
+
+# Chapter-2 Faculty and Staff 
+
+## Faculty Summary
+
+| Campuses | Prof. | Assoc. <br> Profs. | Asst. Profs. <br> (PhD) | Asst. Profs. <br> (non-PhD) | Lect. | Instr. | Lab <br> Engrs. | Total |
+| :-- | --: | --: | --: | --: | --: | --: | --: | --: |
+| Chiniot-Faisalabad | 2 | 4 | 17 | 8 | 58 | 12 | 2 | $\mathbf{1 0 3}$ |
+| Islamabad | 19 | 14 | 46 | 16 | 83 | 50 | 8 | $\mathbf{2 3 6}$ |
+| Karachi | 4 | 6 | 23 | 10 | 84 | 26 | 4 | $\mathbf{1 5 7}$ |
+| Lahore | 16 | 11 | 29 | 21 | 82 | 19 | 10 | $\mathbf{1 8 8}$ |
+| Peshawar | 1 | 2 | 13 | 3 | 18 | 8 | 6 | $\mathbf{5 1}$ |
+| Total | $\mathbf{4 2}$ | $\mathbf{3 7}$ | $\mathbf{1 2 8}$ | $\mathbf{5 8}$ | $\mathbf{3 2 5}$ | $\mathbf{1 1 5}$ | $\mathbf{3 0}$ | $\mathbf{7 3 5}$ |
+
+## Chiniot-Faisalabad Campus
+
+| Department | Professor |  | Associate Professor |  | Assistant Professor |  | Lecturer |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Male | Female | Male | Female | Male | Female | Male | Female |
+| Artificial Intelligence and Data Science | - | - | - | - | 2 | - | 3 | 1 |
+| Computer Science | 1 | - | 1 | - | 6 | 2 | 9 | 15 |
+| Electrical Engineering | 1 | - | 1 | - | 3 | - | 3 | 2 |
+| Management Sciences | - | - | 1 | - | 3 | 1 | 3 | 1 |
+| Sciences \& Humanities | - | - | 1 | - | 4 | 1 | 5 | 7 |
+| Software Engineering | - | - | - | - | 2 | 1 | 6 | 3 |
+| Total | 2 | - | 4 | - | 20 | 5 | 29 | 29 |
+|  |  | 2 | 4 |  | 25 |  | 58 |  |
+| Department |  |  |  | Lab Engineer |  | Others |  | Total |
+|  |  |  |  | Male | Female | Male | Female |  |
+| Artificial Intelligence and Data Science | - | 1 | - | - | - | - | 7 |  |
+| Computer Science | 3 | 5 | - | - | - | - | 42 |  |
+| Electrical Engineering | - | - | 1 | 1 | - | - | 12 |  |
+| Management Sciences | - | - | - | - | - | - | 9 |  |
+| Sciences \& Humanities | 3 | - | - | - | 1 | - | 22 |  |
+| Software Engineering | - | - | - | - | - | - | 12 |  |
+| Total | 6 | 6 | 1 | 1 | 1 | - | 104 |  |
+|  |  | 12 | 2 |  | 1 |  |  |  |
+
+---
+
+# Islamabad Campus 
+
+| Department | Professor |  | Associate Professor |  | Assistant Professor |  | Lecturer |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Male | Female | Male | Female | Male | Female | Male | Female |
+| Artificial Intelligence and Data Science | 4 | - | 1 | - | 3 | 1 | 7 | 9 |
+| Computer Engineering | 1 | - | - | - | 3 | - | - | 1 |
+| Computer Science | 4 | - | 3 | 2 | 5 | 6 | 11 | 9 |
+| Cyber Security | 1 | - | 2 | - | 2 | 1 | 2 | 2 |
+| Electrical Engineering | 2 | - | 1 | - | 7 | - | 2 | 2 |
+| Management Sciences | 2 | 1 | 2 | - | 12 | 5 | 9 | 5 |
+| Sciences \& Humanities | 3 | - | 1 | 1 | 2 | 8 | 5 | 10 |
+| Software Engineering | 1 | - | 1 | - | 3 | 4 | 5 | 4 |
+| Total | 18 | 1 | 11 | 3 | 37 | 25 | 41 | 42 |
+|  | 19 |  | 14 |  | 62 |  | 83 |  |
+| Department | Instructor |  | Lab Engineer |  | Others |  | Total |  |
+|  | Male | Female | Male | Female | Male | Female |  |  |
+| Artificial Intelligence and Data Science | 5 | 6 | - | - | - | - | 36 |  |
+| Computer Engineering | - | - | 1 | 1 | - | - | 7 |  |
+| Computer Science | 3 | 6 | - | - | - | - | 49 |  |
+| Cyber Security | 2 | 3 | - | - | - | - | 15 |  |
+| Electrical Engineering | - | - | 3 | 3 | - | - | 20 |  |
+| Management Sciences | 4 | 3 | - | - | 1 | - | 44 |  |
+| Sciences \& Humanities | 1 | 10 | - | - | - | - | 41 |  |
+| Software Engineering | 2 | 5 | - | - | - | - | 25 |  |
+| Total | 17 | 33 | 4 | 4 | 1 | - | 237 |  |
+|  | 50 |  | 8 |  | 1 |  |  |  |
+
+---
+
+# Karachi Campus 
+
+| Department | Professor |  | Associate Professor |  | Assistant Professor |  | Lecturer |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Male | Female | Male | Female | Male | Female | Male | Female |
+| Artificial Intelligence and Data Science | 1 | - | - | - | 2 | 1 | 2 | 3 |
+| Computer Science | 3 | - | 1 | - | 8 | 4 | 8 | 14 |
+| Cyber Security | - | - | - | - | 2 | - | 7 | 2 |
+| Electrical Engineering | - | - | 2 | - | 4 | 1 | 3 | 3 |
+| Management Sciences | - | - | - | 1 | 4 | - | 3 | 2 |
+| Sciences \& Humanities | - | - | 1 | - | 5 | 1 | 10 | 20 |
+| Software Engineering | - | - | 1 | - | 1 | - | 2 | 5 |
+| Total | 4 | - | 5 | 1 | 26 | 7 | 35 | 49 |
+|  | 4 |  | 6 |  | 33 |  | 84 |  |
+
+Department
+![img-1.jpeg](img-1.jpeg)
+---### Image Data: (img-1.jpeg)
+#### Topics:- Instructor Male- Instructor Female- Lab Engineer Male- Lab Engineer Female- Others Male- Others Female- Total
+#### OCR Contents:
+**Artificial Intelligence and Data Science:**
+  - Instructor Male: 4
+  - Instructor Female: 2
+  - Lab Engineer Male: -
+  - Lab Engineer Female: -
+  - Others Male: 1
+  - Others Female: -
+  - Total: 16
+
+**Computer Science:**
+  - Instructor Male: 7
+  - Instructor Female: 9
+  - Lab Engineer Male: -
+  - Lab Engineer Female: -
+  - Others Male: 2
+  - Others Female: -
+  - Total: 56
+
+**Cyber Security:**
+  - Instructor Male: 2
+  - Instructor Female: -
+  - Lab Engineer Male: -
+  - Lab Engineer Female: -
+  - Others Male: -
+  - Others Female: -
+  - Total: 13
+
+**Electrical Engineering:**
+  - Instructor Male: -
+  - Instructor Female: -
+  - Lab Engineer Male: 4
+  - Lab Engineer Female: -
+  - Others Male: -
+  - Others Female: -
+  - Total: 17
+
+**Management Sciences:**
+  - Instructor Male: -
+  - Instructor Female: -
+  - Lab Engineer Male: -
+  - Lab Engineer Female: -
+  - Others Male: -
+  - Others Female: -
+  - Total: 10
+
+**Sciences & Humanities:**
+  - Instructor Male: -
+  - Instructor Female: -
+  - Lab Engineer Male: -
+  - Lab Engineer Female: -
+  - Others Male: -
+  - Others Female: -
+  - Total: 37
+
+**Software Engineering:**
+  - Instructor Male: 1
+  - Instructor Female: 1
+  - Lab Engineer Male: -
+  - Lab Engineer Female: -
+  - Others Male: -
+  - Others Female: -
+  - Total: 11
+
+**Total:**
+  - Instructor Male: 14
+  - Instructor Female: 12
+  - Lab Engineer Male: 4
+  - Lab Engineer Female: -
+  - Others Male: 3
+  - Others Female: -
+  - Total: 160---# Lahore Campus 
+
+| Department | Professor |  | Associate Professor |  | Assistant Professor |  | Lecturer |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Male | Female | Male | Female | Male | Female | Male | Female |
+| Artificial Intelligence and Data Science | 1 | - | - | 1 | 1 | 2 | 2 | 5 |
+| Civil Engineering | 2 | - | 1 | - | 4 | - | 5 | 2 |
+| Computer Science | 2 | 2 | 2 | 1 | 9 | 6 | 10 | 12 |
+| Cyber Security | - | - | 2 | - | 1 | - | - | - |
+| Electrical Engineering | 2 | 1 | 1 | - | 4 | 3 | 4 | 4 |
+| Management Sciences | 1 | - | 1 | - | 6 | 3 | 3 | 10 |
+| Sciences \& Humanities | 3 | 2 | - | 1 | 2 | 7 | 5 | 10 |
+| Software Engineering | - | - | 1 | - | 2 | - | 4 | 6 |
+| Total | 11 | 5 | 8 | 3 | 29 | 21 | 33 | 49 |
+|  | 16 |  | 11 |  | 50 |  | 82 |  |
+| Department | Instructor |  | Lab Engineer |  | Others |  | Total |  |
+|  | Male | Female | Male | Female | Male | Female |  |  |
+| Artificial Intelligence and Data Science | 1 | 1 | - | - | - | - | 14 |  |
+| Civil Engineering | - | - | 5 | 1 | - | - | 20 |  |
+| Computer Science | 5 | 3 | - | - | 1 | - | 53 |  |
+| Cyber Security | 1 | - | - | - | - | - | 4 |  |
+| Electrical Engineering | - | - | 1 | 3 | - | - | 23 |  |
+| Management Sciences | - | 6 | - | - | - | 1 | 31 |  |
+| Sciences \& Humanities | - | - | - | - | - | - | 30 |  |
+| Software Engineering | 2 | - | - | - | - | 1 | 16 |  |
+| Total | 9 | 10 | 6 | 4 | 1 | 2 | 191 |  |
+|  | 19 |  | 10 |  | 3 |  |  |  |
+
+---
+
+# Peshawar Campus 
+
+| Department | Professor |  | Associate Professor |  | Assistant Professor |  | Lecturer |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Male | Female | Male | Female | Male | Female | Male | Female |
+| Computer Engineering | - | - | - | - | 2 | - | 1 | - |
+| Computer Science | 1 | - | 2 | - | 9 | - | 7 | 2 |
+| Electrical Engineering | - | - | - | - | 2 | - | - | - |
+| Sciences \& Humanities | - | - | - | - | 3 | - | 4 | 4 |
+| Total | 1 | - | 2 | - | 16 | - | 12 | 6 |
+|  | 1 |  | 2 |  | 16 |  | 18 |  |
+| Department | Instructor |  | Lab Engineer |  | Others |  | Total |  |
+|  | Male | Female | Male | Female | Male | Female |  |  |
+| Computer Engineering | - | - | 3 | 1 | - | - | 7 |  |
+| Computer Science | 6 | 1 | - | - | - | - | 28 |  |
+| Electrical Engineering | - | - | 2 | - | - | - | 4 |  |
+| Sciences \& Humanities | 1 | - | - | - | - | - | 12 |  |
+| Total | 7 | 1 | 5 | 1 | - | - | 51 |  |
+|  | 8 |  | 6 |  | - |  |  |  |
+
+---
+
+# Chapter-3 Students' Profile 
+
+## 1. Applications Statistics (Discipline Wise)
+
+|  |  | BBA | BS(AF) | BS(AI) | BS(BA) | BS(CS) | BS(CV) | BS(CYS) | BS(DS) | BS(EE) | BS(FT) | BS(SE) | Total |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| CFD | Applicants | 5 |  | 23 | 4 | 111 |  |  |  | 2 |  | 37 | 182 |
+|  | Offers | 3 |  | 13 | 3 | 17 |  |  |  | 2 |  | 5 | 43 |
+| ISB | Applicants | 27 | 15 | 235 | 9 | 887 |  | 82 | 36 | 49 | 12 | 250 | 1,602 |
+|  | Offers | 17 | 11 | 4 | 4 | 34 |  | 5 | 4 | 7 | 7 | 8 | 101 |
+| KHI | Applicants |  |  | 32 | 1 | 372 |  | 10 |  | 7 | 2 | 79 | 503 |
+|  | Offers |  |  | 1 |  | 30 |  | 2 |  | 8 | 2 | 1 | 44 |
+| LHR | Applicants | 23 | 8 |  | 10 | 1,145 | 13 |  | 72 | 21 | 5 | 198 | 1,495 |
+|  | Offers | 13 | 5 |  | 6 | 46 | 6 |  | 9 | 10 | 3 | 4 | 102 |
+| PWR | Applicants |  |  | 4 |  | 10 |  |  |  | 2 |  | 9 | 25 |
+|  | Offers |  |  |  |  | 7 |  |  |  |  |  | 5 | 12 |
+|  | Total Applicants | 55 | 23 | 294 | 24 | 2,525 | 13 | 92 | 108 | 81 | 19 | 573 | 3,807 |
+|  | Total Offers | 33 | 16 | 18 | 13 | 134 | 6 | 7 | 13 | 27 | 12 | 23 | 302 |
+
+---
+
+# Graduation Summary 
+
+|  |  | BBA | BS (AF) | BS (AI) | BS (BA) | BS (CS) | BS (CV) | BS (CY) | BS (DS) | BS (EE) | BS (FT) | BS (SE) | G. Total |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Karachi | 12 | - | 32 | - | 577 | - | 29 | - | 87 | - | 144 | 881 |
+|  | Lahore | 90 | 41 | - | - | 428 | 82 | - | 25 | 127 | - | 62 | 855 |
+| 2023-24 | Islamabad | 107 | 63 | 100 | - | 479 | - | 52 | 43 | 76 | - | 117 | 1,037 |
+|  | Peshawar | - | - | - | - | 89 | - | - | - | 17 | - | 18 | 124 |
+|  | Faisalabad | 44 | - | - | - | 316 | - | - | - | 71 | - | 102 | 533 |
+|  | G. Total | 253 | 104 | 132 |  | 1889 | 82 | 81 | 68 | 378 |  | 443 | 3430 |
+|  |  | MBA | MBA (1.5) | MS (AF) | MS (CNS) | MS (CS) | MS (CV) | MS (DS) | MS (EE) | MS (Ling) | MS (MG) | MS(Math) | G. Total |
+|  | Karachi | - | - | - | 18 | 39 | - | 59 | 1 | - | - | - | 117 |
+|  | Lahore | 53 | - | - | - | 22 | 39 | 21 | - | 14 | - | 13 | 162 |
+| 2023-24 | Islamabad | 26 | - | - | 18 | 15 | - | 26 | 12 | - | 4 | 0 | 101 |
+|  | Peshawar | - | - | - | - | - | - | 2 | - | - | - | - | 2 |
+|  | Faisalabad | 2 | - | - | - | 14 | - | - | 2 | - | - | - | 18 |
+|  | G. Total | 81 | - | - | 36 | 90 | 39 | 108 | 15 | 14 | 4 | 13 | 400 |
+|  |  | MS (SE) | MS (SPM) | MS (AI) | MS (BA) | PhD (CS) | PhD (EE) | PhD (Math) | PhD (MG) | PhD (MS) | PhD (SE) | PhD (CV) | G. Total |
+|  | Karachi | - | 40 | - | - | 4 | - | - | - | - | - | - | 44 |
+|  | Lahore | - | 18 | - | 55 | 1 | - | 1 | - | - | - | - | 75 |
+| 2023-24 | Islamabad | 15 | 0 | 24 | 16 | 3 | 2 | - | 3 | - | 2 | - | 65 |
+|  | Peshawar | - | - | - | - | - | - | - | - | - | - | - | - |
+|  | Faisalabad | - | - | - | - | 2 | - | - | - | - | - | - | 2 |
+|  | G. Total | 15 | 58 | 24 | 71 | 10 | 2 | 1 | 3 | - | 2 | - | 186 |
+
+---
+
+# Chapter-4 Academic Activities CHINIOT-FAISALABAD Campus 
+
+## $76^{\text {th }}$ Convocation of the University
+
+The $76^{\text {th }}$ Convocation of the University was held on November 19, 2023 in CFD Campus. Mr. Mian Muhammad Mansha, Chairman Nishat Group was the chief guest. Mr. Qaiser Ahmad Sheikh, Former Member National Assembly of Pakistan and Member Board of Governors NUCES was the guest of honor. The convocation was attended by Dr. Aftab Ahmad Maroof, Rector of the University, Dr. Shahzad Sarfraz, Campus Director, faculty, graduating students and the parents. The Rector urged the students to continue process of learning throughout their lives and lead their respective fields through passion, sacrifice and unusual commitment. The Guest of Honor shared some of the Government's achievements for improvement in quality of education in Pakistan. Degrees were conferred to 350 graduates.
+
+## Medal Distribution
+
+The medal distribution ceremony of CFD Campus was held on May 04, 2024. Dr. Muhammad Amjad Saqib, Chairman \& Founder of Akhuwat Foundation was the chief guest. The chief guest gave away the medals to 80 position holders for their exceptional performance in the Spring-2023 and Fall-2023 semesters. Worthy Chief Guest along with Rector and Campus Director also distributed certificates among the staff and faculty members who have been serving this prestigious institution for 10 years.
+
+## Foreign and Local Academic Linkages
+
+## 1- International Conference on IT and Industrial Technologies
+
+FAST National University of Computer \& Emerging Sciences, Chiniot-Faisalabad organized the $2^{\text {nd }}$ International Conference on IT and Industrial Technologies 2023 (ICIT'23) where researchers from all over the world and Pakistan joined us to share the fruits of their findings and research with us. It was a wonderful journey. Dr. Aftab Maroof, our esteemed Rector, graced the hall of the CFD Campus with his presence, as program Conference Chair, and Dr. Shahzad Sarfraz as the Program General Chair. Dr. Umar Aftab, Dr. Usman Habib, Mr. Adeel Ashraf, and Mr. Usman Joyia served as Program Co-Chair.
+
+## 2- Seminar on Side-Channel Information Leakage -The Night is Dark and Full of Terrors
+
+FAST NUCES Chiniot-Faisalabad campus invited Dr. Maria Mushtaq, Associate Professor at Telecom Paris, France for seminar on Side-Channel Information Leakage -The Night is Dark and Full of Terrors. The seminar was held on 24 August 2023. Her talk shed light on the vulnerabilities arising from side-channel attacks, which exploit indirect information leakage to compromise sensitive systems. The session provided a platform for faculty, students, and researchers to deepen their understanding of side-channel attacks and their implications on data security. The seminar was highly engaging, with an interactive Q\&A session that encouraged active participation and knowledge sharing. This event was a part of campus's
+
+---
+
+commitment to fostering academic excellence by bringing global perspectives to the forefront of education and research.
+
+# 3- Seminar on Breaking Myths 
+
+FAST-NUCES Chiniot-Faisalabad Campus organized a seminar titled "Breaking Myths", conducted by Mr. Haider Miraj, the CEO of Askolay on 30 August 2023. The seminar was specifically designed for final-year students, aiming to empower them with insights and strategies to excel in their professional lives. Mr. Haider addressed common misconceptions about career growth and professional success, offering practical advice on navigating workplace challenges, building a personal brand, and staying resilient in the face of uncertainties.
+
+## 4- Seminar on Career Opportunities Through LinkedIn
+
+FAST-NUCES Chiniot-Faisalabad Campus hosted a seminar titled "Career Opportunities Through LinkedIn", conducted by Mr. Aown Muhammad Sahi, a LinkedIn coach at the National Incubation Center (NIC) on 30 August 2023. The seminar focused on equipping students with the knowledge and skills to leverage LinkedIn effectively for career advancement. The speaker provided practical guidance on building a compelling LinkedIn profile, networking with industry professionals, and discovering job opportunities. He also shared insights into LinkedIn's role as a powerful tool for personal branding and professional development in the digital age.
+
+## 5- Seminar on Undergraduate Semester Exchange (UGRAD) Program
+
+On $4^{\text {th }}$ September 2023, FAST-NUCES Chiniot-Faisalabad Campus organized an informative seminar on the Undergraduate Semester Exchange (UGRAD) Program. The session was conducted by Mr. Usman Abid, Software Engineer at Jet Health Solutions, and Mr. Soban Amir, a UGRAD Scholarship Holder from FAST-NUCES Chiniot-Faisalabad Campus. The seminar provided students with detailed insights into the UGRAD program, covering the application process, eligibility criteria, and benefits of participating in a semester exchange. Drawing from their experiences, the speakers highlighted the transformative impact of studying abroad, emphasizing personal growth, academic enrichment, and cultural exchange. The seminar encouraged students to consider global academic opportunities and provided practical tips for crafting competitive scholarship applications.
+
+## 6- Seminar on Coping with Stress and Anxiety
+
+FAST-NUCES Chiniot-Faisalabad Campus conducted a seminar titled Coping with Stress and Anxiety delivered by Ms. Zartash Naqvi, Lecturer at FAST-NUCES CFD Campus on 6th September 2023. The seminar aimed to equip students with practical strategies to manage their mental well-being effectively. The speaker highlighted the causes and symptoms of stress and anxiety, offering actionable tips to cope with academic pressure, maintain a balanced lifestyle, and seek support when needed.
+
+## 7- Seminar on Latest in AI and Freelancing 2.0 with Career Growth
+
+On $13^{\text {th }}$ September 2023, FAST-NUCES Chiniot-Faisalabad Campus organized an engaging seminar titled Latest in AI and Freelancing 2.0 with Career Growth. The session was led by Dr. Irfan Malik, Founder \& CEO of Xeven Solutions, and Dr. Sheraz Naseer, Head of Artificial Intelligence at Xeven Solutions. The seminar
+
+---
+
+focused on the evolving landscape of Artificial Intelligence (AI) and its integration with freelancing platforms, emphasizing new opportunities for career growth in the digital economy. Dr. Sheeraz shared insights on the rapid advancements in AI technologies and their implications for various industries, while Dr. Irfan highlighted how AI-driven solutions are reshaping freelancing workflows and creating innovative avenues for professionals.
+The speakers shared advice on building a successful freelancing career in the context of AI-driven marketplaces, underscoring skills development, adaptability, and leveraging emerging technologies.
+
+# 8- Seminar on Safe \& Informed Migration - Work \& Study Abroad 
+
+On $13^{\text {th }}$ September 2023, FAST-NUCES Chiniot-Faisalabad Campus hosted a seminar titled "Safe \& Informed Migration - Work \& Study Abroad". The speaker was Ms. Shahzia Rafique, Counsellor at Migrant Resource Center Lahore. The seminar provided valuable insights into safe migration practices, opportunities for studying and working abroad, and navigating the migration process effectively. The purpose was to share clarity on essential requirements and resources for pursuing international education and careers.
+
+## 9- Seminar on Resolving Conflicts and Cultivating a Positive Outlook
+
+The campus organized a seminar on "Resolving Conflicts and Cultivating a Positive Outlook" by Mr. Talha Javed, Unit Head Organizational Development at Interloop Holdings Private Limited on 20th September 2023. The session focused on practical strategies for managing conflicts, improving communication, and fostering a positive mindset, equipping students with skills for personal and professional growth.
+
+## 10.Seminar on Transition from Student Life to Techforce
+
+On $4^{\text {th }}$ October 2023, Mr. Ahmed Buksh, Co-Founder of Cogent Labs, delivered an insightful session on "Transition from Student Life to Techforce". The session was designed to equip students with the knowledge and tools needed to navigate the shift from academic life to the professional tech industry. The speaker offered guidance on career planning, skills development, and adapting to professional environments. The interactive nature of the seminar allowed students to seek guidance on overcoming common hurdles faced during the early stages of their careers.
+
+## 11.Seminar on Navigating the Challenges of Negative Influences on Students
+
+FAST-NUCES Chiniot-Faisalabad Campus hosted a seminar addressing "Navigating the Challenges of Negative Influences on Students" on 11th October 2023. The session was conducted by Ms. Zartash Naqvi and Ms. Anoosha Rehan, Lecturers at FAST-NUCES CFD Campus. The discussion centered on identifying and overcoming negative influences, fostering resilience, and promoting a supportive environment for students' personal and academic growth.
+
+## 12.Seminar on Opening Up the Horizons An Insight into the World of Scholarships, Fellowships \& Exchanges Abroad
+
+Mr. Waqar Baig, Assistant Professor at FAST-NUCES Lahore, delivered an informative session titled "Opening Up the Horizons An Insight into the World of
+
+---
+
+Scholarships, Fellowships \& Exchanges Abroad" on 11th October 2023. The seminar aimed to guide students on opportunities for global academic and professional growth, providing details on various scholarship and fellowship programs, application processes, and tips for crafting competitive applications. The session inspired inspiring students to pursue these prestigious opportunities and they gained valuable resources and insights to kickstart their journey toward studying or working abroad.
+
+# 13.Seminar on Palestine - Israel Conflict A Historic Perspective 
+
+Dr. Rizwan Ullah Kokab, Professor and Chairman of the Department of History at GCUF, delivered an insightful seminar titled "Palestine - Israel Conflict A Historic Perspective" on 18th October 2023. The session delved into the historical context, causes and implications of the long-standing conflict, offering students a comprehensive understanding of its socio-political dimensions. He also provided clear view of the atrocities committed by the Israeli forces on the Palestinian people.
+
+## 14.Seminar on How to Ace Your Professional Journey
+
+FAST NUVCES CFD Campus conducted a seminar on "How to Ace Your Professional Journey". Ms. Siroosh Tahir, People and Culture Specialist at Crewlogix Technologies, delivered the seminar on 18th October 2023. The session focused on essential career skills, including effective communication, workplace adaptability, and focus on interpersonal skills.
+
+## 15.Panel Discussion on Understanding Application Development From CS \& SE Professional Perspective
+
+On 1st November 2023, FAST-NUCES Chiniot-Faisalabad Campus organized a panel discussion titled "Understanding Application Development From CS \& SE Professional Perspective". The session brought together esteemed faculty and industry experts, including
+
+Mr. Owais Ahmad Khan, CEO of Zai Systems
+Mr. Affan Rauf, HoD-SE \& Assistant Professor, FAST CFD
+Dr. Qamar Uz Zaman, Assistant Professor, FAST CFD
+Mr. Rizwan Ul Haq, Assistant Professor, FAST CFD
+Mr. Jawad Khalid Cheema, Lecturer, FAST CFD
+The panelists discussed the practical and theoretical aspects of application development, highlighting the skills required in the field, challenges faced by professionals, and emerging trends in software engineering and computer science. Students gained valuable insights into how to align their Final Year Projects with industry needs and future career paths.
+
+## 16.Webinar on Unveiling the World of Cyber Security A Path to Secure Future
+
+Ms. Kainat Rizwan, CEO of KaiRiz Cyber Technologies, Cyber Consultant, and Ethical Hacker delivered an engaging webinar titled "Unveiling the World of Cyber Security A Path to Secure Future" on 11th November 2023. The session introduced students to the critical and ever-evolving field of cybersecurity, discussing the importance of protecting digital infrastructures and the growing demand for cybersecurity professionals. The speaker shared insights into the current challenges
+
+---
+
+in the cybersecurity domain, including common vulnerabilities and the ethical considerations of hacking.
+
+# 17.Seminar on CV Writing and Interview Skills 
+
+FAST NUCES CFD Campus organized an interactive session on "CV Writing and Interview Skills" on 15th November 2023. Mr. Rumayle Shahid, Project Lead at Foster Learning, was speaker of the session. This seminar provided practical guidance to students on crafting compelling resumes and preparing for job interviews. The speaker covered key aspects such as structuring a CV to highlight relevant skills, experience, and achievements, as well as the importance of tailoring the CV to specific job roles.
+Additionally, the session included useful tips on handling interview questions with confidence, demonstrating soft skills, and making a lasting impression.
+
+## 18.Webinar on Learning Effective Strategies for Building Impactful Solutions
+
+Mr. Omair, CEO of IgniCube, delivered a thought-provoking webinar titled "Learning Effective Strategies for Building Impactful Solutions" on 18th November 2023. This session emphasized the importance of problem-solving, creativity, and strategic thinking in the development of impactful business and tech solutions.
+
+## 19.Webinar on Self Alignment to Start Up
+
+Mr. Rana Asif Rubbani, CEO \& Founder of Uworx Group, delivered a webinar titled "Self-Alignment to Start Up" on 2nd December 2023. The seminar focused on the entrepreneurial mindset and how students can align their skills, passions, and values to build successful startups.Mr. Rubbani provided valuable insights into the challenges and opportunities in the startup world. The session also addressed the importance of adaptability and resilience in the entrepreneurial journey.
+
+## 20.Seminar on Awareness Session on Empowering Freelancing Journey by HBL
+
+On Thursday, 25th April 2024, Mr. Rizwan Siddique, Cluster Manager at HBL Faisalabad, and Mr. Umar Tehsin Baig, Relationship Manager for B2B Sales, delivered an Awareness Session on Empowering Freelancing Journey. The session focused on how freelancers can leverage financial tools and services to streamline their operations, boost productivity, and grow their businesses. The goal was to empower students to take control of their freelance ventures with the right tools and strategies.
+
+## 21.Webinar on Navigating the World of Freelancing Strategies for Success in UI/UX
+
+On $4^{\text {th }}$ May 2024, Mr. Kaleem Cheema, Web Designer at PackageX, delivered a session on "Navigating the World of Freelancing Strategies for Success in UI/UX". The seminar focused on how students can successfully navigate the world of freelancing, specifically in the field of UI/UX design. Mr. Cheema shared valuable insights on how to build a strong portfolio, attract clients, and manage projects in the highly competitive world of freelancing. He will also provide practical tips on staying up-to-updated with the latest design trends and tools, ensuring students are well-equipped to succeed as UI/UX freelancers.
+
+---
+
+# 22.Seminar on UX Design as a Career 
+
+Mr. Haider Ali, Lead Product Designer at Evento Solutions LLC, conducted a seminar on "UX Design as a Career" on 8th May 2024,. This session introduced students to the growing field of UX design and how it offers diverse career opportunities in technology, business, and consumer products.
+
+## 23.Webinar on Introducing NoCode
+
+Mr. Zubair Lutfullah Kakakhel, Founder of AZKY Tech Labs, delivered a webinar titled "Introducing NoCode" on 9th May 2024,. This session introduced students to the world of NoCode platforms and how they can use these tools to create apps, websites, and automate workflows without needing advanced coding skills. The speaker demonstrated how NoCode platforms are transforming the way businesses and individuals build digital products, making it more accessible for non-technical users.
+
+---
+
+# ISLAMABAD CAMPUS 
+
+## Medal distribution ceremony
+
+FAST-NUCES Islamabad Campus proudly celebrated its top achievers at the Spring 2024 Medal Distribution Ceremony on April 26, 2024 where students and their proud parents joined to honor outstanding academic performance. At the Spring 2024 Medal Distribution Ceremony, FAST - NUCES recognized its top performers. Medals and certificates were awarded to students in celebration of their academic success.
+
+## $73^{\text {rd }}$ Convocation of the University
+
+Islamabad campus hosted $74^{\text {th }}$ convocation on October 21, 2023. Dr. Samar Mubarakmand, Pakistani nuclear physicist was the Chief Guest. Degrees were conferred to 530 Bachelor and Masters Graduates. Medals were awarded to the top three position holders for their excellent academic performances. Dr. Aftab Ahmed Maroof Rector FAST NUCES, in his welcome speech, congratulated the students and their parents for achieving this milestone in their lives. He emphasized that growth in the career depends upon competence and commitment. The Rector said that character-building and personality-development of the youth should be the foremost goal of education. Honesty and truth are key attributes that result in the professional growth. He congratulated the students and their parents and urged them to always work hard with commitment and bring glory to themselves, their parents and the university.
+
+## Job Fair
+
+FAST-NUCES, Islamabad Campus organized the Open House \& Job Fair 2024 on $25^{\text {th }}$ April 2024. More than 120 industry partners, including MNCs, top IT \& telecom companies, software houses, leading banks and emerging startups participated in the event. 400 plus graduates of BS(CS), BS(EE), BBA, and BS(AF) showcased their Final Year Projects. Companies also interviewed the graduating students for different roles. Valued industry partners appreciated the efforts of Islamabad Campus to connect the young talent with industry.
+
+## Huawei ICT Innovation Global Competition 2022-23 (China)
+
+Congratulations to our incredible team (Minhal Zafar, Muhammad Shaheer, and Hyder Ali) under the supervision of Ma'am Noor ul Ain from FAST NUCES ISLAMABAD has emerged victorious, clinching the $3^{\text {rd }}$ prize in the Huawei ICT Innovation Global Competition 2022-23 (China). It's an absolute honor to witness our students' exceptional talent and dedication being recognized on an international platform. Huawei ICT Competition 2022-2023 Global Final concluded in Shenzhen, drawing to a close the seventh installment of this competition. The first to be held in person since 2019, the event's culmination was a competition between finalists in 146 teams from 36 countries. Before the Final, more than 120,000 students from more than 2000 universities in 74 countries and regions around the world took part in the ICT Competition. One of our Students Umar Raza Pakista_Team_2 from FAST-NUCES Islamabad campus clinched 3rd position in Huawei ICT Championship 2022-2023 Global Final.
+
+## Pakistan Cyber Security Challenge 2023
+
+Mr. Muhammad Abdullah Abid, Lecturer in the Cyber Security department, and his team member Sameem Shabbir, secured the $1^{\text {st }}$ prize in the Professional Category at the Pakistan Cyber Security Challenge 2023. This national-level competition saw participation from
+
+---
+
+researchers and industry professionals. The competition focused on solving cryptographic challenges and designing solutions based on cryptography. We are extremely proud of this incredible achievement and here's to more triumph in the future.
+
+# National Debate Championship 
+
+We are pleased to inform you that our students won the National debate championship. The GIKI Open (Ghulam Ishaq Khan Institute Open All Pakistan National Debating Championship) took place from the $23^{\text {rd }}$ to the 25 th of January ' 24 . The prestigious trophy, which has been moving from city to city and even country to country, has finally been brought to Islamabad by the FAST Debating Society. This achievement is a triumph not only for FAST but also for the entire Islamabad and Rawalpindi debate circuit, as it has not been accomplished for the past 5-6 years. Teams from across the nation and various institutions gather to attend and compete in a grueling 3-day event consisting of 4-7 rounds.
+
+## Diversity, Equity and Inclusion (DEI)
+
+FAST-NUCES, Islamabad Campus, in its dedication to promoting Diversity, Equity and Inclusion (DEI), attended the launch of the MobilinkHER (Women Returnship Program) 2024. Under the umbrella of "Nation building through supporting females"- NRPU project, this launch was attended by the *Gender DEI Toolkit Volume III* team and the team working on *Women in Stem and Finance*. In addition to this, Dr. Mehreen Alam and her innovative team, who are working on the *Gender DEI Chatbot*, also attended the event, alongside our students, who were also actively involved in this initiative and gained valuable insights, showcasing our collective effort to nurture an inclusive and empowering environment for women. Together, we're shaping a brighter, more inclusive future.
+
+## 5G Innovation Hackathon
+
+A landmark 5G Innovation Hackathon, a joint effort by leading telecom Jazz, the National University of Sciences and Technology (NUST), the National IT Board (NITB), and Code for Pakistan (CfP) concluded successfully in Islamabad. Technology partners Oppo, Huawei, and Tecno supported the event at the Jazz 5G Research Lab situated within the School of Interdisciplinary Engineering and Sciences (SINES) NUST. It showcased the transformative power of 5G through innovative solutions developed by some of Pakistan's brightest young minds. Team Patronus comprising of Ms Zara, Ms Faryal, and Ms. Masham an all-girls team from FAST-NU Islamabad, emerged victorious for their innovative "Remote Healthcare using WiFi" project. This system utilizes 5G- enhanced WiFi signals for remote patient monitoring, including vital signs, fall detection, and breathing patterns. Rector FAST-NUCES Dr. Aftab Maroof and Campus Director Dr. Waseem Shahzad congratulate students Ms. Zara, Ms. Faryal, and Ms. Masham from FAST-NU Islamabad for their victory at the landmark 5G Innovation Hackathon in Islamabad. Their winning project, "Remote Healthcare using WiFi," showcased at the Jazz 5G Research Lab within NUST's School of Interdisciplinary Engineering and Sciences, highlights the transformative potential of 5G technology.
+
+## NUMLOGIC 2024
+
+We are pleased to share that among 113 competing teams at the recent NUMLOGIC 2024 programming competition, our FAST NUCES team, "Ayro Function," won this competition. We congratulate the winning team and their faculty mentors. With continued support and encouragement, we are confident that our students will continue to achieve excellence in various endeavors, representing FAST-NUCES with distinction.
+
+---
+
+# $3^{\text {rd }}$ IBA SBS International Conference 
+
+Undergraduate students of FAST-NUCES, Islamabad Campus proudly presented their research conference papers under the supervision of Ms. Sarah Khan in IBA Karachi at the 3rd IBA SBS International Conference held on May 30-31, 2024. The conference papers developed around Artificial Intelligence and Chatbots.
+
+## Vyrothon Hackathon
+
+FAST NUCES Dominates Vyrothon, Winning 1st and 2nd Places with Innovative AI Solutions. At the recent Vyrothon hackathon, teams from FAST-NUCES Islamabad secured top positions among fierce competition from NUST and GIKI. Team ImaginAI's "FASTrack" revolutionized Applicant Tracking Systems with generative AI, earning first place. Team Let Me Think's groundbreaking 2D-to-3D environment interaction app took second. These achievements highlight FAST-NUCES' commitment to innovation and excellence in generative AI and that FAST NUCES remains the vanguard of technological innovation, continuously pushing boundaries and setting new standards of excellence.
+
+## CUST Hackathon 2024
+
+FAST-NUCES has once again proven its dominance, securing first place at the CUST Hackathon 2024. The event, hosted by CUST in collaboration with Huawei, the Pakistan Developers Community, and the TensorFlow User Group Islamabad, saw over 60 teams from prestigious universities such as NUST and UET across Pakistan compete. Students Huzaifa Khan, Hashim Muhammad Nadeem, and Shahryar Adil showcased a groundbreaking prototype that leverages LLMs and self-learning agents for automated software testing and validation, exemplifying best practices in software engineering. This victory underscores FAST-NUCES' unwavering dedication to innovation and excellence in generative AI, reaffirming its position at the forefront of technological advancement, continuously pushing boundaries and setting new standards of excellence.
+
+## Huawei ICT Competition 2023-2024
+
+FAST NUCES Islamabad Campus students won the Grand Prize at the Huawei ICT Competition 2023-2024 global finals in Shenzhen, China. On May 26, 2024, Team GrocPOS, comprising Usama Hameed Awan, Hamza Rehan, and Abdullah Khalid, under the supervision of Ms. Sidra Khalid, presented an innovative project that impressed the judges with its creativity and technical prowess. They secured the top position in the Middle East and Central Asia Region and ultimately won the Grand Prize. The global finals, held at Huawei headquarters in Shenzhen, featured over 170,000 students from more than 2,000 universities across 80+ countries. Teams from 16 countries, including Jordan, Türkiye, Greece, Iraq, Egypt, Morocco, Ghana, Brazil, Pakistan, Colombia, Brunei, Philippines, Laos, Thailand, and South Africa, participated, showcasing their ideas in emerging technologies like AI, IoT, big data, Huawei Cloud, and HarmonyOS. The Groc-POS team also showcased their project at the Middle East and Central Asia (ME\&CA) booth by winning the regional top position.
+
+## Nationwide Data Hackathon
+
+FAST-NUCES Islamabad campus is thrilled to announce its 2 nd position in the Nationwide Data Hackathon organized by Jazz! Our talented students from the department of DS and AI, Areeba Riaz, Kisaa Fatima, and Maryam Noor Fatima, showcased exceptional creativity and data visualization skills using Tableau, beating over 500 teams and 1,400 students from
+
+---
+
+all over the country. Dr. Sadia Nadeem was invited on stage by Jazz to present the winning students a cash prize of Rs.250,000, The event was attended by Farah Sheikh (Head of Talent Learning \& Culture), Fatima Akhtar (Head of Corporate Communications \& Sustainability), Tazeen Shahid (Chief People Officer), Syed Fakhar Ahmed (Chief Corporate \& Regulatory Officer), Kazim Mujtaba (Chief Commercial Officer), Saima Kamila Khan (Chief Legal Officer), Ali Naseer (Chief Data \& Strategy Officer), and Jawad Ali (Head of HR Business Partnership) from Jazz. Dr. Waseem Shahzad (Director Islamabad Campus), Dr. Sadia Nadeem (Dean Faculty of Management Sciences) and Adil Kazi, (Director Centre of Executive Education) from FAST (Islamabad Campus) attended the event.
+
+# Lambda Bonanza event at Elixir Technologies 
+
+We want to extend our sincere gratitude and heartfelt congratulations to our students for their exceptional participation in the recent Lambda Bonanza event at Elixir Technologies. Nine students from FAST participated, and it was a delight to witness their impressive performance, with some securing 3rd place.
+Winning Students
+Fakhar Abbas (Team Member, Al-Fajar Alpha, secured $3^{\text {rd }}$ Place in competition)
+Qalander Aziz (Team Member, Al-Fajar Beta, secured $3^{\text {rd }}$ Place in competition)
+
+## Compliment by Elixir Technologies
+
+"Their success is a testament to the quality of education and guidance they receive at FAST University. The collaboration between your institution and our company has proven to be a fruitful example of the power of industry-academia linkages. The event provided the students with a valuable opportunity to learn and grow under the supervision of our experienced employees, and they rose to the occasion admirably."
+
+## Education Info Fair 2024
+
+The FAST-NUCES Islamabad team, led by Ms. Laraib Asif, attended the Education Info Fair 2024 at six colleges, organized by the Ministry of Federal Education and Professional Development. During the six-day event, they interacted with prospective students, providing valuable information about their programs, admission schedules, career prospects, and the benefits of studying at FAST-NUCES. This initiative helped students make informed decisions about their higher education.
+
+## Advanced AI Bootcamp held at SEECS, NUST
+
+We are incredibly proud to announce that Abdullah Ashfaq (CS $22^{\text {nd }}$ Batch) and Jawad Haleem (EE 20th Batch), students from FAST NUCES, recently participated in the Advanced AI Bootcamp held at SEECS, NUST, and delivered an outstanding performance. Their Capstone Project, which involved converting LaTeX to Python code, achieved a remarkable $98.3 \%$ accuracy-the highest among all teams! Their exceptional work and innovation earned them First Prize, a testament to their dedication, creativity, and technical expertise. Congratulations to Abdullah and Jawad for representing FAST NUCES with such distinction and bringing home this honor!
+
+## LUMS Pre-ABP 2024 International Online Debate Tournament
+
+Heartiest congratulations to Ms. Maryam Agha for her outstanding achievement as she triumphantly clinches victory in the Novice Category Finals and takes home the coveted Best Speaker award at the LUMS Pre-ABP 2024 International Online Debate Tournament!
+
+---
+
+$\mathbf{S}$ Her dedication, eloquence, and remarkable debating skills have shined through in this prestigious event, bringing immense pride to FAST-NUCES.
+
+# Speed Programming Competition 
+
+We are thrilled to announce that our students, Junaid Zeb and Sameed Ahmed, have made us proud by securing 1st place in the Speed Programming Competition held at COMSATS University Islamabad on October 10th, 2024! Competing against more than 95 teams, their hard work and dedication earned them the top spot along with a cash prize of PKR 20,000. This outstanding achievement showcases the talent of our students and the strength of our academic programs.
+
+## HEC All Pakistan Inter-University Taekwondo Championship 2024-25
+
+Aqsa Noor Amin, a BS Cybersecurity student from FAST-NUCES Islamabad Campus, secured a gold medal at the HEC All Pakistan Inter-University Taekwondo Championship 2024-25, organized by the University of Veterinary and Animal Sciences, Lahore. Congratulations to Aqsa on this outstanding achievement! Special thanks to the FASTNUCES Sports Office for nurturing student talent and facilitating national-level participation.
+
+## National Rugby Team
+
+FAST-NUCES Islamabad Campus is thrilled to announce another outstanding achievement under the supervision of the Sports Office. Our student, Hasam Haider, who is pursuing a Bachelor of Science in Business Analytics, has made us proud by representing Pakistan on the national rugby team. He recently participated in the Asian Rugby Sevens Trophy held in Qatar and Nepal in 2024.This remarkable achievement not only showcases Hasam's exceptional talent but also reflects the strength and diversity of our academic programs, demonstrating that our students excel both in and out of the classroom.
+
+## $17^{\text {th }}$ Korean Ambassador National Taekwondo Championship 2024
+
+FAST-NUCES Islamabad Campus is thrilled to announce another outstanding achievement under the supervision of the Sports Office. Our student, Aqsa Noor Amin, currently pursuing her Bachelor's degree, has made us proud by representing the Higher Education Commission on the national Taekwondo team. She recently participated in the 17th Korean Ambassador National Taekwondo Championship 2024 at Liaquat Gymnasium, Pakistan Sports Complex, from October 25th to 29th, 2024 and secured two Bronze medals. This remarkable achievement showcases Aqsa's exceptional talent and reflects the strength and diversity of our academic programs, proving that our students excel both in and out of the classroom.
+
+## Pakistan Cyber Security Challenge Ideas Cup
+
+FAST-NUCES is proud to announce that our talented students secured the 1st Runner-Up position in the prestigious Pakistan Cyber Security Challenge Ideas Cup, earning a prize of PKR 100,000! Congratulations to Khubab Ahmed (Cybersecurity), Sana Khalid (Cybersecurity), and Dayyan (Fintech) for their outstanding performance. We encourage all our students to push their limits, embrace challenges, and continue making us proud on such competitive platforms.
+
+---
+
+# Huawei ICT Innovation Competition 2023-2024 Global Final 
+
+We are thrilled to celebrate the outstanding achievement of Team Groc-POS from FASTNUCES Islamabad Campus for winning the Grand Prize at the Huawei ICT Innovation Competition 2023-2024 Global Final in Shenzhen, China! Congratulations to Usama Hameed Awan, Hamza Rehan, Abdullah Khalid, and their project supervisor Miss Sidra Khalid for their groundbreaking project, "Groc-POS A Vision-Powered Retail Solution." Your innovation has not only revolutionized the retail industry but also brought immense pride to Pakistan and our institution. This global victory highlights the talent, dedication, and brilliance of our students and faculty, proving once again that FAST-NUCES Islamabad stands at the forefront of technological innovation.
+
+## Prime Minister's University Sports Olympiad 2024
+
+FAST-NUCES Islamabad Campus proudly announces its Girls' Table Tennis Team's exceptional performance in the Prime Minister's University Sports Olympiad 2024 and HEC All Pakistan Inter Universities Table Tennis Championship 2024, qualifying for the semifinals among 48 competing university teams. The team's outstanding achievement is a testament to the university's Sports Office and their commitment to nurturing top athletes for Pakistan's national teams. Dr. Waseem Shahzad, Director Islamabad Campus, and Syed Aoun Abbas, In-charge Sports Office, extend heartfelt congratulations to the team. With this remarkable feat, FAST-NUCES reaffirms its dedication to fostering talent and promoting women in sports and eagerly looks forward to the team's future successes! We proudly participated in the Prime Minister University Sports Olympiad 2024, organized by HEC Pakistan. Our athletes gave their all, showcasing determination, talent, and the spirit of FAST-NUCES.
+Congratulations to our team for representing us so brilliantly!
+
+## Window into IOT
+
+FES organized the seminar "Window into IoT" in collaboration with MRS Technologies and speaker Mr. Hasan Ijaz. The session covered IoT's revolutionary impact across industries, highlighting significant device deployment growth. Advancements in IoT technology, including sensors, data analysis, and insights generation, were discussed. Ongoing IoT initiatives in Pakistan, challenges in solution development, and the general IoT architecture were explored. The seminar provided valuable insights into IoT applications, recent advancements, and it's potential.
+
+## Soft Skills Workshop with Ma'am Emaan Mirza
+
+Description Ma'am Emaan Mirza, a distinguished coach in personal and professional development, conducted a comprehensive workshop on soft skills. The session focused on essential skills such as effective communication, leadership, teamwork, and time management. Emaan Mirza emphasized the importance of these skills in both academic and professional settings, providing students with practical strategies to enhance their interpersonal and organizational abilities.
+
+## Webinar with Abdul Hanan
+
+Description In partnership with NUST EME's RAC and featuring guest speaker Mr. Abdul Hanan from MRS Technologies, this webinar focused on PCB design implementations. The session provided a thorough rundown of industry expectations, emphasizing the importance of preparing for such roles during undergraduate years. It was a significant opportunity for students to gain insights into the latest trends and best practices in PCB design.
+
+---
+
+# TinyML Workshop 
+
+Description FES organized a hands-on workshop on TinyML, introducing students to the emerging field of machine learning on microcontrollers and edge devices. Participants learned how to deploy machine learning models on small-scale devices, gaining practical knowledge and experience in this cutting-edge area. The workshop was designed to enhance students' understanding of TinyML applications and their potential in various industries.
+
+## GIKI Trip
+
+Description FES organized an educational trip to Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI). The trip offered students the opportunity to explore the GIKI campus, interact with its students and faculty, and gain insights into different academic and research facilities. The experience was highly appreciated by the students, who expressed their desire for more such informative and engaging trips In the future.
+
+## Industrial Seminar with Dr. Junaid Syed
+
+Description IEEE hosted an industrial seminar featuring Dr. Junaid Syed, the Senior Vice President at Curvalux, UK, and a RAE Visiting Professor at Edinburgh Napier University. Dr. Syed shared his extensive expertise in wireless communication, discussing the latest advancements and industry trends. The seminar provided students with a deep understanding of the evolving landscape of wireless technologies and their applications.
+
+## Cybersecurity Seminar by Zohaib Tahir Qadri
+
+Description IEEE organized a cybersecurity seminar with Zohaib Tahir Qadri, an expert in the field. The session focused on the critical issue of digital vulnerabilities and the importance of decoding our global digital atmosphere. Participants gained valuable insights into cybersecurity strategies, enhancing their knowledge and readiness to tackle digital threats. The seminar aimed to empower students with the skills necessary to enhance digital resilience.
+
+## International Women's Day Celebration
+
+Description IEEE, in collaboration with Women in Engineering (WIE), celebrated International Women's Day under the Wisdom Tree. The event highlighted the achievements of women in engineering and aimed to foster unity and empowerment among female students. Participants were encouraged to wear shades of pink or purple, symbolizing solidarity and strength. The celebration included a group photo and various activities to honor the contributions of women in the field.
+
+## Escape Room Adventure Engineering-Themed Puzzle Challenge
+
+IEEE and WIE orchestrated an exhilarating Escape Room event, integrating engineeringthemed puzzles and challenges. Participants engaged in a collaborative quest, decoding secrets and solving intricate puzzles within a custom-designed room. This immersive experience not only tested but also refined problem-solving abilities in a dynamic and teamwork-focused setting.
+
+## Study Abroad Awareness Session by Yasir Akram
+
+Description FES and IEEE jointly hosted an awareness session with Yasir Akram, focusing on the process of studying abroad. The session covered essential topics such as application
+
+---
+
+procedures, scholarship opportunities, and adapting to international academic environments. Yasir Akram provided valuable insights and guidance to students aspiring to pursue higher education overseas, helping them navigate the complexities of the application process and prepare for a successful transition.
+
+# AI-Powered Seminar by Aqib Javed 
+
+Description FES and IEEE collaborated to organize an AI-powered seminar featuring Aqib Javed. The seminar explored the transformative impact of artificial intelligence across various industries, highlighting the latest advancements and future trends in AI technology. Participants gained a comprehensive understanding of AI applications, challenges, and opportunities, equipping them with the knowledge to leverage AI in their future careers. The event emphasized the importance of staying abreast of technological developments and their potential to drive innovation.
+
+---
+
+# KARACHI CAMPUS 
+
+## Training Session on Teaching Challenges \& Opportunities
+
+On Tuesday, 18th July 2023, Ms. Urooj Laghari, Assistant Manager QEC, organized a dynamic Training Session on "Teaching Challenges \& Opportunities" for faculty members. The speaker Dr. Shahab Tahzeeb, Assistant Professor at NED University, offered valuable insights and innovative teaching approaches to equip educators. The interactive nature of the training facilitated a collaborative and enriching learning experience, leaving participants inspired and empowered to enhance their teaching practices.
+
+## Session by Dr. Taqi Abrar
+
+Dr. Taqi, PhD, from Queen Mary University of London, UK, visited FAST-NUCES Karachi Campus on June 17, 2023, at the special invitation of Dr. Muhammad Farrukh Shahid. Dr. Taqi delivered a session on soft robotics and its applications and use cases in Pakistan, which was organized under the CPT activity. His visit to FAST-NUCES aimed to develop collaboration in the research projects and establish a connection among active researchers between Pakistan and the UK.
+
+## $21^{\text {st }}$ Century Skills Preparing Today's Students for Tomorrow's Challenge
+
+Mr. Muhammad Wasif Khan, Lecturer of English, Department of Sciences and Humanities, Karachi campus was awarded a certificate of participation on July 3, 2023, for attending a Webinar Series on the 21st Century Skills Preparing Today's Students for Tomorrow's Challenge, sponsored by the Regional English Language Office (RELO) at the Public Diplomacy Section of the U.S. Embassy, Islamabad and administered by Evolution. The two-day interactive event focused on 21st Century skills and techniques, highlighting how students and teachers can efficiently and effectively incorporate technology in their teaching and learning. The webinar series is part of OPEN Pakistan's efforts to provide virtual professional development opportunities for English language teachers and learners in Pakistan.
+
+## Solus Labs HackFest 2023
+
+Dr. Muhammad Farrukh Shahid (Assistant Professor) of the CS department at FASTNUCES Karachi, along with the students, attended the Hackfest 2023 by Solus Labs powered NIC Karachi on July 25, 2023, at the NIC Karachi, Pakistan. The event covered emerging technologies, such as the metaverse, AR, and web 3.0, and brought to attention lots of opportunities regarding projects and startups. It also provided an opportunity to network with industrial experts.
+
+## Two Days International Training Session
+
+Ms. Aqsa Fayyaz, Psychology Lecturer at the Department of Sciences and Humanities, Karachi Campus, was nominated by her department to attend for a prestigious two days International Training Session on Counselling Excellence, hosted by Transformation International Society on 22nd and 23rd July 2023. This exceptional opportunity allowed her to deepen her expertise and learn new skills and techniques relevant to her field of Psychology. The enriching experience not only broadened her horizons but also equipped her to further excel in her role as an educator and a counsellor.
+
+---
+
+# Orientation Ceremony 2023 
+
+The Orientation Ceremony for BS Programs at FAST-NUCES, Karachi Campus, was held on August 17, 2023, at the main branch located on National Highway. The event included four sessions, where Dr. Atif Tahir, Campus Director, along with the Heads of Departments, provided comprehensive information to students and their families regarding university policies, regulations, code of ethics, and available facilities. On August 19, 2023, a similar orientation session took place at the City Campus for all Master's degree programs. This academic year, FAST-NUCES Karachi successfully admitted students across all degree programs, including new additions such as BS (Financial Technologies) and MS (Business Analytics).
+
+## Book Fair 2023
+
+The Book Fair took place on the 28th and 29th of August, 2023, and it was a resounding success! The fair drew the attention of numerous students and faculty members who enthusiastically explored the wide selection of books available. A series of captivating events enriched the Book Fair experience. Questions on general knowledge were asked, and books as gifts given to motivated students, promoting reading culture among students. A Book Scavenger Activity was conducted on both August 28th and 29th, 2023 to enhance the students' familiarity with library resources, this engaging activity aimed to make students more adept at searching for books within the library, further fostering a sense of exploration and discovery.
+
+## Guest Speaker Session with Adeel Hashmi
+
+On Friday, 10th August 2023, Ms. Urooj Laghari, Assistant Manager QEC, organized a guest speaker session in collaboration with QEC Lahore Campus on "Empowering the Educators" for faculty members. The speaker Adeel Hashmi emphasized the significance of moral values in education and their impact on student's development. He also discussed the evolving responsibilities and challenges faced by today's educators. The session provided valuable insights into effective teaching practices and the role of educators in shaping future generations.
+
+## Library Orientation Week
+
+Library of FAST NUCES Karachi had arranged orientation week for the new batch of 2023, from 21st August to 25th August. During this week students were introduced with following; how to access library page, introduction to the library subscribed resources, demonstration of search techniques and filters, how to access and download digital books and academic papers, introduction to research databases and tips for effective searching, guidance on citing digital sources and using citation management tools, tips for determining the credibility and reliability of digital information, how to avoid plagiarism, interlibrary loan services, booking discussion room services, book reservation, and library extended services.
+
+## Interactive Session with Sajid Hasan
+
+On 28th August 2023, renowned actor, director, and producer, Mr. Sajid Hasan visited FAST NUCES Karachi and conducted an interactive session conducted with students, this interactive session provided valuable insights into the world of arts, culture, knowledge and information. Mr. Sajid Hasan's words undoubtedly struck a chord with every attendee.
+
+---
+
+# Certification of Graduation iParhai 
+
+iParhai, a startup based at FAST NUCES Karachi campus founded by Dr. Jawwad Ahmed Shamsi, has successfully completed the incubation cycle at National Incubation Center Karachi on 4th August 2023.
+
+## Zero Visit by National Computing Education Accreditation Council (NCEAC)
+
+On September 7th, 2023, Dr. Syed Asif Ali, the convener of the National Computing Education Accreditation Council (NCEAC), conducted a comprehensive evaluation of the BS Data Science program at the FAST School of Computing, Karachi Campus. The evaluation covered course content, curriculum structure, and on-site facilities. Prof. Dr. Jawwad Ahmed Shamsi, Dean, FAST School of Computing, Prof. Dr. Muhammad Atif Tahir, Director, Karachi Campus, Prof. Dr. Zulfiqar Ali Memon, Head of School, FAST School of Computing, Dr. Muhammad Rafi, Head of Department, Department of Artificial Intelligence \& Data Science, the Quality Enhancement Cell (QEC) participated in the assessment meeting. The assessment was carried out in accordance with NCEAC standards.
+
+## Interactive Session by Youth Club
+
+On 22nd September 2023, Youth Club organized an awareness session in collaboration with ACM society at FAST NUCES Main Campus Karachi. In the two hours long awareness session renowned speakers Mr. Muhammad Ali and Mr. Wajih uddin delivered a talk on the topic of "The Combat Kit - How to deal with the challenges of Life". A huge crowd of students responded to the well awaited event. The significant objective of these sessions are to create awareness among students about having the right balance between the world and the religion.
+
+## Solus Labs HackFest Southeast Asia 2023
+
+On August $8^{\text {th }} 2023$, Solus Labs organized a HACKFEST on IDEAS TO PROTOTYPE at the National Incubation Centre Karachi. Two Teams of FAST National University Karachi secured 1st and 3rd positions in the Hackathon. 1st Positioned Team won $\$ 2500$ on the Idea of "Decentralized AI" and 3rd Positioned Team won $\$ 1000$ on the Idea of "METAFASH". We congratulate the winning teams and their Supervisors Dr. Jawwad Shamsi and Dr. Farrukh Shahid.
+
+## Teknofest 2023
+
+We are thrilled to announce that on August 26th, 2023, team "The Codists" from FAST NUCES Karachi have emerged as the champions of the Speed Coding competition at TeknoFest Pakistan 2023. Huge congratulations to our students Hassan Gatta, Owais Ali Khan, and Abdul Ahad for their outstanding performance and dedication. Their hard work and brilliant coding skills have brought pride and honor to our university.
+
+## FYP Winner
+
+Students of FAST National University Karachi worked on a Final Year project of "Salesforce Document Generation Application" sponsored by Cloud Junction Advisors. Upon successful completion and delivery of the project, Cloud Junction Advisors awarded Prize Money of PRs. 50,000 for the appreciation of FYP Group on 14th September 2023.
+
+---
+
+# Artificial Intelligence in Automotive Industry \& Revolution of LLMs 
+
+In a ground-breaking collaboration, FAST NUCES ACM AI and Karachi AI, two leading communities of AI practitioners, joined forces to spearhead advancements in the automotive industry. This synergistic effort culminated in the 18th Karachi AI Meetup, themed "Artificial Intelligence in Automotive Industry \& Revolution of LLMs," held at the prestigious National Aerospace \& Science Technology Park (NASTP) on October 15, 2023. Mirza Umer Saleem, VP of Engineering at Trukkr, brought a wealth of expertise in "Route Optimization, Traffic \& Governance" to the table. Arhum Ishtiaq from "Connect Hear" introduced attendees to the "Revolution of LLMs". The event was graced by the presence of Mesum Raza Hemani, VP Analytics at NBP Funds, and founder of Karachi AI. His talk on "LLMs \& Future of Automated Data Analytics" provided valuable insights into the evolving landscape of AI.
+
+## Islam, Ethics, and Humanity
+
+On 4th October 2023, a well-versed religious scholar Shaykh Mufti Tauqeer visited FAST NUCES Karachi and conducted an interactive session on the topic of Islam, Ethics and Humanity. Shaykh Mufti Tauqeer is a Computer Engineer by Profession and founder of Noor Ul Ilm Academy based in London, Sydney, and Dubai.
+
+## Session on Stress Management
+
+This October, in honor of World Mental Health Awareness Day, the Faculty of Psychology at FAST NUCES Karachi hosted Dr. Nausheen Shahzad for a guest speaker session on "Stress Management for Students" in the Main Auditorium on October 27, 2023. The session's theme, "Unleash Your Potential Conquer Stress, Achieve Excellence" aimed to provide students with practical tools and strategies to effectively manage stress, enhance academic performance, and promote overall well-being. The session encouraged active student engagement and raised awareness about the importance of mental health. Overall, it was a successful session that empowered students with valuable insights and skills to navigate the challenges of academic life while prioritizing mental well-being.
+
+## Upholding Identity - Muslims in the Face of Crisis
+
+On 24th October 2023, Mr. Wajih Uddin from Youth Club visited FAST NUCES Karachi and conducted a session on "Upholding Identity Muslims in the Face of Crisis". Mr. Wajih Uddin, former HOD of Islamic Studies \& Arabic at Education Bay Academy and an Instructor of Spiritual Hours at Al-Nibras Institute, brought a wealth of wisdom to this event. As a respected voice in our community, Mr. Wajih Uddin shared invaluable insights on navigating challenges while staying true to our Islamic values, drawing inspiration from the unwavering strength displayed by countless Muslims throughout history in the face of adversity.
+
+## IEEE Extreme Competition
+
+On 8th October 2023, FAST-NUCES once again demonstrated its programming prowess in the IEEE Xtreme competition. Featuring 8 formidable teams from Karachi, the event showcased exceptional skills as these teams secured noteworthy positions within the top ten nationally. Guided by mentor Sir Rafi, the Karachi teams exemplified dedication and technical acumen, reaffirming FAST-NUCES' standing as a centre for top-tier programming talent. Congratulations to all the Karachi teams for their outstanding performance, contributing significantly to our institution's success in competitive programming.
+
+---
+
+# IEEE Day 
+
+IEEE FAST NUCES Student Branch Karachi joyously commemorated IEEE Day on October 3, 2023, with an illustrious guest, Saqib Munawwar, a Senior Member of IEEE Karachi Section. The event unfolded with an engaging introductory session, setting the stage for a day filled with enthusiasm and celebration. The presence of Saqib Munawwar, a distinguished member of the IEEE Karachi Section, added to the significance of the event, providing valuable insights and expertise.
+
+## Git and Github Workshop
+
+Think n Create (TnC) society recently conducted a workshop on GIT and GITHUB on 31st October 2023, aimed at empowering our students with essential skills for modern software development. To make this workshop a success, we had the privilege of hosting Team CodeBite as our special guests, who shared their expertise and insights with our eager participants. The enthusiasm of our students was truly remarkable as they actively engaged in the workshop, soaking up knowledge and practical know-how. Towards the end of the workshop, TnC took a moment to express gratitude to the esteemed guests, presenting them with tokens of appreciation to acknowledge their valuable contribution. As a final touch, the students were challenged with a task to put their newfound knowledge to the test. Those who successfully submitted their tasks were awarded certificates to recognize their dedication and achievement. TnC looks forward to more enriching experiences in the future.
+
+## Kick Start in Cyber Security;
+
+ACM Cyber security, chapter commenced the tenure with an engaging and informative introductory session held on 13th October 2023, featuring a distinguished guest, Zain Yaseen. Zain's talk covered a wide spectrum of cyber security topics, shedding light on the ever-evolving landscape of digital security. The guest began by providing a solid foundation on cyber security, highlighting its pivotal role in protecting our online presence. He delved deep into the intricacies of cyber threats, touching on everything from malware to phishing, and shared real-world examples of infamous cyber-attacks that have significantly impacted the field. The Q\&A session provided attendees with an opportunity to seek clarifications and explore the discussed topics in greater depth. It was an enlightening experience, and we anticipate more such enriching sessions in the future from ACM cyber security.
+
+## Agile Fundamentals and Scrum Framework - Activity Based Hands-On Training
+
+Ms. Iqra Fahad recently attended a Ponder Alliance-organized faculty refresher session on agile fundamentals on 28th October 2023, which underscored the organization's mission to bridge the Education-Industry gap in Pakistan by fostering collaboration between industry professionals, seasoned faculty, and students. The refresher session offered insights into agile principles and practices that are essential in today's dynamic job market. It was an opportunity to engage with like-minded professionals and educators who share a passion for empowering the next generation of students.
+
+## $75^{\text {th }}$ Convocation of the University
+
+The $75^{\text {th }}$ Convocation of the University was held on November 4, 2023, at the Karachi Campus. The ceremony began with a warm welcome for all attendees, followed by an address underscoring the importance of celebrating students' academic achievements. Dr. Atif Tahir, Director of the Karachi Campus, extended heartfelt gratitude to the students, parents, and faculty members for their unwavering dedication in fostering student success.
+
+---
+
+Our distinguished Chief Guest and Guests of Honor shared personal stories, offered valuable insights, and delivered words of encouragement, leaving the audience inspired to pursue their ambitions with confidence. Dr. Atif Tahir, alongside the Academic Department and a dedicated team of faculty and staff, led the organization of this significant event. Degrees were conferred upon 483 Bachelor's, 126 Master's, and 3 PhD graduates across three distinct sessions. Dr. Ayub Alvi, Vice Chancellor of SIR SYED CASE Institute of Technology, Mr. Saad Niazi, Chief Executive Officer and Co-Founder of KEENU, and Prof. Dr. Sarosh Hashmat Lodhi, Vice Chancellor of NED UET, served as Chief Guests for the first, second, and third sessions, respectively. Additionally, Mr. Ahmed Fraz Malick, CEO of Wavetec; Mr. Humayun Bashir, Chairman and Director of NCCPL/e-ocean; and Mr. Mairaj Yousuf, General Manager-Strategy and Sales at SYSTEMS Limited, graced the convocation as Guests of Honor in each respective session. Dr. Aftab Maroof, Rector of FAST-NUCES, welcomed the esteemed guests, members of the Board of Governors, and parents of the graduates, offering his congratulations and guidance for the graduates' future paths. Justice (Retd) M. Ather Saeed and Mr. Qaiser Ahmed Shaikh, Members of the Board of Governors, also attended the first session, presenting medals to top-performing students. The event was a powerful celebration of pride, providing well-deserved recognition for the exceptional accomplishments of our talented students throughout their academic journeys.
+
+# Merit Scholarship Distribution 
+
+On 3rd November 2023, Rector FAST NUCES distributed 100\% Merit scholarships and certificates among the students who secured top positions in HSSC-II of intermediate boards. Muhammad Abdullah Khan (23K-0607), Ibad Ur Rehman (23K-0517), Fatima (23K-0886), Aisha Asif (23K-0915) and Ayesha Raza (23K-3015) were the position holders.
+
+## NCEAC Visit
+
+On November 20th, 2023, the National Computing Education Accreditation Council (NCEAC) team, comprising Prof. Dr. Zulfiqar Habib, Prof. Dr. Salman Afsar Awan, and Prof. Dr. Khurram Shahzad, conducted a comprehensive evaluation of the BS Software Engineering and BS Computer Science programs at the FAST School of Computing, Karachi Campus. The evaluation encompassed a thorough examination of course content, curriculum structure, and on-site facilities. Prof. Dr. Jawwad Ahmed Shamsi, Dean, FAST School of Computing, Prof. Dr. Muhammad Atif Tahir, Director, Karachi Campus, Prof. Dr. Zulfiqar Ali Memon, Head of School, FAST School of Computing, Dr. Farooque Hassan Kumbhar, Head of the Department of Computer Science, Dr. Abdul Aziz, Head of the Department of Software Engineering, and representatives from the Quality Enhancement Cell (QEC) and all administrative departments participated in the assessment meeting. The assessment was carried out in accordance with NCEAC standards.
+
+## Session by Anwar Maqsood
+
+On $29^{\text {th }}$ November 2023, Mr. Anwar Maqsood, a renowned Pakistani Scriptwriter and television presenter visited FAST NUCES Karachi and conducted an interactive session on the topic "Iqbal k Shaheen". Anwar Maqsood's, a genius of intellect and wit, crafted conversations that were both thought-provoking and entertaining.
+
+---
+
+# AI-NEXUS 
+
+FAST NUCES ACM-AI proudly organized its flagship event, AI-Nexus under the supervision of faculty head 'Dr. Muhammad Waqas' and co-head 'Sania Urooj'. It was a three-day extravaganza from 28th November to 30th November, 2023 featuring guest speaker sessions, workshops, and competitions. The theme, "A Journey through AI Landscapes," guided participants on a comprehensive exploration of the latest advancements in artificial intelligence. The workshops delved deep into the realms of machine learning, neural networks, and cutting-edge applications. Crafted to ensure immersive learning experiences, these workshops provided attendees with hands-on opportunities to engage with the latest AI technologies. Our Competitions Head designed thrilling challenges for each batch, challenging students' problem-solving abilities, coding skills, and innovative thinking. The stakes were high, with winners and runners-up securing a share of the Rs. 100,000 prize pool.
+
+## Session by AshreiTech
+
+AshreiTech, visited FAST NUCES Karachi to conduct an interactive session on "how to start a career in Microsoft, cyber security and artificial intelligence". The session was conducted on 23rd November 2023 at Main Auditorium. After the session, the team of Ashreitech met with the senior management and showed interest in signing an MoU with FAST NUCES Karachi to develop stronger ties with the students of FAST.
+
+## Open House of Database Systems Course Project
+
+On 7th December 2023, Think and Create Society organized an Open House event for the Database Systems course projects. This event witnessed an overwhelming participation of around 660 students who showcased their projects with utmost enthusiasm and dedication. The event was a true celebration of innovation and creativity, as students came together to demonstrate their prowess in database systems. The vibrant atmosphere was filled with the spirit of learning, reflecting the dedication of our students. The highlight of the evening was the Certificate Distribution Ceremony, a momentous occasion graced by distinguished guests Prof. Dr. Zulfiqar Ali Memon, Dr. Farooque Hassan, and Dr. Abdul Aziz. Their presence added an extra layer of honor and prestige to the event, inspiring our students to strive for excellence in their academic endeavors. Among the impressive array of projects presented, the jury had the challenging task of selecting the best projects for recognition. These outstanding projects stood out for their innovation, technical proficiency, and practical applicability. The Certificate of Appreciation was awarded to the talented individuals behind these exceptional projects, acknowledging their hard work and dedication.
+
+## Math Olympiad \& Integration Bee
+
+On 1st December 2023, Think and Create Society organized Math Olympiad filled with vibrant mathematical enthusiasm and brilliant minds colliding to solve intricate problems and celebrate the beauty of numbers. Participants immersed themselves in a whirlwind of numerical challenges, fostering an environment of curiosity, creativity, and perseverance. The event was a testament to the spirit of mathematical inquiry and the camaraderie within our mathematical community. TnC Looks forward to continue to delve deeper into the fascinating world of mathematics and creativity.
+
+---
+
+# Session by VeriPark 
+
+On the morning of December 7th, 2023, started a much-awaited event, conducted by VeriPark - a global technology leader. The visiting team comprised a total of four people, namely Mr. Zubair Ahmed - Managing Director, Ms. Saba Qureshi - Country Partner, Mr. Fawad Durrani - Sales Manager, and Mr. Ali Hyder - Assistant Manager Talent Acquisition. The Main Auditorium provided the setting for a thought-provoking talk by Mr. Zubair Ahmed, the successful Managing Director of VeriPark and a 1991 FAST graduate. The morning commenced with a formal yet engaging session on "My Journey (the speaker's journey) from a FAST Graduate to Managing Director at VeriPark and the Role of VeriPark in Developing AI Products for Leading Banks using the Microsoft Platform". Following the session, an exclusive gathering with the Director, Dean, and HODs offered a formal setting for insightful conversations and collaboration. The team was then invited to a campus tour, providing valuable insights into the academic environment shaping future leaders.
+
+## Pakistan Cyber Security Challenge 2023
+
+On 7th December 2023, two teams from FAST-NUCES Karachi participated in the Pakistan Cyber Security Challenge (PCC) 2023 which was held at AIR University Islamabad. Among various competitions, one team participated in CTF and the other team participated in the Ideas Cup. Both our teams secured the 2nd Runner-Up position.
+
+## SMEC'24
+
+We congratulate our student for securing the Runner-Up position at SMEC'24 which was held at Sir Syed University on 22nd January 2024. Muhammad Shahmir (21K-3563) and Khizer Nadeem (21K-4768) participated in the Capture the Flag competition, showing their brilliant skills and securing 2nd place among various teams of Karachi.
+
+## International Performance Evaluation (IPE)
+
+From February $20^{\text {th }}$ to $22^{\text {nd }} 2024$, The Institutional Performance Evaluation (IPE) of the FAST-NUCES Karachi Campus was arranged by Ms. Urooj Laghari, Deputy Manager QEC, FAST-NUCES, Karachi. The IPE review panel comprised three distinguished members. Internally, the panel included Dr. Muhammad Shahzad, Associate Professor, FAST School of Computing, FAST-NUCES, Karachi. Dr. Aqsa Aslam, Assistant Professor, FAST School of Computing, FAST-NUCES, Karachi and Dr. Muhammad Hassan Saeed, Assistant Professor, Sciences \& Humanities Department, FAST-NUCES, Karachi. Dr. Muhammad Rehan, Director QEC, Sir Syed University of Engineering and Technology, Karachi served as the external member. The primary objective of this review was to evaluate FAST-NUCES Karachi against the quality standards outlined by the Higher Education Commission (HEC), with the aim of fostering continuous improvement. The IPE panel members met the Campus Director - Prof. Dr. Muhammad Atif Tahir, Prof. Dr. Jawwad Ahmed Shamsi - Dean, Prof. Dr. Zulfiqar Ali Memon - HOS of FAST School of Computing, and the heads of the various academic and administrative departments, as well as faculty members. Prof. Dr. Arshad Islam - Director QEC, participated remotely via Google Meet. The Current structures and policies, along with the areas of improvement, were discussed. The activity was concluded with an exit meeting with the Campus Director. A token of appreciation was presented by Prof. Dr. Muhammad Atif Tahir, Campus Director, FAST Karachi who appreciated the evaluator for his time and commitment for the assessment as an external Evaluator.
+
+---
+
+# Seminar on Customer Relationship Management 
+
+FAST School of management in collaboration with CPT orchestrated an insightful speaker session on February 14, 2024 from 1000 A.M. to 1100 A.M. focusing on Customer Relationship Management (CRM). The event welcomed Mr. Muhammad Afzal Khan, Executive Director of Skilmak, as the esteemed speaker. With an enthusiastic turnout of 100+ students, the session delved into the significance of CRM in modern business practices. Beyond its relevance in sales and marketing, CRM plays a pivotal role in fostering long-term relationships with customers, enhancing brand loyalty and driving sustainable growth. Mr. Khan's expertise illuminated how CRM strategies are integral not only to businesses but also to students embarking on diverse career paths. By understanding the fundamentals of CRM, students gained invaluable insights into effective communication, customer-centric approaches, and the art of building lasting connections-a skill set indispensable in navigating the complexities of today's professional landscape.
+
+## Agritech Vision
+
+A moment of pride to announce that the project, AgroTechVision made notable achievements at the National Level in the prestigious National Idea Bank III (NIB III) held on 15th February 2024. The project team consisted of Dr. Muhammad Farrukh Shahid as the supervisor, and students from AI department - Anmol Zehrah, Hamza Sameer Khan, Muhammad Anas Ahmed and Syed Shehroz Hussain. It's been an incredible journey filled with hard work, dedication, and innovative thinking. The project idea got shortlisted in top 180, out of 2400 ideas that were submitted. Then, project was further selected at provincial pitch round, and it made it to Top 5 Winners from Sindh and qualified for National level as a finalist. After national pitch round, the team was invited to President House, Islamabad for the Grand Finale Ceremony where we the project got awarded as National Runners Up in the presence of President of Pakistan, Dr. Arif Alvi. The team also presented this project work to the President. Overall, it was a phenomenal experience, full of learning and opportunity in terms of networking and recognition at a national scope.
+
+## Procom 2024
+
+FAST NUCES Karachi recently hosted a successful two-days event, PROCOM 24, on 7th and 8th of March. It brought together students from different institutes, researchers, and industry professionals to discuss the latest trends and innovations in the fields of business and technology. The theme of this year's event was "Legacy meets Innovation," and it featured a wide range of activities, including Competitions, panel discussions, workshops, job fair and networking opportunities. The event was well-attended, and we were thrilled to see more than 3000 registrations in the competitions and 35 sponsors from the different industries. Minister of foreign Affairs Republic of Indonesia Mr. Arie Poluzzi was the chief guest at the event who shared his insights on the latest advancements in information technology and he appreciated the initiative of FAST NUCES. There were panel discussions covering a variety of topics, such as artificial intelligence, cybersecurity, and data analytics. The workshops provided hands-on training and practical knowledge on topics such as web development, mobile app development, and cloud computing. One of the highlights of the event was the job fair, where leading companies conducted job interviews. The job fair provided an excellent opportunity for students to interact with industry professionals and learn about the latest trends and innovations in the field.
+
+---
+
+# Self-Assessment Review of Cyber Security Programs 
+
+On Wednesday, January 31st, 2024, the Self-Assessment Review (SAR) of the BS-CY and MS-CNS programs was conducted in collaboration with the Cyber Security department. Dr. Muhammad Asad Arfeen, Associate Professor of Computer \& Information Systems Engineering at NED University, Karachi, served as the external evaluator, while Dr. Farrukh Salim Shaikh, Assistant Professor at FAST School of Computing, FAST-NUCES Karachi Campus, participated as an internal evaluator. The evaluators thoroughly analyzed and assessed the programs' progress according to the defined standards set by HEC. Prof. Dr. Muhammad Atif Tahir, Campus Director of FAST-NUCES Karachi, also contributed his insights to the team.
+
+## Inter Collegiate Programming Contest (ICPC 2024)
+
+The 2024 ICPC Asia Topi Regional On-site Contest was held at FAST-NUCES Main Campus on $24^{\text {th }}$ and $25^{\text {th }}$ February. FAST NUCES Karachi campus won Gold, Silver and Bronze medal in International Collegiate Programming Contest ICPC Asia West Topi Region. FAST NUCES Karachi campus won Gold, Silver and a bronze medal in International Collegiate Programming Contest ICPC Asia West Topi Region.
+
+## Developer's Day
+
+On 25th April 2024, Developer's Day was successfully organized by ACM at FAST NUCES Karachi. The event comprised of thrilling competitions, insightful sessions, and networking opportunities. Devday 2024 at FAST-NUCES Karachi Campus was a resounding success, featuring over 15 companies at the job fair, and participants from all over the nation. The main sponsor of DevDay was E-Ocean and we were honored to have Mr. Cemal Sangu, Consul General Turkiye, as our esteemed chief guest at the closing ceremony.
+
+## Emlaak Financial Session
+
+FAST School of Management, in collaboration with CPT, hosted a speaker session on March 14, 2024, from 0900 to 1000 A.M., led by Ms. Nusrat Ghafar, Senior Product Manager of Central Depository Company of Pakistan Limited (CDC) having 17 years of experience in Software Industry. The event focused on Emlaak Financial, highlighting investment opportunities and digitalization in financial services. The session was wellreceived by students, who gained valuable knowledge about mutual fund mechanisms and the efficient services offered by CDC in Emlaak Financial.
+
+## BRANIAC 2024
+
+IEEE FAST-NU Karachi Chapter in collaboration with FDSS (Fast Data Science Society), and ACM AI has organized an exciting event titled Brainiac on Thursday 18 April, 2024, featuring engaging workshops, and thrilling competitions on Machine Learning and Speed Programming. Director Zulfiqar Ali Memon encouraged students to participate and later distributed shields among winners.
+
+## Self-Assessment Review of BS Business Analytics Program
+
+On Friday, March 22nd, 2024, the Self-Assessment Review (SAR) of the BS- BA program was conducted in collaboration with the Management Science department. Dr. Atif Aziz, Professor, Management Science at IQRA University, Karachi, participated as the external evaluator, while Dr. Muhammad Nouman Durrani, Associate Professor at FAST School of Computing, FAST-NUCES Karachi Campus, served as an internal evaluator. The
+
+---
+
+evaluators conducted a comprehensive analysis and assessment of the program's progress based on the defined standards established by the Higher Education Commission (HEC).
+
+# Space Hackathon 
+
+On 3rd April 2024, Students from FAST NUCES Karachi stood first in the Space Hackathon organized by KASBIT. The Space Hackathon brought together brilliant minds from various universities, including renowned institutions like NED, FAST, and Karachi University, for an innovative exploration into space technology.
+
+## Award Distribution Ceremony - Fall 2023
+
+The Student Prize Distribution Ceremony for the Fall 2023 semester was held on May 10, 2024, at the Karachi Campus of FAST - National University of Computer and Emerging Sciences. Organized by the Academic Department and the Campus Director, the ceremony honored the outstanding achievements of high-performing students. Campus Director - Dr. Zulfiqar Ali Memon, along with the campus management, welcomed esteemed Guests of Honor, including Mr. Tim Connelly, Co-Founder of Logicel Pvt. Ltd.; Ms. Joanna Connelly, Chief Administrative Officer of Logicel Pvt. Ltd.; Mr. Syed Adeel Kazmi, CTO of Logicel Pvt. Ltd.; and Mr. Syed Amir Jafri, CEO of E-Ocean Pvt. Ltd. The event was attended by parents of awardees, faculty, staff, and students. The ceremony began with an address on the significance of recognizing student accomplishments. Campus Director - Dr. Zulfiqar Ali Memon expressed gratitude to students, parents, and faculty, acknowledging their collective efforts in student success. The Guests of Honor shared insights and motivating words, inspiring attendees to chase their dreams confidently. The event celebrated excellence across Bachelor programs, with a total of 86 students receiving awards 27 in BS (Computer Science), 14 in BS (Software Engineering), 12 in BS (Artificial Intelligence), 12 in BS (Cyber Security), 6 in BS (Business Analytics), 11 in BS (Electrical Engineering), and 3 in BS (Financial Technologies). Top performers in each program received cash prizes of 50,000 PKR, 35,000 PKR, and 20,000 PKR for first, second, and third places, respectively, along with certificates and medals. The ceremony concluded with a sense of pride and accomplishment as students were recognized for their hard work. The joyful atmosphere reflected the collective achievement and shared happiness of students, faculty, and family members.
+
+## MS/PhD Review Visit
+
+The MS/PhD Review Visit, conducted at FAST-NUCES Karachi Campus, assessed the MS/PhD programs on April 25th and 26th, 2024. The Review Panel comprised external member Prof. Dr. Aftab A. Shaikh, Dean of the Department of Information Technology at SMIU University, along with internal members Dr. Nausheen Shoaib, Assistant Professor in the Department of Computer Science, Dr. Syed Moazzam Ali Shah, Assistant Professor in the Department of Software Engineering, and Dr. Junaid Rabbani, Assistant Professor in the Department of Electrical Engineering. The objective of this visit was to evaluate the university's adherence to HEC minimum criteria for initiating and maintaining MS and PhD programs while ensuring the quality of education. Utilizing HEC-approved formats, program details were presented comprehensively. The review encompassed all MS and PhD programs of the campus, with each department providing insights into program specifics, faculty composition (both permanent and visiting), and students' details. Additionally, various pertinent aspects were deliberated upon and adequately addressed by the respective Head of the Departments. A token of appreciation was presented by Prof. Dr. Zulfiqar Ali Memon, Campus Director, FAST-NUCES Karachi, who appreciated the evaluator for their dedication and valuable contribution as an external assessor during the assessment process.
+
+---
+
+# Session on Islamic Financing 
+
+On May 2nd, FAST School of Management, in collaboration with CPT, hosted a captivating speaker session on Islamic Financing featuring Muhammad Abdullah, Resident Shariah Board Member of Faysal Bank Limited. During the session, students had the opportunity to delve into the intricacies of Islamic banking and finance. Mr. Abdullah shed light on various aspects, including how Islamic banks earn, their investment strategies, major products offered, and their commitment to Shariah compliance. The event provided invaluable insights into ethical and sustainable financial practices, enriching the understanding of students and fostering a deeper appreciation for Islamic finance within the academic community.
+
+## Seminar Green Financing
+
+FAST School, in partnership with CPT, recently hosted an illuminating event featuring Mr. Ahsan Raza, CEO of Mint Reward, on May 6th. Attendees gathered to delve into the world of green finance and technology-driven innovations, particularly focusing on their relevance in Pakistan. Mr. Raza began by unpacking the concept of green finance, highlighting its significance in fostering environmental sustainability through investments in eco-friendly initiatives. He then turned the spotlight on the challenges of embedded finance in Pakistan, shedding light on the obstacles and opportunities in integrating financial services into everyday activities. The event concluded on a hopeful note, with participants inspired to harness the power of finance and technology for positive change in Pakistan's journey towards sustainability and financial inclusion.
+
+## Pakistan Stock Exchange - Study Tour
+
+On April 24, 2024, FAST School of Management took Business Analyst and FinTech program students on an enriching educational journey to the Pakistan Stock Exchange (PSX). The visit provided an immersive experience into the fundamentals of trading and the intricacies of the equity market. During the visit, students delved into the basics of trading, gaining firsthand insights into the dynamics of market operations. They also had the opportunity to explore the process of opening trading accounts, an essential step for engaging in the world of finance. The visit to PSX served as a valuable educational excursion, offering students practical knowledge and exposure to real-world financial scenarios. It not only enhanced their understanding of the functioning of equity markets but also provided a platform for networking and interaction with industry professionals.
+
+## News Education Expo 2024
+
+On 8th June 2024, Academics teams of FAST-NUCES Karachi Campus participated in the News Education Expo 2024, showcasing the innovative spirit and academic excellence that define our institution. Our team had the incredible opportunity to connect with prospective students, parents, and education enthusiasts, sharing insights into our diverse range of programs and cutting-edge research facilities.
+
+## Re-Accreditation Visit for BS EE
+
+The PEC team conducted a visit to NUCES-FAST on May 13-14, 2024, the team included Engr. Prof. Dr. M. Junaid Mughal from CUI, Attock, Engr. Dr. Adil Masood Siddiqui from NUST-MCS, Rawalpindi, Engr. Prof. Dr. Muhammad Asghar Saqib from UET, Lahore, Engr. Dr. Amir Mahmood Soomro from MUET, Jamshoro, Engr. Dr. Syed Mushahid Hussain Hashmi from NED-UET, Karachi, and Engr. Ana Zulfiqar from PEC Headquarter,
+
+---
+
+Islamabad. They conducted an in-depth analysis and evaluation of the B.S. Electrical Engineering program. During their visit, they met with the senior management, faculty, and staff, and took a detailed tour of the labs and other facilities on campus. The PEC representatives visited the Electrical Engineering department and were impressed with its infrastructure. They provided valuable suggestions for further improvements and enhancements. The department has been successfully re-accredited at level II under Washington Accord.
+
+# Self-Assessment Review of the MS (DS) Program 
+
+On Wednesday, June 26 ${ }^{\text {th }}, 2024$, the Self-Assessment Review (SAR) of the MS-DS program was conducted in collaboration with the Artificial Intelligence \& Data Science department. Dr. Mansoor Khuhro, Associate Professor and HOD at SMIU, participated as the external evaluator, while Dr. Nausheen Shoaib, Assistant Professor at the FAST School of Computing, FAST-NUCES, served as the internal evaluator. Additionally, Dr. Muhammad Farrukh Shahid and Dr. Farrukh Hasan Syed, both Assistant Professors at FAST-NUCES, contributed as program team members. Prof. Dr. Zulfiqar Ali Memon, Campus Director of FAST-NUCES, provided valuable insights to the team. Following the evaluation, the evaluators presented a summary of their observations and offered recommendations for improvement in accordance with HEC standards.
+
+## Online Summer Camp Web and App Development Sessions
+
+Asst. Prof. Engr. Abdul Rahman took initiative to arrange a free Summer Boot Camp 2024 for all students especially for final year students. These events were open to all students, faculty and staff of FAST-NUCES Karachi. There have been three sessions of Flutter and one session of web application development in the month of June.
+
+---
+
+# LAHORE CAMPUS 
+
+## $77^{\text {th }}$ convocation of the University
+
+The $77^{\text {th }}$ convocation of the University was held on November 24, 2023, at Lahore Campus. Theevent was graced by Dr. Aftab Ahmed Maroof, the Rector of FAST NUCES as Chief Guest. The convocation was attended by our esteemed Campus Director, faculty members, graduating students, and their parents. During his address, Dr. Maroof encouraged students to incorporate innovation into their lives and to embrace new ideas to become leaders in their respective fields. He also emphasized the crucial role that parents and teachers play in the graduation journey of students. Additionally, we were honored to have Mr. Usman Asif, the CEO of Devsinc, attending the session as a Guest of Honor. In total, 39 medals were awarded to outstanding performers, anddegrees were conferred to 589 graduates.
+
+## Medal/Merit Certificates Distribution
+
+The Medal distribution ceremony of Lahore Campus was held on October 17,2023.
+The event was graced by Dr. Aftab Ahmed Maroof, Rector of FAST NU, as the Chief Guest, whose esteemed presence truly honored the occasion. Additionally, we were privileged to have Mr. Ahmed Muzmmal, an alumnus from Batch 2002 and CEO of mezino.com, join us as the Guest of Honor. During his address, Dr. Aftab congratulated all high achievers for their outstanding accomplishments. He provided inspiring words on maintaining academic excellence,respecting faculty and parents, and encouraging students to embrace innovation and kindness in their lives. In total, 220 medals were awarded to deserving students, reflecting their hard work anddedication.
+
+## Annual Job Fair, 2024
+
+The Career Services Office (CSO) in collaboration with Career Counseling Society (CCS) organized the Annual Job Fair 2024 on March 06, 2024. This year's job fair was aresounding success, bringing together over 150 companies eager to connect with the next generation of talent. Hundreds of graduating students flocked to the event, exploring a myriad ofcareer prospects that could shape their futures. The graduating class had a fantastic opportunity to connect with various industry partners. Events like this are incredibly beneficial, as representatives from different companies collected resumes and conducted on-the-spot interviews. It was a great way for students to showcase their skills and potentially secure job offers right away. In addition to the graduating class, our enthusiastic third- year students took full advantage of the opportunity, engaging with various companies to discover potential internships that align with their career aspirations. The atmosphere was buzzing with excitementand ambition as students networked, learned about different industries, and made valuable connections. Adding to the vibrancy of the event, the Final Year Project (FYP) exhibition showcased innovative projects from our talented students, allowing them to demonstrate their skills and creativity to potential employers. Overall, the job fair was not just an event; it was a celebration of ambition, innovation, and the bright futures that lie ahead for our students.
+
+## On-campus Recruitment Drives
+
+10 local companies and MNCs conducted their recruitment drives, catering to a diverse group ofstudents from multiple disciplines. They started off with engaging presentations that showcased the company's mission, values, and the exciting projects they are currently working on. Some ofthem conducted the interviews along with the test. MNCs included Haier, Dubizzle Labs along with big names in local companies i.e. Fatima Group, Systems Limited etc.
+
+---
+
+# Summer Internships 
+
+Every year, Call for Summer Internship email is routed to 3rd year students across all disciplines,through which students register themselves. Last year 238 applications were received who have been successfully placed in different organization, keeping in view their areas interest and skill set. Moreover, around 100 Internship/Management Trainee/Graduate Trainee programs of local giantcompanies and MNCs have been disseminated to the target audiences. There are a few to name them i.e. Philip Morris, Careem, US Embassy, Google, PepsiCo, Jazz, MCB, PSDF, Bank Al Falah, PSO, DHA etc.
+
+## Memorandum of Understanding (MoU)
+
+FAST-NUCES Lahore has partnered with 5 local companies in different areas of mutual interest i.e. collaboration on research projects, social work and scholarships. Following are thecompanies.
+
+Ebryx<br>Programmers Force<br>Kashf Foundation<br>DS Group of Companies<br>Haji Abdul Aziz Foundation
+
+## Bootcamps
+
+A Bootcamp was conducted for FAST School of Computing by Devsinc, where students werenot only able to get hands on experience on technologies like MERN and MEAN and Web Development but also got on spot job offers through this bootcamp.
+
+## Mock Interview Session
+
+Career Services Office, FAST-NUCES conducted a mock interview session on March 04, 2024, for its students to prepare them for the job fair and other recruiting events. It was a great way tohelp students prepare and boost their confidence. During the session, students had the opportunity to practice their interview skills and receive valuable feedback. The session gave them a better understanding of what to expect during real interviews and helped them stand outto potential employers. Our distinguished panelists included Industry/HR Specialist Ms. Arooj Pirzadeh, Head HR and communications at Nishat Chunian Group, Mr. Zeeshan Sarwar, Head HR Operations and Mr. Ammar Ijaz, Solutions Architect at RepairDesk who provided valuable insights and guidance throughout the session. Their expertise was instrumental in helping students navigate the interview process effectively.
+
+## Coffee Hour
+
+Two networking sessions with alumni from FAST School of Computing and FAANA were organized in September and December to network and reconnect them with their alma mater. These sessions focused on many areas; however, the focus has been on strong connections withthe alma mater and productive engagement of alumni in different areas i.e. guest speaker sessions, curriculum development according to new market trends etc.
+
+## International Student Enrollment
+
+As part of the international research collaboration in the MS Applied Linguistics program, eleven students from Azerbaijan University of Languages successfully completed the Computational Linguistics course for the Spring Semester 2024. This achievement marks a
+
+---
+
+significant milestoneas the first enrollment of international students in a graduate program at FAST.
+
+# Applied Linguistics Seminar Series 
+
+The ongoing seminar series is central to nurturing a vibrant and well-informed research community in Applied Linguistics, benefiting researchers and students alike. Offering opportunities to stay current with innovative trends, methodologies and exploring innovative approaches. The series facilitates critical dialogue, and discussion of pressing issues, challenges, and debates in a collaborative environment. Attendees are inspired by insights into pioneering research and success stories, while the interdisciplinary focus underscores the connections between applied linguistics and related fields.
+
+## Faculty Professional Development Training
+
+In preparation for the Fall Semester 2024 and as a key element of the ongoing professional development program for both permanent and visiting faculty at the Lahore campus, a comprehensive three-day pre-semester training session was held. The training sessions led by senior English faculty, focused on effective strategies for integrating ICT into English language lab lesson plans. The program concluded with interactive microteaching sessions and participantpresentations, fostering hands-on practice and skill refinement.
+
+## CPD workshop 'Designing Complex Engineering Problem'
+
+The workshop was managed by Mr. Hamza Yousuf, PEB coordinator and was conducted by Dr.Abdul Rehman Kashif, Professor, Dept. of Electrical Engineering, UET, Lahore in the ExecutiveCentre on 17th MAY 2024. The workshop focused on covering the basics of CEP, OEL and PBLtaking the participants through the process of creating problems according to the PEC requirements from start to finish, including Assessment Mechanisms and rubrics.
+
+## CPD workshop "Conduct of Effective Assessments under OBE Paradigm"
+
+The Department of Electrical Engineering, FAST NUCES Lahore Campus organized a CPD workshop titled: "Conduct of Effective Assessments under OBE Paradigm" in the 'Old Auditorium' on Friday; 02-Feb-2024. The workshop was managed by Dr. Omer Saleem, PEB coordinator and was conducted by Ms. Beenish Fatima (Assistant Professor, Dept. of Electrical Engineering, FAST-NU Lahore), Ms. Sara Kiran (Lecturer, Dept. of Electrical Engineering, FAST-NU Lahore) and Mr. Hamza Yousuf (Lecturer, Dept. of Electrical Engineering, FAST-NULahore). The workshop focused on the Understanding of Program Education Objectives (PEOs), Program Learning Objectives (PLOs), Course Learning Objectives (CLOs) and the Learning Domains. The participants of this workshop were also briefed about the Continual Quality Improvement (CQI) of PEOs, PLOs and CLOs. Finally, the assessment methodologies were discussed for the conduct of both theory and the lab courses.
+
+## Bootcamp on "Learning Linux Terminal"
+
+The EE department arranged a boot camp on 'Learning Linux Terminal' for the faculty and students in the fall 2023 semester, which was managed by Mr. Umer Altaf (Lecture-EE) throughout the semester. This training was useful for both the faculty and students. The trainingconsisted of four modules, covering interaction with Linux and Git, RISC-V ISA, RISC-V architecture, concepts of cache and pages, and digital systems design.
+
+---
+
+# Conferences 
+
+Dr. Hamid Hassan visited the SGH Warsaw School of Economics in Poland in July 2023 to attend international conference of Academy of International Business (AIB). This visit was sponsored by HEC and FAST-NUCES. During his visit, Dr. Hassan present paper titled 'TheInfluence of Managerial Coaching Behaviors on Employees' Psychological Safety, LearningGoal Orientation and Knowledge Sharing'.
+
+## Training
+
+A training program titled 'Business Analytics with Python: Boot Camp for Beginners'" was conducted by the FSM Executive Development Center at FAST School of Management in August 2023. This program focused on Python Fundamentals, Pandas DataFrame, Numpy Fundamentals and Data Visualization \&sp; Analysis and was designed for Business Analyticsfaculty members. The training was organized by Dr. Akbar Azam, and conducted by Dr. Zeeshan Ali, a Senior Lecturer in Business Analytics at Oxford Brookes University, UK. Dr. Aliis a Fulbright Scholar, a post-doctoral fellow from George Mason University, USA, and an HECScholar who completed his PhD at the Asian Institute of Technology (AIT), Thailand.
+
+Executive Development Center at FAST School of Management, Lahore arranged a training workshop titled 'Analytics with R'; for FSM faculty members in January 2024 to enhance their analytical skills. The training was organized by Dr. Mian Muhammad Atif and conducted by Dr.Ahmed Arif, who currently heads the Bloomberg Lab at University of West of England, Bristol United Kingdom.
+
+A training workshop titled 'Large Language Models and Your Personal Data: Implications for Research and Business' was organized by Dr. Akbar Azam for FSM faculty members and conducted by Dr. Zeeshan Ali, a Senior Lecturer in Business Analytics at Oxford Brookes University, UK. This workshop, held at FSM, Lahore campus in July 2023, explored the potential applications of large language models like ChatGPT, discussed their impact on personal, business, and research data, and addressed ethical considerations. The workshop aimed to provide a comprehensive understanding of these models and their practical applications. On October 19, 2023, Dr. Hamid Hassan (Head, FAST School of Management, Lahore) attended a one-day Mentoring \& Training for the faculty of GC University Department of Commerce and Finance (GCU- C \& F) Lahore. The session was organized to evaluate GCU-C \&F program accreditation under National Business Education Accreditation Council (NBEAC).
+
+On March 8, 2024, Dr. Hamid Hassan (Head, FAST School of Management, Lahore) attended a one-day mentoring and training session for the Department of Management Sciences, COMSATS University Lahore Campus. The session was organized to evaluate Department of Management Sciences programs accreditation under the National Business Education Accreditation Council (NBEAC).
+
+On June 3, 2024, Dr. Hamid Hassan (Head, FAST School of Management, Lahore) attended a one-day mentoring and training session for faculty of Southern Business School (SBS), Instituteof Southern Punjab, Multan. The session was organized to evaluate SBS program accreditation under National Business Education Accreditation Council (NBEAC).
+
+---
+
+# Workshop on OBE Implementation 
+
+Dr. Arshad Ali (Associate Professor) from FAST School of Computing conducted one day workshop on $26^{\text {th }}$ April 2024 for the Implementation of OBE.
+
+## Navigating Your Career in the Age of AI
+
+The evolving role of AI and AI agents in shaping the future of work, Essential skills needed to thrive in an AI-driven landscape, Practical advice for future-proofing careers in this rapidly advancing field. This session provided valuable, real-world insights directly from an industry leader, aiming to inspire and prepare students for AI and tech-focused careers. Saad Siddique is currently working as a Senior Cloud and AI Consultant at Microsoft in Austin Texas US (formerly with HPE and Land O'Lakes). He has over 12 years of experience in Analytics, Data,AI, and Machine Learning. He did his MBA from UT Austin, along with a master's in computerscience and a bachelor's in electrical engineering. He gave the talk on Tuesday, $14^{\text {th }}$ November2024.
+
+## SOFTEC
+
+SOFTEC held on 23-25 February 2024, provided an immersive experience over its 28-year history, bringing together industry experts, professionals, and students to showcase their latest innovations in the technology sector. At SOFTEC 2024, attendees explored cuttingedge technologies and trends in the company of successful personalities. From artificial intelligence and machine learning to blockchain and cybersecurity, SOFTEC covered a wide range of topicsshaping the future of technology. Competitions at SOFTEC provided a thrilling experience, allowing attendees to test their skills and compete against the best minds in the country. These competitions ranged from solving real-world problems to developing innovative softwaresolutions, providing a platform for showcasing talent and creativity. The event also offered hands-on workshops and seminars tailored to suit the interests and skill levels of all attendees, providing firsthand experience with the latest tools and technologies and opportunities to gain insights from industry leaders. The Software Housing Enclosure served as the heart of the event, where top companies from across the country interacted with aspiring students, offering opportunities to drop CVs, talk to industry experts, and explore potential futureopportunities. After a day of competitions and innovation, SOFTEC 2024 provided a chance to unwind at Entertainment Eve, offering networking opportunities and a vibrant ambiance with music and entertainment. The grand closing ceremony at SOFTEC 2024 celebrated the day's achievements with glamour and sophistication, bringing together participants, sponsors, and esteemed guests for an evening of exquisite cuisine, live entertainment, and celebration.
+
+## Job Fair'24
+
+Job Fair 2024 held at FAST NUCES Lahore on March 6th, 2024, proved to be a resounding success, marking a significant milestone in the academic and professional journey of the university's students. Organized by the CCS, this event attracted over 120 prestigious companiesfrom various industries, each offering valuable opportunities to students from every semester. The bustling atmosphere of the fair buzzed with anticipation and excitement as students navigated through the array of booths and exhibitions, eager to explore the plethora of internshipand job opportunities available to them. The fair boasted a diverse range of companies, ensuringthat students from all fields of study had something to suit their interests and career aspirations.
+
+---
+
+# Showcasing Event: SFTEC Competitions 
+
+Held on May 5th, 6th \& 7th, 2023, with 100 participants, SFTEC competitions were organized, focusing on Civil Engineering. Students were tasked with creating 2D floor plans and completing bridge projects. The event was attended by students from various engineering disciplines.
+
+## Industry Linkages: Educational Field Visit
+
+On May 21, 2023, 80 students and faculty members participated in an educational field visit to the Neelum Jehlum Hydropower Plant. The visit gave participants a firsthand experience of hydropower project operations, offering valuable insights into the construction and managementof large-scale infrastructure projects.
+
+## Seminar on Hydropower Development in Pakistan
+
+On March 11, 2024, a seminar was held with 20 participants from both students and faculty, discussing the potential for hydropower development in Pakistan. The session provided valuableinsights into the country's energy sector and the future of renewable energy.
+
+## Seminar on Engineering Business
+
+Held on November 30, 2023, this seminar, attended by 30 students, focused on the essentials of engineering business. It aimed to provide students with a broader understanding of business concepts within the context of engineering projects.
+
+## Seminar on Pile Foundation Design
+
+Aimed at introducing students to the basic concepts of pile foundation design, this seminar took place on December 1, 2023, with 25 student participants. The session provided foundational knowledge critical for students pursuing careers in civil engineering.
+
+## Seminar on Modern Innovations in Cable Stayed Bridges
+
+On December 14, 2024, 40 students attended a seminar that explored the latest innovations incable-stayed bridge designs. The session offered valuable exposure to the cutting-edge techniques in bridge construction and design.
+
+## Showcasing Event: SFTEC Competitions
+
+Another SFTEC event was held on December 23rd, 24th, and 25th, 2023, with 100 participants. Students showcased their skills by creating 2D floor plans and working on bridge construction projects. This event was attended by students across various engineering faculties.
+
+## Showcasing Event: Women's Day Celebration
+
+Held on March 8th, 2024, with 50 participants, this event celebrated Women's Day, emphasizingthe strength and contributions of women in society. The celebration brought together students and faculty to reflect on the achievements of women in various fields.
+
+## Industry Linkages: Educational Site Visit
+
+On March 16, 2024, 40 students and faculty members participated in a site visit to a Green Building Project. The visit provided participants with a firsthand experience of sustainable construction techniques and pile investigation processes.
+
+---
+
+# Farewell 2023 
+
+The Farewell event of FAST NUCES Lahore at Faletti's Hotel was impeccably organized by Creative Society. It was held on June 13th, 2023, and brought together students, faculty, and staffto bid a heartfelt goodbye to the graduating batch. Faizan Mir Photography served as the media partner, capturing memorable moments throughout the event. The evening began with a warm welcome from the hosts, who expressed gratitude and excitement, creating an engaging atmosphere. The highlight of the event was a thought-provoking speech delivered by the esteemed Rector of Fast University Lahore, Dr. Aftab Ahmad. His inspiring words resonated deeply with the graduating students, commending their achievements and encouraging them to embrace future challenges. The event was also graced by Dr. Hammad Naveed Director Campus,faculty member and staff. Following the Rector's speech, the Man and Lady of the Evening were announced based on their formal attire, garnering applause and admiration from the audience.
+
+## Sports Gala'23
+
+The FAST Sports Gala'23 was a resounding success, bringing together participants from 52 corporate companies and showcasing their sportsmanship and competitive spirit. The event was made possible with the support of various sponsors, including Confiz, NetSol, Lumensoft Technologies (Pvt) Ltd, Forrentech, Volta Football Association, HM Photography, and Red Bull. The organizing team of the FAST Sports Society deserves appreciation for their meticulous planning and execution, ensuring a memorable experience for all involved. The event served as aplatform to foster a sense of camaraderie, promote sportsmanship, and create lasting memories for participants, they are spectators, and sponsors alike.
+
+## Company tour: Manafa Technologies
+
+On January 18, 2024, the Career Counseling Society (CCS) organized a carefully planned Industry Trip to Manafa Technologies. A diverse group comprising twenty-five students from batches 20 and 21, specializing in the departments of management and computing, were selectedto participate in this insightful visit. The trip served as a valuable bridge between academia and industry, providing students with a holistic understanding of the tech sector, fostering professional connections, and inspiring them to navigate their career journeys with confidence and purpose.
+
+## Solidity Boot Camp
+
+The Solidity Cohort Boot Camp, organized by @stacksfastchapter for Promotion of Future Computing, successfully concluded its three-week online program on 29th January 2024.This initiative aimed to educate participants, including both FAST students and external attendees, about blockchain technology, covering fundamentals and practical applications through interactive sessions on Solidity programming language and smart contract development. The exploration of future implications, including discussions on decentralized finance and non- fungible tokens (NFTs), provided insights into the evolving landscape of blockchain technology.Additionally, the program effectively stimulated career building by inspiring participants to consider both local and international opportunities, conveyed by industry professionals.
+
+## FAST Business Expo'24
+
+FAST Business Expo'24, organized by Fast Business Club. The event, held on $13^{\text {th }}$ February
+
+---
+
+2024, aimed to promote entrepreneurship among our student community and provide a platformfor showcasing their small ventures. Fast Business Expo'24 featured diverse stalls, attracting a significant number of visitors including our students \& faculty members visitors. Participants showcased a wide range of businesses, from tech startups to sustainable initiatives, while networking opportunities enriched the entrepreneurial spirit of the event. The overwhelmingly positive feedback received highlights the success of Fast Business Expo'24 in inspiring and empowering our student entrepreneurs. Looking ahead, we remain committed to nurturing the entrepreneurial ecosystem at FAST Business Club and organizing more impactful events in the future. Thank you to everyone who contributed to the success of Fast Business Expo'24.
+
+# SOFTEC'24 
+
+SOFTEC, provided an immersive experience over its 28 -year history, bringing together industry experts, professionals, and students to showcase their latest innovations in the technology sector. At SOFTEC 2024, attendees explored cutting-edge technologies and trends in the company ofsuccessful personalities. From artificial intelligence and machine learning to blockchain and cybersecurity, SOFTEC covered a wide range of topics shaping the future of technology. Competitions at SOFTEC provided a thrilling experience, allowing attendees to test their skills and compete against the best minds in the country. These competitions ranged from solving real-world problems to developing innovative software solutions, providing a platform for showcasing talent and creativity.
+
+## Job Fair'24
+
+Job Fair 2024 held at FAST NUCES Lahore on March 6th, 2024, proved to be a resounding success, marking a significant milestone in the academic and professional journey of the university's students. Organized by the CCS, this event attracted over 120 prestigious companiesfrom various industries, each offering valuable opportunities to students from every semester. The bustling atmosphere of the fair buzzed with anticipation and excitement as students navigated through the array of booths and exhibitions, eager to explore the plethora of internshipand job opportunities available to them. The fair boasted a diverse range of companies, ensuringthat students from all fields of study had something to suit their interests and career aspirations.
+
+## One Day workshop on Implementation of MLOps by Arbisoft
+
+On 26th April 2024, a one day-workshop was organized by Prof. Dr. Saman Shahid (NUCES- FAST Lahore Campus) and Prof. Dr. Kashif Zafar (Head FAST School of Computing) in collaboration with Arbisoft Inc. The workshop sessions covered the practical implementation of topics: NER, RNN, LSTM \& BERT. The workshop also included essentials of image classification using CNNs, VGG-16, ResNet, \& MobileNet. The instructors from Arbisoft (Mr. Umer Khalid and Mr. Tayyab Nasir) covered MLOps, AWS basics, introducing AWS SageMaker, and navigating the SageMaker Workflow-from preparation to deployment, complete with logging and monitoring.
+
+## FSC (FAST society championship) $10^{\text {th }}$ Edition
+
+"I think, therefore I am." Nothing describes the essence of the participants at FDC more than the profound motto of Fast Voice Debating Society. Representing both critical thinking and intellectual discourse, FAST Debating Championship 2024 aimed for an illuminating weekend of debates, and it unequivocally succeeded. Over 50 teams from various institutions, as well as experienced judges, were invited from across Pakistan to showcase
+
+---
+
+their skills, engage, and challenge each other. FDC X set the stage for intriguing and thought-provoking clash of ideals, and the passionate participants embraced the opportunity, resulting in an atmosphere worthy of Pakistan's premier debating championship.
+
+# Site visit to the construction site in DHA Phase 6 (NESPAK) 
+
+During the visit, they gained valuable insights into the technical aspects of large-scale infrastructure development and the innovative solutions being implemented on-site
+
+## Medal distribution Ceremony 2024
+
+For congratulate to the shining stars of FAST-NUCES Lahore Campus at the Medal DistributionCeremony 2024! Their hard work, dedication, and achievements have truly paid off.
+
+## Seerat UL Nabi (SAW)
+
+The event 'Seerah of Prophet' by CBS commenced from 12:30 pm to 02:30 pm at Syed RafaqatAuditorium on September 26, 2024, with the guest speaker, CEO of Al-Naseeha Institute, Arsalan Ahmed and our society advisor, Hafiz Umair Gulzar.
+
+## Site Visit (Banu Mukhtar PEB factory \& Nandipur power project Gujranwala)
+
+ASCE NUCES organized an insightful one-day visit to the Banu Mukhtar Steel Factory and theNandipur Irrigation Research Centre, providing students with hands-on experience in key civil engineering fields. At Banu Mukhtar, students explored the production of steel and pre- engineered members for large-scale structures, gaining practical understanding of factory operations and project handling.
+
+## Choose France'24
+
+The Career Counseling Society (CCS) hosted the "Choose France Fair," bringing together students from FAST-NUCES and other universities. The event provided insights into master's programs and scholarships in fields such as Computer Science, Engineering, and Management Sciences. Students had the opportunity to engage directly with representatives from 15 French universities, helping them make informed academic decisions. MOUs were signed with PolytechNantes, IMT Atlantique, and EPITECH. FAST-NUCES Rector, Dr. Aftab A. Maroof, and Director, Dr. Summaira Sarfraz, actively participated in the event, presenting awards to the French representatives in appreciation of their involvement.
+
+## TECH TRENDS UNLEASHED
+
+The IEEE X Ebryx Cybersecurity Seminar on October 23, 2024, was a resounding success! Held at the Old Auditorium of FAST NUCES Lahore, this event united students, IT professionals, andcybersecurity enthusiasts to delve into modern cybersecurity trends and challenges. With expert speakers like Muhammad Umer Ishaq discussing 'Enhancing Cyber Defense through Offensive Security Techniques' and Tasmia Rana sharing insights on 'Integrating Secure Full Stack Development Practices,' attendees gained valuable knowledge for navigating today's digital landscape. Thank you to everyone who participated and contributed to such a meaningful discussion.
+
+---
+
+# PESHAWAR CAMPUS 
+
+## $82^{\text {nd }}$ Convocation of the University
+
+The $82^{\text {nd }}$ Convocation of the University, and the $18^{\text {th }}$ graduation ceremony of Peshawar campus was held on 14 December 2024 at the campus premises. Dr. Aftab Ahmad Maroof chaired the convocation as Chief Guest whereas Justice (R) Mian Muhammad Ajmal; member Board of Governors, NUCES, and Prof. Dr. (R) Lutfullah Kakakhel; member Board of Governors, NUCES were the guest of honors. A total of 116 graduates were conferred degrees of which 83 graduates received the Bachelor's Degree in Computer Science, 18 graduates received of Bachelor's Degree in Software Engineering, 9 graduates received Bachelor's Degree in Electrical Engineering, and 6 received the Master's Degree in Data Science. Dr. Aftab Maroof and Dr. Lutfullah Kakakhel addressed the students and advised on professional and life skills. Dignitaries from Peshawar Board, Khyber Pakhtunkhwa Education Foundation, and KP IT Board also joined the convocation and engaged healthy discussion with campus, and university officials and board members.
+
+## Medal \& Scholarship Distribution Ceremony 2024
+
+A ceremony was conducted on 25 October 2024 to award medals to achievers of Fall 2023 and Spring 2024 semesters on the basis of their CGPA, as well as award scholarship certificates. Mr. Zareef Ullah Mani, MD Khyber Pakhtunkhwa Education Foundation served as chief guest on the occasion. 38 students received gold, silver, and bronze medals for fall 2023 semester, whereas 26 received them for spring 2024 semester. In addition, $100 \%$ tuition fee waiver scholarships were awarded to position holders of the NU admission test, and position holders of examination boards. Scholarships were also awarded to students of newly merged districts (Ex-FATA regions). Lastly, recipients of scholarships from KP government through Khyber Pakhtunkhwa Education Foundation (KPEF) were given their certificates. Post event consultation was carried out between campus officials and MD KPEF with consensus reached to increase the number of scholarships in favor of FAST students.
+
+## Job Fair
+
+The Career Services Office of the campus organized the annual Open House and Job Fair on $3^{\text {rd }}$ May 2024. Given the number of graduating students, invitations were sent to reputable software houses of the country. A total of 22 companies registered for the event. These include Cognimind AI, Guru Group LLC, Strings Technologies, Veevotech, Haztech Technologies, FF Steel, JMM Technologies, K2X, Nayatel, Payactive, SMSAMI, and Global IAE. Graduating students showcased their projects to the industry while other students visited the companies stalls to get the career advice and inquired about potential internship opportunities. A total of 28 final-year projects were showcased at the event, where students presented and briefed the participating companies about their work.
+
+## IEEE Xtreme Global Coding Competition 2024
+
+Students of the Peshawar campus made a remarkable impact at the IEEE Xtreme Coding Competition, securing the top 3 positions at the competition ladder boards at National level. A total of 8,785 teams participated in this global event. Hadeed Bin Toufique of team Bytestormers ranked $1^{\text {st }}$ in Pakistan and 234 globally, Aais Rabbani, Hassaan Anwar, and Khwaja Saad from team Protrainers ranked $2^{\text {nd }}$ in Pakistan and 237 globally. Rayyan Liaquat, Fahad Ahmed, and Fatima Khan from Team Recent Rey ranked $3^{\text {rd }}$ in Pakistan.
+
+---
+
+Ahmad Irtaza Meer, and Mashaal from team Bankai ranked $7^{\text {th }}$, while Mahad Paracha from team NUCES alpha ranked $8^{\text {th }}$ in Pakistan.
+
+# National University Technology Competition 2024 (NUTEC) 
+
+The National University Technology Competition (NUTEC) Olympiad is a flagship technology event held by Peshawar campus and has been conducted annually since 2009. The 2024 edition of this competition was held from 3-5 May 2024. NUTEC 24' features a combination of technical, management, and non-technical events. Upto 1 million cash prizes were distributed amongst winners and runners up of 165 participating teams across Pakistan.
+
+---
+
+# Chapter-5 Office of Research, Innovation and Commercialization (ORIC) 
+
+## Overview
+
+The Office of Research, Innovation, and Commercialization (ORIC) at FAST-NUCES played a pivotal role in fostering a culture of research and innovation during the 2022-2023 academic year. ORIC provided comprehensive support to researchers, from project conception to commercialization.
+
+To encourage and recognize research excellence, FAST-NUCES implemented various policies and initiatives. ORIC actively promoted awareness of emerging research trends, offered guidance to faculty members, and provided support during the proposal development and project execution stages. Under the mentorship of the Rector, the ORIC team successfully facilitated an increase in research collaborations with industry and other universities.
+
+The diverse range of research and development activities undertaken at FAST-NUCES during the 2022-2023 academic year aimed to inspire faculty and students to actively participate in the university's research endeavours. By engaging in research initiatives, students and faculty contributed to the advancement of knowledge and contributed to the university's overall success.
+
+## Vision
+
+The vision of ORIC is to promote research and innovation in the local context.
+
+## Mission
+
+To take Pakistan forward by continuously improving quality of research, building partnerships with the industry, and being able to capitalize on outcomes that result from research and development activities.
+
+## Functions
+
+- Encourage pragmatic research in the context of Pakistan's socio-economic needs
+- Identify and inform the faculty members about research opportunities
+- Facilitate joint research ventures and academic collaborations
+- Promote publication of research work being conducted in the University
+- Assist faculty in acquiring funds from international and national funding agencies
+- Promote entrepreneurship, technology - transfer and commercialization activities that support both local and national economies
+- Commercialize research in collaboration with industry
+- Arrange awareness seminars, symposia and workshops for the benefit of faculty and students
+
+---
+
+# Services 
+
+- Educate faculty about university research policy and process grant requests
+- Develop, maintain, and communicate pre and post-award administrative procedures for externally sponsored projects
+- Support faculty regarding contracts, progress reports, and other sponsor grants actions
+- $\quad$ Connect faculty and students with prospective industrial partners
+- $\quad$ Assist students, faculty and alumnus in pursuit of technological or social innovations
+- Mentor the promising start-ups during the initial period when they are most susceptible
+- Assist in patent filing and licensing
+- Keep web and social media presence to share the latest research, scholarship, and entrepreneurial opportunities
+
+
+## ORIC Team
+
+| Name | Designation |
+| :-- | :-- |
+| Dr. M. Asif Naeem | Director ORIC |
+| Engr. M. Aatif Saif Khan | Manager Research Management |
+| Mr. Rana Ayaz | Manager Innovation \& Commercialization |
+| Ms. Sayeda Sadia Batool | Grants Management Officer |
+| Ms. Maryam Mehtab | Research Officer |
+| Ms. Aysha Shafiq | Assistant Manager (Career Services, Chiniot Faisalabad Campus) |
+| Ms. Iram Arshad | Assistant Manager (Career Services, Islamabad Campus) |
+| Ms. Aysha Siddiqui | Assistant Manager (Career Services, Karachi Campus) |
+| Mr. Bashir Muhammad | Manager (Career Services, Lahore Campus) |
+| Mr. Riaz Nawab | Officer (Career Services, Peshawar Campus) |
+
+## Organogram
+
+![img-2.jpeg](img-2.jpeg)
+---### Image Data: (img-2.jpeg)
+#### Topics:- Director ORIC- Career Services Officers- Manager Research Management- Manager Innovation & Commercialization- Grants Management Officer- Research Officer
+#### OCR Contents:
+**Director ORIC:**
+  - Data: Career Services Officers (Campuses)
+
+**Manager Research Management:**
+  - Data: 
+
+**Manager Innovation & Commercialization:**
+  - Data: 
+
+**Grants Management Officer:**
+  - Data: 
+
+**Research Officer:**
+  - Data: ---# Accomplishments 
+
+Noteworthy achievements of our department include
+
+- The ORIC has submitted the HEC's Annual Score Card and anticipated to improve its ranking from "Y" to 'X'. HEC's Performance Evaluation comprises of exhaustive parameters based on an institution's efforts towards gaining higher scores under Human Resecure, Research Management, Collaborations, Innovation \& Commercialization.
+- To meet the accreditation and ranking standards set by the Higher Education Commission (HEC), ORIC implemented a series of strategic policies designed to streamline various research processes. These policies facilitated the efficient management of extramural funding, research rewards, research ethics, and intramural research funding through the Faculty Research Support Grant, catering to both earlycareer and experienced researchers. Additionally, ORIC introduced guidelines for international and domestic travel grants, in-kind research support, and technical entrepreneurship initiatives for faculty and Final Year Projects (FYPs). Policies on plagiarism and research integrity were also reinforced to uphold high standards of academic honesty and quality.
+These comprehensive measures significantly enhanced the research and development landscape at the university, fostering a culture of transparency, accountability, and excellence in all research activities.
+- ORIC consistently educated faculty members about emerging research opportunities, resulting in the submission of over 7 research proposals for external funding during the 2023-2024 period. This achievement is particularly notable given the challenging funding environment, as new grant opportunities during this time were suspended at the funding agencies end due to shortage of funds.
+- Fourteen NRPUs were secured in the period 2023 - 2024.
+- To incentivize and acknowledge outstanding research publications, faculty received research rewards exceeding Rs. 17.14 million during the period 2023-2024. This program has demonstrably led to an increase in the number of high-quality faculty impact factor publications during the reported period.
+- Our campuses have hosted over 440 capacity-building activities for faculty, staff, and students. These initiatives have provided valuable opportunities for professional development and networking, further enhancing the expertise of them.
+
+| Campus Name | Financial Year 2023-2024 |
+| :--: | :--: |
+| CFD | 48 |
+| ISB | 285 |
+| KHI | 57 |
+| LHR | 43 |
+| PWR | 7 |
+| Total | $\mathbf{4 4 0}$ |
+
+---
+
+- The portfolio of ORIC extramural funding expands to have a lab affiliated with each of the four National Centers in Emerging Technologies funded by the Public Sector Development Program (PSDP) National Center of Artificial Intelligence, National Center of Big Data \& Cloud Computing, National Center of Robotics \& Automation, and National Center of Cyber Security. These projects have developed prototypes that are being pitched to the investors for product licensing and commercialization.
+- The NUCES encourages international collaborative research. The faculty researchers are executing European Union's ERASMUS projects.
+- A host of research projects with defence and commercial verticals are also being executed.
+- In 2023-2024, under the ORIC umbrella, NUCES Successfully organized eight international conferences and workshops viz ICET23, ICIT23. We have announced the ICETST24 and ICIT 2024 at Karachi and CFD campuses respectively with several other exciting events in the pipeline. These upcoming conferences promise to bring together experts and thought leaders from various fields to foster innovation, collaboration, and the exchange of ideas.
+- We maintain an incessant social media presence, actively sharing a wide range of local and international opportunities, including emerging research, entrepreneurship, and placement prospects for our faculty and students. By leveraging our Facebook page at https//www.facebook.com/FASTNUORIC/, we effortlessly disseminate information about these opportunities, ensuring that our audience is well-informed and connected to a wealth of exciting prospects at the click of a mouse.
+- The university actively facilitates the strengthening of academia-industry collaborations through meetings, MOUs, and consultancy agreements aimed at addressing industry challenges. Notable partnerships include engagements with NESCOM, Ministry of Planning, Development \& Special Initiative, M-Labs, Transsion Techno Electronics, Siemens Pakistan Engineering Co. Ltd and Elixir Technology among others.
+- In an effort to enhance the research capabilities of faculty members, the Office of Research, Innovation, and Commercialization (ORIC) has introduced intramural funding through the Faculty Research Support Grant (FRSG) program. This year, 30 projects (worth Rs million 38.685) were sponsored under the FRSG initiative.
+- This year 45 Memorandums of Understanding (MoUs) were signed with a diverse range of national and international universities, as well as industrial organizations. These MoUs were strategically crafted to foster collaborations between academia and industry, aiming to promote knowledge exchange, joint research initiatives, and mutually beneficial partnerships. Through these collaborative efforts, we have been able to bridge the gap between theoretical knowledge and practical application, facilitating innovation and creating avenues for impactful research outcomes.
+- This year ORIC has developed the NUCES University Research Portfolio to showcase the university research spectrum and achievements at both national and international level. It strengthens our capacity to engage with various funding bodies and facilitates collaborations, fostering opportunities to secure consultancy projects and further propel our research initiatives. The University Research Portfolio is uploaded on the ORIC website and can be accessed from URL https//www.nu.edu.pk/Oric/UniversityResearchProfile.
+- As part of our commitment to foster an entrepreneurial culture within the university, faculty members are actively encouraged to establish research labs. To date, we have successfully commercialized 42 research labs across various campuses of NUCES.
+
+---
+
+Further details regarding the projects and achievements of these research labs can be accessed through our official ORIC website at https//www.nu.edu.pk/Oric/OricResearchLabs. This platform serves as a gateway for national and international organizations to connect with relevant research labs for collaborative research and development initiatives. Such collaborations ultimately prove beneficial for the university and its stakeholders
+
+- A new Chip design centre has been established at Islamabad campus with the collaboration of GS Microelectronics US Inc. The centre, named GF-Metrc, focuses primarily on Integrated Circuit (IC) design, research, training, and fostering innovation and commercialization, leveraging the partnership with GSME.
+- ORIC is supporting its faculty members and researchers in establishing their technical start-ups, including providing support throughout the trademark and patent filing processes. Notably, recently a new Start up (iParahi) has achieved success in trademark registration. Additionally, the founder is actively engaged in the process of filing a patent application for his forthcoming product.
+
+---
+
+# Chapter-6 Research \& Development 
+
+## Campus Wise information of Journal Articles and Conference Papers
+
+| Campus | Journal Articles |
+| :-- | :--: |
+| Chiniot-Faisalabad (CFD) | 57 |
+| Islamabad (ISB) | 128 |
+| Karachi (KHI) | 62 |
+| Lahore (LHR) | 160 |
+| Peshawar (PWR) | 21 |
+| G. Total | $\mathbf{4 2 8}$ |
+
+![img-3.jpeg](img-3.jpeg)
+
+| Campus | Conference Papers |
+| :-- | :--: |
+| Chiniot-Faisalabad (CFD) | 5 |
+| Islamabad (ISB) | 42 |
+| Karachi (KHI) | 27 |
+| Lahore (LHR) | 29 |
+| Peshawar (PWR) | 11 |
+| G. Total | $\mathbf{4 2 8}$ |
+
+![img-4.jpeg](img-4.jpeg)
+---### Image Data: (img-3.jpeg)
+#### Topics:- CFD- ISB- KHI- LHR- PWR
+#### OCR Contents:
+**CFD:**
+  - Data: 57
+
+**ISB:**
+  - Data: 128
+
+**KHI:**
+  - Data: 62
+
+**LHR:**
+  - Data: 160
+
+**PWR:**
+  - Data: 21------### Image Data: (img-4.jpeg)
+#### Topics:- CFD- ISB- KHI- LHR- PWR
+#### OCR Contents:
+**CFD:**
+  - Data: 5
+
+**ISB:**
+  - Data: 42
+
+**KHI:**
+  - Data: 27
+
+**LHR:**
+  - Data: 29
+
+**PWR:**
+  - Data: 11---# Department Wise information of Journal Articles and Conference Papers 
+
+Departments Journal Articles
+
+| Civil Engineering (Civ. E) | 19 |
+| :-- | :--: |
+| Computer Science (CS) | 172 |
+| Electrical Engineering (EE) | 58 |
+| Management Sciences (FSM) | 45 |
+| Sciences \& Humanities (S\&H) | 138 |
+| G. Total | $\mathbf{4 2 8}$ |
+
+![img-5.jpeg](img-5.jpeg)
+
+Departments
+Conference Papers
+
+| Civil Engineering (Civ. E) | 1 |
+| :-- | :--: |
+| Computer Science (CS) | 72 |
+| Electrical Engineering (EE) | 16 |
+| Management Sciences (FSM) | 13 |
+| Sciences \& Humanities (S\&H) | 12 |
+| G. Total | $\mathbf{1 1 4}$ |
+
+![img-6.jpeg](img-6.jpeg)
+---### Image Data: (img-5.jpeg)
+#### Topics:- Civ. E- CS- EE- FSM- S&H
+#### OCR Contents:
+**Civ. E:**
+  - Data: 19
+
+**CS:**
+  - Data: 172
+
+**EE:**
+  - Data: 58
+
+**FSM:**
+  - Data: 45
+
+**S&H:**
+  - Data: 138------### Image Data: (img-6.jpeg)
+#### Topics:- Civ. E- CS- EE- FSM- S&H
+#### OCR Contents:
+**Civ. E:**
+  - Data: 1
+
+**CS:**
+  - Data: 72
+
+**EE:**
+  - Data: 16
+
+**FSM:**
+  - Data: 13
+
+**S&H:**
+  - Data: 12---# Campus wise impact factor publications 
+
+| Campus | Publications |
+| :-- | :--: |
+| Chiniot-Faisalabad (CFD) | 52 |
+| Islamabad (ISB) | 119 |
+| Karachi (KHI) | 51 |
+| Lahore (LHR) | 132 |
+| Peshawar (PWR) | 20 |
+| G. Total | $\mathbf{3 7 4}$ |
+
+![img-7.jpeg](img-7.jpeg)
+
+## Department wise impact factor publications
+
+| Departments | Publications |
+| :-- | :--: |
+| Civil Engineering (Civ. E) | 18 |
+| Computer Science (CS) | 167 |
+| Electrical Engineering (EE) | 55 |
+| Management Sciences (FSM) | 38 |
+| Sciences \& Humanities (S\&H) | 100 |
+| G. Total | $\mathbf{3 7 8}$ |
+---### Image Data: (img-7.jpeg)
+#### Topics:- CFD- ISB- KHI- LHR- PWR
+#### OCR Contents:
+**CFD:**
+  - Data: 52
+
+**ISB:**
+  - Data: 119
+
+**KHI:**
+  - Data: 51
+
+**LHR:**
+  - Data: 132
+
+**PWR:**
+  - Data: 20---![img-8.jpeg](img-8.jpeg)
+$\begin{array}{llllllllll}\text { EE } & 55 & & & & & & & \text { EE } & \text { EEM } & \text { S\&H }\end{array}$
+
+# Authors vs Publications 
+
+| Campus | Authors | Publications |
+| :-- | :--: | :--: |
+| Chiniot-Faisalabad (CFD) | 31 | 63 |
+| Islamabad (ISB) | 87 | 177 |
+| Karachi (KHI) | 60 | 93 |
+| Lahore (LHR) | 76 | 195 |
+| Peshawar (PWR) | 17 | 33 |
+| G. Total | $\mathbf{2 7 1}$ | $\mathbf{5 6 1}$ |
+
+![img-9.jpeg](img-9.jpeg)
+
+## Campus wise publications - Five Years Summary
+
+| Campus | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :-- | :--: | :--: | :--: | :--: | :--: |
+| Chiniot-Faisalabad (CFD) | 22 | 40 | 70 | 79 | 52 |
+| Islamabad (ISB) | 62 | 88 | 126 | 124 | 119 |
+| Karachi (KHI) | 13 | 17 | 30 | 36 | 51 |
+| Lahore (LHR) | 51 | 94 | 116 | 119 | 132 |
+| Peshawar (PWR) | 13 | 17 | 33 | 57 | 20 |
+| G. Total | $\mathbf{1 6 1}$ | $\mathbf{2 5 6}$ | $\mathbf{3 7 5}$ | $\mathbf{4 1 5}$ | $\mathbf{3 6 7}$ |
+---### Image Data: (img-8.jpeg)
+#### Topics:- S&H- FSM- EE- Civ. E- CS
+#### OCR Contents:
+**S&H:**
+  - Data: 100
+
+**FSM:**
+  - Data: 38
+
+**EE:**
+  - Data: 55
+
+**Civ. E:**
+  - Data: 18
+
+**CS:**
+  - Data: 167------### Image Data: (img-9.jpeg)
+#### Topics:- Authors- Publications
+#### OCR Contents:
+**CFD:**
+  - Authors: 31
+  - Publications: 63
+
+**ISB:**
+  - Authors: 87
+  - Publications: 177
+
+**KHI:**
+  - Authors: 60
+  - Publications: 93
+
+**LHR:**
+  - Authors: 76
+  - Publications: 195
+
+**PWR:**
+  - Authors: 17
+  - Publications: 33---![img-10.jpeg](img-10.jpeg)
+
+# Department wise publications - Five Years Summary 
+
+| Departments | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :-- | --: | --: | --: | --: | --: |
+| Civil Engineering (Civ. E) | 4 | 7 | 13 | 22 | 18 |
+| Computer Science (CS) | 72 | 112 | 152 | 189 | 167 |
+| Electrical Engineering (EE) | 45 | 40 | 74 | 66 | 55 |
+| Management Sciences (FSM) | 8 | 15 | 24 | 43 | 38 |
+| Sciences \& Humanities (S\&H) | 26 | 77 | 112 | 104 | 100 |
+| G. Total | 155 | 251 | 375 | 424 | 367 |
+
+![img-11.jpeg](img-11.jpeg)
+---### Image Data: (img-10.jpeg)
+#### Topics:- CFD- ISB- KHI- LHR- PWR
+#### OCR Contents:
+**2019:**
+  - CFD: 22
+  - ISB: 62
+  - KHI: 13
+  - LHR: 13
+  - PWR: 51
+
+**2020:**
+  - CFD: 40
+  - ISB: 88
+  - KHI: 17
+  - LHR: 17
+  - PWR: 94
+
+**2021:**
+  - CFD: 70
+  - ISB: 126
+  - KHI: 30
+  - LHR: 33
+  - PWR: 116
+
+**2022:**
+  - CFD: 79
+  - ISB: 124
+  - KHI: 36
+  - LHR: 57
+  - PWR: 119
+
+**2023:**
+  - CFD: 51
+  - ISB: 119
+  - KHI: 20
+  - LHR: 52
+  - PWR: 132------### Image Data: (img-11.jpeg)
+#### Topics:- OCR- Data- Chart- Statistics
+#### OCR Contents:
+**2019:**
+  - Civ. E: 4
+  - CS: 72
+  - EE: 45
+  - FSM: 8
+  - S&H: 26
+
+**2020:**
+  - Civ. E: 7
+  - CS: 112
+  - EE: 40
+  - FSM: 15
+  - S&H: 77
+
+**2021:**
+  - Civ. E: 13
+  - CS: 152
+  - EE: 74
+  - FSM: 24
+  - S&H: 112
+
+**2022:**
+  - Civ. E: 22
+  - CS: 189
+  - EE: 66
+  - FSM: 43
+  - S&H: 104
+
+**2023:**
+  - Civ. E: 18
+  - CS: 167
+  - EE: 55
+  - FSM: 38
+  - S&H: 100---# Chapter-7 Quality Assurance 
+
+## Introduction
+
+Quality assurance is an important aspect of a university's commitment to deliver highquality education and research services to its stakeholders. It involves a set of procedures and processes that ensure that the university's programs and services meet the required quality standards. Quality assurance is a continuous process that involves identifying areas of improvement, implementing best practices, and measuring performance against established quality benchmarks. It involves the active participation of all university personnel, students, and other stakeholders, and requires a culture of continuous improvement and accountability.
+
+The Quality Assurance Agency (QAA) of Higher Education Commission (HEC) established Quality Enhancement Cells (QECs) in the universities of Pakistan in a phase manner. In the first three phases QECs in 45 public sector universities were established by HEC from the year 2006 till 2010. Then, HEC expanded its scope to the private sector Universities and selected 15 private sector, W category (HEC's then ranking), universities. NUCES was in the list of the first phase (2009-2011) private sector universities. In this context, QEC at NUCES was established on June 11th, 2010.
+
+## Vision of QEC
+
+Support the university's vision by adapting best practices suggested by accreditation bodies while conforming to the university policies.
+
+## Mission of QEC
+
+Adapt existing state-of-the-art higher education quality improvement strategies, while engaging with all stakeholders.
+
+## Objectives of QEC
+
+1. Enhancing the pedagogical skills of the instructors to achieve learning outcomes of curriculum and effectively engage with the students.
+2. Provide coaching related to the processes and procedures prescribed by the accreditation bodies, to the academic staff.
+3. To communicate and coordinate with all the stakeholders (students, instructors, staff, alumni, employers, subject experts, etc.) for feedback with the aim of improvement of education quality.
+4. Formulate analytical reports extracted from the received feedback from the stakeholders, i.e., surveys related to infrastructure, teacher evaluation, alumni, employer etc. and provide recommendations to the statutory bodies of the university.
+5. Promote automation of quality related processes to develop an effective, viable and sustainable ecosystem of quality assurance at the university.
+6. Ensuring the compliance of quality assurance procedures in accordance with the guidelines provided by HEC and accreditation councils.
+7. Provide assistance to academic departments to meet the expectations of accreditation bodies in terms of data gathering and reporting.
+
+---
+
+8. Tailor curricular and co-curricular activities to meet the requirements of ranking organizations.
+
+# Organizational Structure 
+
+The QEC organogram is as given below
+![img-12.jpeg](img-12.jpeg)
+
+## QEC Score
+
+QEC implies internal quality assurance mechanisms to strengthen the academic programs and allied processes to meet national and international standards. The outcome of these efforts can be witnessed through the score of QEC and sanction of programs by the external quality assurance in the form accreditation and NoC.
+
+The score of QEC over the years by QAA, HEC is provided in the table below.
+
+| Years | 2018-19 | 2019-21* | 2021-22 | 2022-23 |
+| :-- | :-- | :-- | :-- | :-- |
+| Score by QAA, HEC | $95.56 \%$ | $66.56 \%$ | $93.68 \%$ | $96.00 \%$ |
+
+Table 1 Score of QEC over the years by QAA, HEC. *Covid'19
+
+## FAST-NUCES QEC's Role in Shaping National Quality Assurance Standards (PSG-2023)
+
+Given the performance of the QEC at FAST-NUCES, QAA-HEC involved us in the development of the revamped quality assurance policy, Pakistan Precepts, Standards, and Guidelines for Quality Assurance in Higher Education 2023 (PSG-2023). We were among 22 universities selected to participate in this process. Following the announcement of PSG2023, we were also chosen for the pilot testing of two major quality assurance activities
+---### Image Data: (img-12.jpeg)
+#### Topics:- Organizational Chart- Management Hierarchy- Campus Structure
+#### OCR Contents:
+**Rector:**
+  - Data: Top of the hierarchy
+
+**Director IQAE:**
+  - Data: Reports to Rector
+
+**Manager-Coordination:**
+  - Data: Reports to Director IQAE
+
+**IQAE-CFD Campus:**
+  - Deputy Manager: Reports to Director IQAE
+  - Officer: Reports to Deputy Manager
+
+**IQAE-ISBN Campus:**
+  - Deputy Manager: Reports to Director IQAE
+  - Officer: Reports to Deputy Manager
+
+**IQAE-KHI Campus:**
+  - Assistant Manager: Reports to Director IQAE
+  - Officer: Reports to Assistant Manager
+
+**IQAE-LHR Campus:**
+  - Assistant Manager: Reports to Director IQAE
+  - Officer: Reports to Assistant Manager
+
+**IQAE-PWR Campus:**
+  - Manager: Reports to Director IQAE
+  - Officer: Reports to Manager---Review of Institutional Performance and Enhancement (RIPE) and Graduate Program Review/Program Review for Effectiveness and Enhancement (GPR/PREE).
+
+# Accreditation Status 
+
+Accreditation Status of programs offered at campuses by the respective accreditation council are given in the table below
+
+| No. | Program | Campus | Accreditation Status |
+| :--: | :--: | :--: | :--: |
+| Pakistan Engineering Council (PEC) |  |  |  |
+| 1. | Bachelor of Science (Electrical Engineering) | CFD, ISB, KHI, LHR, PWR | Accredited |
+| 2. | Bachelor of Science (Civil Engineering) | LHR | Accredited |
+| 3. | Bachelor of Science (Computer Engineering) | ISB | Accredited |
+| National Computing Education Accreditation Council (NCEAC) |  |  |  |
+| 1. | Bachelor of Science (Computer Science) | CFD, ISB, KHI, LHR, PWR | Accredited |
+| 2. | Bachelor of Science (Cyber Security) | ISB, KHI | Accredited |
+| 3. | Bachelor of Science (Data Science) | ISB, KHI, <br> LHR | Accredited |
+| 4. | Bachelor of Science (Software Engineering) | CFD, ISB, KHI, LHR, PWR | Accredited |
+| 5. | Bachelor of Science (Artificial Intelligence) | CFD, ISB, KHI, PWR | Accredited |
+| National Business Education Accreditation Council (NBEAC) |  |  |  |
+| 1. | Bachelor of Science (Accounting \& Finance) | ISB | Accredited |
+| 2. | Bachelor of Business Administration | ISB, LHR | Accredited |
+| 3. | Master of Business Administration | ISB, LHR | Accredited |
+
+Table 2 Program Accreditation Status by Different Accreditation Councils
+
+## Graduate Program NOC
+
+Sanctions from HEC for the commencement of Masters and PhD programs have been acquired for all the offered MS \& PhD programs at different campuses.
+
+| No. | Program | Campus | Status |
+| :-- | :-- | :-- | :-- |
+| 1. | Master of Science (Applied Linguistics) | LHR | Sanctioned |
+| 2. | Master of Science (Artificial Intelligence) | ISB, KHI | Sanctioned |
+| 3. | Master of Science (Business Analytics) | ISB, KHI, LHR | Sanctioned |
+
+---
+
+| No. | Program | Campus | Status |
+| :--: | :--: | :--: | :--: |
+| 4. | Master of Science (Civil Engineering) | LHR | Sanctioned |
+| 5. | Master of Science (Cyber Security) | ISB, KHI, LHR | Sanctioned |
+| 6. | Master of Science (Computer Science) | CFD, ISB, KHI, <br> LHR, PWR | Sanctioned |
+| 7. | Master of Science (Data Science) | CFD, ISB, KHI, <br> LHR, PWR | Sanctioned |
+| 8. | Master of Science (Electrical Engineering) | CFD, ISB, KHI, <br> LHR | Sanctioned |
+| 9. | Master of Science (Mathematics) | LHR | Sanctioned |
+| 10. | Master of Science (Software Engineering) | ISB, KHI | Sanctioned |
+| 11. | Master of Science (Software Project Management) | KHI, LHR | Sanctioned |
+| 12. | Master of Business Administration | CFD, LHR | Sanctioned |
+| 13. | Doctor of Philosophy (Civil Engineering) | LHR | Sanctioned |
+| 14. | Doctor of Philosophy (Computer Science) | CFD, ISB, KHI, <br> LHR, PWR | Sanctioned |
+| 15. | Doctor of Philosophy (Electrical Engineering) | CFD, ISB, KHI, <br> LHR | Sanctioned |
+| 16. | Doctor of Philosophy (Management Sciences) | ISB, LHR | Sanctioned |
+| 17. | Doctor of Philosophy (Mathematics) | LHR | Sanctioned |
+| 18. | Doctor of Philosophy (Software Engineering) | ISB, KHI | Sanctioned |
+
+Table 3 Recognized by HEC for Commencement of MS and PhD Programs
+
+# Program Level Self-Assessment 
+
+All the programs went through self-assessment after an interval of 2 years as per QAA, HEC guidelines. The cycle started with the formation of a Program Team (PT) for preparing the Self-Assessment Report (SAR) as per HEC guidelines. An Assessment Team (AT) is then constituted to evaluate the program through a scheduled visit and submit findings. Based on the AT report, an implementation plan is prepared, followed by periodic QEC reviews to ensure corrective actions are executed effectively.
+
+During the reporting period (2023-24), the self-assessment process for all programs whose next cycle was due were concluded. The table below provides campus-wise details of the programs that went under SAP along with number of corrective actions taken during 202324 against the findings highlighted by the AT during various AT visits under the process of self-assessment.
+
+---
+
+| Campus | Total Programs | No. Programs went under SAP <br> as per its due SAP cycle | No. of Corrective <br> actions taken in year <br> 2023-24 |
+| :-- | :-- | :-- | :-- |
+| CFD | 11 | 1 | 20 |
+| ISB | 23 | 13 | 09 |
+| KHI | 15 | 5 | 19 |
+| LHR | 24 | 8 | 103 |
+| PWR | 9 | 2 | 36 |
+
+Table 4 No. of Programs went under SAP and Corrective Actions taken during 2023-24
+
+# Institutional Level Self-Assessment 
+
+The Institutional level self-assessment has been initiated by forming an IPE Committee, which compiles the University Portfolio Report (UPR) and University-wide Data (UwD) as per HEC guidelines. A Review Panel, constituted by the Campus Director, conducts a 3day campus visit, reviews document, interacts with stakeholders, and provides feedback. Based on the panel's report, an Implementation Plan is prepared and periodically monitored by QEC to ensure progress.
+
+Details of corrective measures taken during 2023-24 against the findings highlighted by the review panel during its visits.
+
+| Campus | No. of Corrective Action |
+| :-- | :-- |
+| CFD | 27 |
+| ISB | 4 |
+| KHI | 19 |
+| LHR | 31 |
+| PWR | 24 |
+
+Table 5 No. of Corrective Actions Taken against the findings of Institutional Level Self-Assessment
+
+## Post Graduate Program Review
+
+This activity ensures that postgraduate program policies comply with HEC guidelines. QEC collects data for three proformas-Program, Faculty, and Student-detailing program specifications, faculty credentials, and student records. A Review Panel, comprising experts, evaluates the policies, documents, and facilities through campus visits, and stakeholder interactions. Based on the panel's report, an Implementation Plan is developed and monitored by QEC to address identified improvements.
+
+Details of corrective measures taken during 2023-24 against the findings highlighted by the review panel during its visits.
+
+---
+
+| Campus | No. Corrective Action |
+| :-- | :-- |
+| CFD | 7 |
+| ISB | 7 |
+| KHI | 12 |
+| LHR | 9 |
+| PWR | 5 |
+
+Table 6 No. of Corrective Actions Taken against the findings of PGPR
+
+# Feedback Mechanisms 
+
+Feedback mechanism from stakeholders is one of the vital pillars of quality assurance. There are QAA, HEC directed surveys while there are few NUCES motivated surveys. The responses of surveys are compiled in the form of a report and shared with senior management for review and with relevant authority for corrective action. Frequency of conduction of these surveys is given in the table below.
+
+| No. | Survey | Stakeholder | Frequency |
+| :--: | :--: | :--: | :--: |
+| 1. | Course \& Teacher <br> Evaluation by the Student | Current Students | Twice a semester |
+| 2. | Faculty Course Review <br> Report | Current Students | Once a semester |
+| 3. | Research Progress Review <br> Report | Current Students | Once a semester |
+| 4. | Department Offering PhD <br> Program | Head of Department | Once a Year |
+| 5. | Graduating Student Survey | Graduating Students | Once a Year |
+| 6. | Alumni Survey | Old Students | Continuous Activity |
+| 7. | Employer Survey | Employer of NUCES <br> Graduates | Continuous Activity |
+| 8. | Faculty Survey | Faculty Members | Once a Year |
+| 9. | Staff Survey | Staff Members | Once a Year |
+| 10. | Exams Assessment | Superintendent and Head <br> Invigilator | Trice a semester (for <br> every exam) |
+| 11. | Fresh Intake Survey | Students of New Batch | Once a Year |
+| 12. | Facilities Survey | Current Students | Once a Year |
+
+Table 7 Frequency of Collection of Feedback
+
+## Arrangement of Conference on Internationalization of Higher Education
+
+FAST-National University of Computer and Emerging Sciences (FAST-NUCES), in collaboration with the Quality Assurance Agency (QAA) of the Higher Education
+
+---
+
+Commission (HEC), successfully organized the International Conference on Accreditation and Internationalization in South Asian Higher Education Institutions (HEIs). The event was held at the HEC Main Auditorium in Islamabad and served as the concluding activity of the ERASMUS+ funded project Strategic Support for Accreditation of Programs and Internationalization at South Asian HEIs (SSAPI).
+
+The conference was inaugurated by Dr. Zia Ul Qayyum, Executive Director of HEC, who emphasized the importance of regional collaboration to enhance the quality and internationalization of higher education in South Asia. Key addresses by figures such as Mr. Nasir Shah, Director General of QAA-HEC, and Dr. Amir Qayyum, SSAPI Project Coordinator, further highlighted the strategic significance of accreditation and global engagement efforts.
+
+Presentations from international experts, including those from Portugal, Maldives, Sri Lanka, and Bhutan, provided valuable insights and recommendations on best practices for accreditation and internationalization. These discussions enabled South Asian HEIs to align with global standards and foster meaningful collaboration. The event attracted approximately 100 on-site attendees and 100 online participants, ensuring widespread engagement and networking opportunities.
+
+The successful organization of this conference demonstrates FAST-NUCES' leadership in advancing quality assurance and internationalization in higher education. It also reflects the university's strong commitment to fostering collaboration and knowledge sharing among South Asian institutions, contributing significantly to the overall goals of the SSAPI project.
+
+# Capacity Building 
+
+Capacity building is one of the important activities conducted by QECs. This includes the arrangement of workshops/seminars/workshops for the faculty, staff and students, participation of QEC staff in the events related to quality assurance and by contribution by QEC staff by delivering sessions on quality assurance. The following table provides details of events arranged by QECs of all campuses.
+
+| Event | CFD | ISB | KHI | LHR | PWR |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Evaluation Visits | 3 | 3 | 8 | 10 | 3 |
+| Events Arranged | 10 | 16 | 11 | 6 | 9 |
+| Event Contributed | 2 | 6 | 0 | 0 | 5 |
+| Events Participated | 5 | 15 | 2 | 9 | 19 |
+
+Table 8 Details of Efforts for Capacity Building
+
+## Major Contributions to the FAST-NUCES Quality Culture
+
+The Quality Enhancement Cell (QEC) took the lead in developing the Quality Assurance Policy, Faculty Mentoring Policy, and Best University Teacher Award Policy, demonstrating its commitment to advancing academic quality and fostering faculty development at NUCES.
+
+---
+
+# Development of Quality Assurance Policy 
+
+The National University of Computer and Emerging Sciences (NUCES) has developed a comprehensive Quality Assurance (QA) Policy, guided by the standards set by the Quality Assurance Agency (QAA) of the Higher Education Commission (HEC) of Pakistan. These guidelines provide a robust framework for maintaining and enhancing the quality of higher education and research programs across the university.
+
+The NUCES QA Policy is meticulously aligned with QAA's guidelines to ensure that the university consistently adheres to the highest quality standards. The policy not only defines the procedures and processes for maintaining academic excellence but also establishes mechanisms for continuous improvement to meet or exceed the expectations outlined by the HEC.
+
+In addition to adhering to QAA and HEC guidelines, the QA Policy integrates NUCES' internal policies and regulations. By using HEC's directives as a foundational reference, NUCES continuously evolves its quality assurance framework, incorporating newly developed practices and innovations that enhance the effectiveness of its academic and administrative processes.
+
+## Development of Faculty Mentoring Policy
+
+As part of its commitment to faculty development, the National University of Computer and Emerging Sciences (NUCES) has formalized its efforts through the development of a comprehensive Faculty Mentoring Policy. While NUCES has long facilitated faculty growth through participation in various opportunities and in-house training workshops, these efforts were previously informal. Recognizing the importance of structured initiatives, the university has introduced a dedicated Faculty Development Program to achieve more impactful and measurable outcomes.
+
+The Faculty Development Program focuses on two key goals
+
+1. Faculty Mentoring Supporting newly hired and relatively junior faculty members in adapting to the academic environment and excelling in their roles.
+2. Faculty Training Providing professional development opportunities to enhance the knowledge, skills, and competencies of faculty members at all levels.
+
+This initiative underscores NUCES' commitment to fostering a culture of excellence and continuous learning among its faculty, ensuring their growth aligns with the university's mission of academic and research distinction.
+
+## Development of Policy for Best University Teacher Award
+
+The National University of Computer and Emerging Sciences (NUCES) has introduced the Best Teacher Award to recognize outstanding faculty members and promote excellence in teaching. The award aims to motivate faculty to enhance their teaching practices and professional skills. It is open to all full-time faculty members, from Lecturer to Professor, and evaluations are conducted over an academic year (July-June) to ensure a thorough and fair process.
+
+---
+
+NUCES confers the award at two levels the Best Campus Teacher Award (BCTA) and the Best University Teacher Award (BUTA). The campus-level award is presented by the Campus Director and includes a certificate, shield, and cash prize. The university-level award is conferred by the Rector during the convocation and carries similar recognition. The recipient of the BUTA is also nominated for the HEC National Best University Teacher Award. This initiative underscores NUCES' commitment to fostering teaching excellence and providing structured recognition for faculty achievements.
+
+# Establishment of Office of Internationalization 
+
+The Quality Enhancement Cell (QEC) played a pivotal role in establishing the International Education Office (IEO), which foster global engagement at NUCES. The IEO is designed to enhance opportunities for both students and faculty, promoting international collaborations and enriching the academic environment.
+
+One of the key objectives of the IEO is coordinating and facilitating student and faculty exchange programs. These initiatives encourage cross-cultural understanding and strengthen academic collaboration between NUCES and international institutions. The IEO also focuses on developing and managing partnerships with esteemed global institutions, promoting joint research initiatives, collaborative projects, and the exchange of academic expertise.
+
+In addition to facilitating exchanges, the IEO provides comprehensive support services for international students. These services ensure a smooth transition into the NUCES community, creating a welcoming and inclusive environment for students from diverse backgrounds. The office also actively promotes study abroad opportunities, encouraging NUCES students to broaden their perspectives, gain diverse insights, and enhance both their academic and personal growth.
+
+Furthermore, the IEO initiates faculty exchange programs with international institutions, fostering academic cooperation and offering faculty members valuable cross-cultural experiences. Through these efforts, the IEO contributes to the university's mission of internationalization, strengthening academic ties and global perspectives at NUCES.
+
+## Collaboration with international Universities
+
+In an effort to strengthen global academic ties, NUCES has actively pursued collaborations with international universities through Memoranda of Understanding (MoUs). One such successful partnership is with Villa College University, Maldives.
+
+Additionally, MoUs are currently in progress with two prestigious institutions the University of Evora, Portugal, and the University of Peradeniya, Sri Lanka. These partnerships aim to foster academic cooperation, research initiatives, and cross-cultural exchange.
+
+---
+
+# Chapter-8 Financial Support to Students 
+
+## A. Internal Sponsorships
+
+## 1. Merit Scholarships for Bachelor Students
+
+Merit scholarship is awarded to the Top Three position holders of each Examination Board. Scholarship is also offered to the top three position holders in the NU admission merit list of each campus. Students awarded merit Scholarship, 100\% tuition fee for 8 regular semesters must maintain a CGPA of $\geq 3.00$ in each semester.
+
+## 2. Study Loan
+
+Realizing that fees may not be affordable for some of the students, FAST-NU arranges financial assistance in the form of interest-free study loans for bright indigent students.
+
+## Rules for Internal Sponsorships
+
+i. Internal sponsorships are available for Studying in regular semesters (spring and Fall). The following is the maximum number of semesters for which it can be availed.
+
+- Bachelor's 8 semesters
+- Master's 4 semesters
+- PhD 6 semesters
+ii. It shall not be available for repeat or withdrawn courses. This implies that it is available for studying a course only once.
+iii. It is suspended if the student's CGPA falls below the minimum specified to avoid warning and shall be restored upon getting out of warning by improvement in CGPA.
+iv. It shall be limited to tuition fee only.
+
+
+## B. External Sponsorships
+
+## 1. Provincial Assistance
+
+Awarded as per provincial laws and regulations.
+
+- Sindh Government Endowment Board Scholarships
+- Punjab Educational Endowment Fund (PEEF) Scholarships
+- Baluchistan Government Endowment Board Scholarship
+
+
+## 2. HEC Scholarships for MS and PhD students
+
+The Higher Education Commission (HEC) provides liberal scholarships to students desirous of studying for MS and PhD degrees at this university. The scholarship covers tuition fee, monthly stipend, and book allowance.
+
+## 3. OSAF Scholarships
+
+OSAF (Old Students Association of FAST) arranges financial assistance for those students who cannot afford to pay their full fee.
+
+## 4. FANA Scholarship
+
+FAST Alumni of North America provide funds for financial assistance for students who cannot afford to pay their full fee.
+
+---
+
+# 5. Ihsan Trust Financial Assistance 
+
+Ihsan Trust financial assistance for students who cannot afford to pay their full fee.
+
+## 6. Other Scholarships
+
+In addition to the above scholarships there are various community-based scholarships offered by various committees and foundations such as, Memon Community Scholarships, Bohra Community Scholarships, Agha Khan Foundation Scholarships, Ihsan Trust Sponsorship, General Refaqat Memorial Scholarship, etc.
+
+## Transport Facility
+
+## Chiniot-Faisalabad Campus
+
+The University has arranged buses to operate between the campus and designated points in various localities of Faisalabad. This transport facility is available on self-finance basis.
+
+## Islamabad Campus
+
+A few private transporters operate mini-buses between the campus and designated points in various localities of Rawalpindi and Islamabad on self-finance basis. The university also provides a limited number of buses to pick and drop students from selected points on selffinance basis.
+
+## Karachi Campus
+
+The University arranges secure and safe, comfortable buses and coasters to pick students from selected points in different localities of Karachi. The transport facility is available on subsidized self-finance basis.
+
+## Peshawar Campus
+
+The university provides limited transport facility to pick and drop students from selected points in Peshawar City to the campus. This facility is available on self-finance basis.
+
+---
+
+# Chapter-8 Industrial Collaboration 
+
+During the reporting period from July 1, 2023, to June 30, 2024, the Career Services Office at FAST-NUCES spearheaded multiple initiatives to strengthen industrial linkages and facilitate students' transition from academia to industry. Key achievements include
+
+## 2. Alumni Homecoming Event
+
+A well-attended gathering on December 30, 2023, reconnected alumni with their alma mater. The event was a gathering of about 800 alumni and faculty connecting with one another and re-living their times.
+
+## 3. Recruitment Drives
+
+- Careem On July 7, 2023, Careem conducted a recruitment drive for BS and MS students at FAST-NUCES. The process featured an on-campus, rigorous selection procedure that included interviews and assessments, providing students with an opportunity to join a leading technology-driven organization.
+- 10x Engineers A recruitment drive for 10x Engineers was held on July 19, 2023. The event featured on-spot hiring tests followed by immediate interviews, allowing qualified candidates to secure roles on the same day, emphasizing efficiency and merit-based selection.
+- Vyroverse Campus Ambassador Program On October 10, 2023, Vyroverse launched its Campus Ambassador Program at FAST-NUCES. This initiative engaged students in leadership-oriented roles, offering them opportunities to develop professional skills while representing the company on campus.
+- QLU A recruitment drive for QLU was conducted on February 16, 2024. The drive aimed to connect students with job opportunities in a dynamic and innovative work environment, fostering professional growth for the participants.
+- MCG Technologies MCG Technologies organized multiple recruitment activities at FAST-NUCES. Pre-shortlisted candidates were interviewed for various job roles earlier, and an additional recruitment drive was held on February 19, 2024, to identify and onboard talent for diverse positions.
+- Zones IT On February 29, 2024, Zones IT conducted a recruitment drive on campus. Students participated in interviews and assessments to explore job opportunities, benefiting from direct interaction with the company's hiring team.
+- Signatics A recruitment drive for Signatics was held on March 5, 2024. This initiative provided students with the chance to showcase their technical and professional competencies to secure roles in a growing organization.
+- Careem Engineering On March 4, 2024, Careem Engineering conducted a specialized recruitment drive for engineering roles. The process included oncampus recruitment tests that evaluated candidates' technical expertise and problem-solving abilities, paving the way for them to join a prominent engineering team.
+- Systems Limited On March 8, 2024, Systems Limited conducted a recruitment drive at FAST-NUCES, offering students opportunities to join one of Pakistan's leading IT and consulting firms.
+
+---
+
+- Coca-Cola Icecek x FAST On March 21, 2024, this flagship trainee program recruitment drive connected students with Coca-Cola Icecek's CCI Next Talent Program. Trainees gain the opportunity to work for 12 months in core functions like Sales, Marketing, Supply Chain, Human Resources, and Finance. Open to Bachelor's students in Engineering, Management Sciences, Social Sciences, and Finance, the program emphasized professional development in a global corporate environment.
+
+
+# 4. Professional Development Initiatives /Seminars 
+
+- A seminar on resume writing and interview skills was conducted in collaboration with Career Launchpad for Technical and Business Writing students.
+- A session on "Essentials of Effective Leadership," organized in collaboration with HR Consultants, featured Dr. Nazmul Huda delivering an impactful talk on October 11, 2023.
+- A workshop on "Human-Centric Design Thinking," conducted in collaboration with Digital Miles on October 13, 2023, engaged both faculty and students in innovative problem-solving approaches.
+- On November 16, 2023, the State Bank of Pakistan conducted an engaging session titled "Promising Careers in the State Bank." The session provided students with valuable insights into career opportunities in the banking sector, highlighting key roles, growth trajectories, and skillsets essential for building a successful career in the institution.
+- The Career Services Office organized a visit by the Anti-Narcotics Force (ANF) to FAST-NUCES. The ANF team provided comprehensive guidance to university staff on identifying various types of narcotics, their harmful effects, and strategies for prevention, contributing to a safer and more informed campus environment.
+- An awareness session was conducted for students and faculty to introduce and explain the role of the Ombudsman Secretariat. The session aimed to familiarize attendees with its functions, highlighting how it serves as a mediator for addressing grievances and ensuring justice in administrative matters.
+- Syed Affan, Senior Consultant at Emumba, conducted a seminar on February 21, 2024, discussing advancements in "Generative AI and IT" and its transformative role in technology.
+- Barkan Saeed, Founder of VizTech Solutions, delivered an inspiring talk on February 28, 2024, titled "How to Be a Good Professional," highlighting the essential qualities and mindset required for success in the tech industry.
+- Taher Hussain, Member of the Association for Coaching, delivered an insightful session focusing on techniques to communicate ideas effectively on $31^{\text {st }}$ January, 2024.
+- Abdul Khaliq Khan, Head of Talent and OD at HBL, shared practical strategies to enhance presentation abilities for professional growth and success $1^{\text {st }}$ January, 2024.
+- Ms. Hira Zainab, VP Strategic Affairs delivered a session on Career Readiness for IT industry to School of Computing students.
+
+---
+
+# 5. Job Fair 2024 
+
+The Job Fair/Open House 2024, hosted by the Career Services Office was held at FAST-NUCES Islamabad Campus on April 25th, 2024. The event was a resounding success, attracting a total of 620 graduating students who showcased their projects. It provided a platform for students to interact with 189 registered companies, including 8 consultants, facilitating networking, job opportunities, and exposure to industry trends. The seamless execution of the event was made possible by the dedication of more than 400 ushers, whose contributions ensured a smooth and efficient experience for all attendees.
+
+## 6. Industrial Visits
+
+- HMC Taxila Visit On November 27, 2023, FSM students visited Heavy Mechanical Complex (HMC) in Taxila. The visit offered students a firsthand look at the industrial manufacturing processes and operations, enriching their understanding of engineering applications in a large-scale industrial setting.
+- Attock Refinery Morgah Visit An industrial visit to Attock Refinery in Morgah was arranged for FSM students. This opportunity allowed students to observe the refinery's operations, gaining practical insights into petroleum processing and the engineering techniques involved.
+- Telenor Head Office Visit On April 29, 2024, a group of students visited the Telenor Head Office. This visit provided them with a unique opportunity to explore the functioning of a major enterprise, understand corporate workflows, and gain exposure to real-world organizational structures and operations.
+
+
+## 7. Summer Internship Program for Cadet College Hasan Abdal
+
+Conducted in July 2023 and June 2024, this week-long program offered Cadet College Hasan Abdal students an opportunity to gain deeper insights into the programs and academic offerings at FAST-NUCES.
+
+## 8. Memoranda of Understanding (MOUs)
+
+- TEKenable (Pvt.) Ltd. Signed on August 9, 2023, this MOU establishes TEKenable as an industrial training and placement partner, focusing on IT skills, soft skills workshops, and student internships.
+- Trillium Information Security Systems Pvt. Ltd. Signed on August 11, 2023, this MOU focuses on cybersecurity education, providing internship programs, lab sponsorships, and opportunities for final-year project supervision.
+- AtomCamp Signed on July 6, 2023, this MOU focuses on collaborative training sessions for the faculty of FAST-NUCES.
+- Foster International School, Islamabad This MOU outlines faculty training and student-led technical training at Foster School, with a 50\% fee discount for FAST-NUCES faculty and staff children.
+- MCG Technologies Signed on August 18, 2023, this MOU establishes a recruitment partnership, with MCG Technologies offering internship programs, recruitment events, and exclusive job opportunities for FASTNUCES students.
+
+---
+
+- UpStart Commerce Signed on September 12, 2023, this MOU strengthens the collaboration between industry and academia, furthering opportunities for students and faculty engagement.
+- Plus-W This MOU focuses on informing graduates of FAST-NUCES about job opportunities in Japan and supporting their recruitment process.
+- Leverify Signed on September 20, 2023, this MOU introduces a Management Trainee Officer (MTO) program for FAST-NUCES graduates, alongside placement and internship opportunities to enhance career prospects.
+- Al-Burhan Signed on October 31, 2023, this MOU commits FAST-NUCES to allow Al-Burhan to conduct workshops and sessions on Seerah and Tarbiyah classes, promoting character development and spiritual growth among students.
+- TechVallet Pakistan Signed on April 19, 2024, this MOU provides FASTNUCES students across all campuses with free access to Google Career Certificates, enabling them to gain essential skills in high-demand fields such as IT, data analysis, and digital marketing.
+- Rapidev Signed on April 2, 2024, this MOU establishes a partnership for internships, placements, and mentorship, providing FAST students and graduates with career guidance and industry experience.
+- Apex Consultants Signed on May 21, 2024, this MOU aims to equip FAST graduates with the essential skills required to land jobs in the US job market through mentorship and career guidance boot camps.
+- Times Consultants Signed on May 17, 2024, this MOU provides free guidance to FAST-NUCES students pursuing studies abroad, helping them navigate the complexities of international education and career opportunities.
+- AIPS Signed on May 24, 2024, this MOU promotes fully funded training programs for faculty and students in the US, including scholarly exchanges, collaborative research, and lectures/seminars.
+- Agile Conference Pakistan FAST-NUCES hosted the Agile Conferences in 2023 and 2024, both executed and liaised through the Career Services Office, where industry professionals from across the nation were trained on agile methodologies.
+
+
+# 9. Collaborative Research and Development 
+
+Through continuous collaboration and an ongoing MoU with UpStart Commerce, FAST-NUCES final-year students from 2023 and 2024 successfully secured industry-related research projects funded by the company.
+
+## 10.Alumni Engagement and Networking
+
+- Alumni session and talk held on November 10, 2023, reconnecting alumni with their alma mater.
+- Alumni Association meeting on December 12, 2023, to discuss Homecoming preparations.
+- Hosted a cricket match for partner organizations, including Bentley, Contour, and Comrex, fostering networking.
+- The CSO team attended 3 OPEN Islamabad networking events to meet the industry leaders and foster collaboration.
+
+---
+
+# 11.Outreach Activities 
+
+- Facilitated the visit of Beaconhouse College students to FAST-NUCES departments.
+- Represented FAST-NUCES at the Career Expo 2024 at the Pak-China Friendship Center.
+- Hosted Silver Oaks School students on June 4, 2024, to introduce the programs offered at FAST-NUCES.
+- Represented FAST-NUCES at the Beaconhouse Potohar Campus College Fair.
+
+
+## 12.Special Initiatives
+
+- Hosted the Islamabad United team on May 3, 2024, to celebrate their PSL victory.
+- Held discussions with the Nigerian Vice Ambassador to explore collaboration opportunities for Nigerian students.
+
+The Career Services Office at FAST-NUCES has consistently demonstrated its commitment to bridging the gap between academia and industry through a wide range of initiatives. From hosting impactful awareness sessions and recruitment drives to fostering meaningful partnerships through MoUs, the CSO has provided students with invaluable opportunities for professional growth and development. Moving forward, the CSO aims to expand its outreach and strengthen these engagements, ensuring that FAST-NUCES continues to produce future-ready graduates who are equipped to lead and innovate in their respective fields.
+
+---
+
+# Chapter-9 Health Care Facilities 
+
+FAST-NUCES Administration is fully conscious of facilitating its employees within its resources. Employees Health Insurance Scheme was launched to provide the best health care facilities to the employees of NUCES. The Policy has proved enormously beneficial for the university employees and their families. Health Insurance Coverage is provided to all faculty members, officers and administrative staff of FAST-NUCES for cost effectiveness and timely medical facilitation.
+
+The FAST NUCES CFD campus has on campus medical centre. The centre is providing illness and injuries on an outpatient basis while also providing wellness education to the campus community. MBBS doctor along with male and female nursing staff, Paramedic examining the patients in daytime and round the clock.
+
+For routine health care matters and first aid at FAST-NUCES PWR campus, the campus operates multiple first aid boxes located at different offices of the campus, including the hostel. Inventory and operational control is maintained, with contents recommended by rescue 1122. The campus is in close of proximity of 13 general and specialized, private and government hospitals, all within 3 km radius. One university vehicle and on-campus resident driver are dedicated towards meeting emergency needs of employees and students. An in-house health care facility is not yet possible due to shortage of space. For this, considerations have been made for incorporation in updated master plan of the campus.
+
+FAST NUCES (Karachi Campus) provides quality health care facilities on its campus. The medical room includes BP operations, nebulizer, oxygen cylinder, bed, sugar test machine, walker, first aid box facility, and a wide range of medicines. We also have highly skilled medical professionals who are committed to providing quality healthcare services. Employees Health Insurance Scheme is also available for university employees and their families. Apart from this we also arrange workshops and blood donation camps in collaboration with reputed hospitals of the country including AKUH, Indus Hospital, and Fatima Foundation. From 1st July 2023 to 30th June 2024, 1073 students and 164 employees have availed the medical facility.
+
+Lahore campus of FAST-NUCES offers following services
+
+## Indoor Hospitalization Insurance
+
+- Covers hospitalization expenses for employees and dependents including spouse, children \& parents.
+- Reimbursement for hospital bills, surgeries, and medical procedures
+- Discount (up to 20\%) at medical consultation, Lab tests and other services at all panel hospitals.
+
+
+## Outdoor Medical Reimbursement
+
+- Reimburses expenses for outpatient medical services
+- Covers consultations, diagnostics, and medication
+- Reimbursement covers employees and dependents including spouse, children \& parents.
+
+---
+
+# In-house Medical Center 
+
+- Availability of MBBS Doctor \& Male Nurse
+- Provides on-site medical consultations and treatment
+- Availability of MBBS doctor \& ONE male nurse
+- Operating hours: 8:00 AM to 4:00 PM
+
+
+## Free health services
+
+- Urgent medical care
+- Health counseling
+- Diagnostics referral
+- Screenings \& risk assessment
+- BP \& blood sugar checks
+- Weight machine
+- Sick leave evaluation
+
+For routine health care matters and first aid, the Peshawar campus of FAST-NUCES operates multiple first aid boxes located at different offices of the campus, including the hostel. Inventory and operational control is maintained, with contents recommended by rescue 1122. The campus is in close of proximity of 13 general and specialized, private and government hospitals, all within 3 km radius. One university vehicle and on-campus resident driver are dedicated towards meeting emergency needs of employees and students. An in-house health care facility is not yet possible due to shortage of space. For this, considerations have been made for incorporation in updated master plan of the campus.
+
+---
+

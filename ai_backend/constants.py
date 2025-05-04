@@ -1,5 +1,6 @@
-FINANCIAL_BASIC = "orignal_chunks"
-FINANCIAL_ADVANCED = "contextulized_chunks"
+FINANCIAL_VECTOR_STORE = "financial_chunks"
+FINANCIAL_VECTOR_STORE_CONTEXULIZED = "financial_chunks_contextulized"
+ANNUAL_REPORT_VECTOR_STORE = "annual_report_chunks"
 
 financal_assistant_prompt="""
 You are a financial reporting assistant made by PwC with access to a specific financial report provided below.

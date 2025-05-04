@@ -37,8 +37,8 @@ except Exception as e:
 
 # Initialize vector store connections
 docs = []
-url = "https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io"
-api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.zVCndp5F7fuly8Xw7GkxnusyjYKWWIQsUjFpd9sJa9s"
+url = os.getenv("QDRANT_CLOUD_MULTIMODAL_AGENTIC_RAG_URL")
+api_key = os.getenv("QDRANT_CLOUD_MULTIMODAL_AGENTIC_RAG_API_KEY")
 
 try:
     qdrant = QdrantVectorStore.from_documents(
@@ -49,7 +49,7 @@ try:
         url=url,
         prefer_grpc=True,
         api_key=api_key,
-        collection_name="financial_chunks",
+        collection_name=FINANCIAL_VECTOR_STORE,
     )
     logger.info("Successfully initialized original chunks vector store")
 except Exception as e:
@@ -65,7 +65,7 @@ try:
         url=url,
         prefer_grpc=True,
         api_key=api_key,
-        collection_name="financial_chunks_contextulized",
+        collection_name=FINANCIAL_VECTOR_STORE_CONTEXULIZED,
     )
     logger.info("Successfully initialized contextualized chunks vector store")
 except Exception as e:
@@ -98,7 +98,7 @@ def transform_query_search_engine(state: ChatInput) -> Dict[str, List[str]]:
     try:
         model = tranformed_query_model(query=state['prompt'])
         system_message = query_transformer_prompt.format(query=model.query)
-        response = llm.invoke([SystemMessage(content=system_message)] + [HumanMessage(content="Provide the transformed query:")])
+        response = gemini_2_flash.invoke([SystemMessage(content=system_message)] + [HumanMessage(content="Provide the transformed query:")])
         
         transformed_query = response.content
         logger.info(f"Successfully transformed query for search engine: {transformed_query}")
@@ -124,7 +124,7 @@ def transform_query_retrieval(state: ChatInput) -> Dict[str, List[str]]:
     try:
         model = tranformed_query_model(query=state['prompt'])
         system_message = rewrite_query.format(query=model.query)
-        response = llm.invoke([SystemMessage(content=system_message)] + [HumanMessage(content="Provide the transformed query:")])
+        response = gemini_2_flash.invoke([SystemMessage(content=system_message)] + [HumanMessage(content="Provide the transformed query:")])
         
         transformed_query = response.content
         logger.info(f"Successfully transformed query for retrieval: {transformed_query}")
@@ -542,7 +542,7 @@ def chat_message(state: ChatInput) -> Dict[str, str]:
             HumanMessage(content="Provide the answer:"),
         ]
         
-        response = llm.invoke(chat_message)
+        response = gemini_2_flash.invoke(chat_message)
         logger.info("Successfully generated AI response")
         
         return {'last_ai_message': response.content}
@@ -551,7 +551,7 @@ def chat_message(state: ChatInput) -> Dict[str, str]:
         return {'last_ai_message': "I'm sorry, I couldn't generate a response based on the available information."}
 
 
-def combiner(state: ChatInput):
+def gateway(state: ChatInput):
     """
     Combine data from multiple sources (placeholder function).
     
@@ -561,17 +561,17 @@ def combiner(state: ChatInput):
     Returns:
         None
     """
-    logger.info("Combiner function called")
+    logger.info("gateway function called")
     try:
         return None
     except Exception as e:
-        logger.error(f"Error in combiner function: {e}")
+        logger.error(f"Error in gateway function: {e}")
         return None
 
 
-def combiner2(state: ChatInput):
+def gateway_2(state: ChatInput):
     """
-    Alternative combiner function (placeholder function).
+    Alternative gateway function (placeholder function).
     
     Args:
         state: The current state
@@ -579,11 +579,11 @@ def combiner2(state: ChatInput):
     Returns:
         None
     """
-    logger.info("Combiner2 function called")
+    logger.info("gateway_2 function called")
     try:
         return None
     except Exception as e:
-        logger.error(f"Error in combiner2 function: {e}")
+        logger.error(f"Error in gateway_2 function: {e}")
         return None
 
 chat_builder = StateGraph(input=ChatInput, output=ChatOutput)
@@ -608,52 +608,52 @@ chat_builder.add_node("vector_c_search_orignal_similarity_prompt", vector_c_sear
 chat_builder.add_node("rerank_docs", rerank_docs)
 chat_builder.add_node("chat_message", chat_message)
 
-chat_builder.add_node("combiner", combiner)
-chat_builder.add_node("combiner2", combiner2)
+chat_builder.add_node("gateway", gateway)
+chat_builder.add_node("gateway_2", gateway_2)
 
 chat_builder.add_edge(START, "transform_query_search_engine")
 chat_builder.add_edge(START, "transform_query_retrieval")
 
-chat_builder.add_edge("transform_query_retrieval", "combiner")
-chat_builder.add_edge("transform_query_search_engine", "combiner")
+chat_builder.add_edge("transform_query_retrieval", "gateway")
+chat_builder.add_edge("transform_query_search_engine", "gateway")
 
-chat_builder.add_edge("combiner", "vector_o_search_orignal_mmr_0")
-chat_builder.add_edge("combiner", "vector_c_search_orignal_mmr_0")
-chat_builder.add_edge("combiner", "vector_o_search_orignal_similarity_0")
-chat_builder.add_edge("combiner", "vector_c_search_orignal_similarity_0")
+chat_builder.add_edge("gateway", "vector_o_search_orignal_mmr_0")
+chat_builder.add_edge("gateway", "vector_c_search_orignal_mmr_0")
+chat_builder.add_edge("gateway", "vector_o_search_orignal_similarity_0")
+chat_builder.add_edge("gateway", "vector_c_search_orignal_similarity_0")
 
-chat_builder.add_edge("combiner", "vector_o_search_orignal_mmr_1")
-chat_builder.add_edge("combiner", "vector_c_search_orignal_mmr_1")
-chat_builder.add_edge("combiner", "vector_o_search_orignal_similarity_1")
-chat_builder.add_edge("combiner", "vector_c_search_orignal_similarity_1")
+chat_builder.add_edge("gateway", "vector_o_search_orignal_mmr_1")
+chat_builder.add_edge("gateway", "vector_c_search_orignal_mmr_1")
+chat_builder.add_edge("gateway", "vector_o_search_orignal_similarity_1")
+chat_builder.add_edge("gateway", "vector_c_search_orignal_similarity_1")
 
-chat_builder.add_edge("combiner", "vector_o_search_orignal_mmr_prompt")
-chat_builder.add_edge("combiner", "vector_c_search_orignal_mmr_prompt")
-chat_builder.add_edge("combiner", "vector_o_search_orignal_similarity_prompt")
-chat_builder.add_edge("combiner", "vector_c_search_orignal_similarity_prompt")
+chat_builder.add_edge("gateway", "vector_o_search_orignal_mmr_prompt")
+chat_builder.add_edge("gateway", "vector_c_search_orignal_mmr_prompt")
+chat_builder.add_edge("gateway", "vector_o_search_orignal_similarity_prompt")
+chat_builder.add_edge("gateway", "vector_c_search_orignal_similarity_prompt")
 
-chat_builder.add_edge("vector_o_search_orignal_mmr_0", "combiner2")
-chat_builder.add_edge("vector_c_search_orignal_mmr_0", "combiner2")
-chat_builder.add_edge("vector_o_search_orignal_similarity_0", "combiner2")
-chat_builder.add_edge("vector_c_search_orignal_similarity_0", "combiner2")
+chat_builder.add_edge("vector_o_search_orignal_mmr_0", "gateway_2")
+chat_builder.add_edge("vector_c_search_orignal_mmr_0", "gateway_2")
+chat_builder.add_edge("vector_o_search_orignal_similarity_0", "gateway_2")
+chat_builder.add_edge("vector_c_search_orignal_similarity_0", "gateway_2")
 
-chat_builder.add_edge("vector_o_search_orignal_mmr_1", "combiner2")
-chat_builder.add_edge("vector_c_search_orignal_mmr_1", "combiner2")
-chat_builder.add_edge("vector_o_search_orignal_similarity_1", "combiner2")
-chat_builder.add_edge("vector_c_search_orignal_similarity_1", "combiner2")
+chat_builder.add_edge("vector_o_search_orignal_mmr_1", "gateway_2")
+chat_builder.add_edge("vector_c_search_orignal_mmr_1", "gateway_2")
+chat_builder.add_edge("vector_o_search_orignal_similarity_1", "gateway_2")
+chat_builder.add_edge("vector_c_search_orignal_similarity_1", "gateway_2")
 
-chat_builder.add_edge("vector_o_search_orignal_mmr_prompt", "combiner2")
-chat_builder.add_edge("vector_c_search_orignal_mmr_prompt", "combiner2")
-chat_builder.add_edge("vector_o_search_orignal_similarity_prompt", "combiner2")
-chat_builder.add_edge("vector_c_search_orignal_similarity_prompt", "combiner2")
+chat_builder.add_edge("vector_o_search_orignal_mmr_prompt", "gateway_2")
+chat_builder.add_edge("vector_c_search_orignal_mmr_prompt", "gateway_2")
+chat_builder.add_edge("vector_o_search_orignal_similarity_prompt", "gateway_2")
+chat_builder.add_edge("vector_c_search_orignal_similarity_prompt", "gateway_2")
 
-chat_builder.add_edge("combiner2", "rerank_docs")
+chat_builder.add_edge("gateway_2", "rerank_docs")
 chat_builder.add_edge("rerank_docs", "chat_message")
 chat_builder.add_edge("chat_message", END)
 
 memory = MemorySaver()
 
-chat = chat_builder.compile(checkpointer=memory)
+financial_assistant = chat_builder.compile(checkpointer=memory)
 
 """
 response = chat.invoke(

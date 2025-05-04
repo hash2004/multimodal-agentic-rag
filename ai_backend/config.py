@@ -4,10 +4,12 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from pydantic import BaseModel, Field
 from typing import Optional, List, Dict, Any
 import os
+from langchain_groq import ChatGroq
 
 os.environ["COHERE_API_KEY"] = os.getenv("COHERE_API_KEY")
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
 
 class chat_model(BaseModel):
     user_query: str = Field(
@@ -27,8 +29,17 @@ class tranformed_query(BaseModel):
         description="The tranformed query."
     )
     
-llm = ChatGoogleGenerativeAI(
+gemini_2_flash = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",
+    temperature=0,
+    max_tokens=None,
+    timeout=None,
+    max_retries=2,
+)
+
+
+llama_4_scout = ChatGroq(
+    model="meta-llama/llama-4-scout-17b-16e-instruct",
     temperature=0,
     max_tokens=None,
     timeout=None,

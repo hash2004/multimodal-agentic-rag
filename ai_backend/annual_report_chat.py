@@ -22,8 +22,8 @@ from langchain_groq import ChatGroq
 
 docs = []
 
-url = "https://71cec8e6-dff8-4b3e-84a0-46f9d71a9aed.europe-west3-0.gcp.cloud.qdrant.io"
-api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.zVCndp5F7fuly8Xw7GkxnusyjYKWWIQsUjFpd9sJa9s"
+url = os.getenv("QDRANT_CLOUD_MULTIMODAL_AGENTIC_RAG_URL")
+api_key = os.getenv("QDRANT_CLOUD_MULTIMODAL_AGENTIC_RAG_API_KEY")
 
 qdrant = QdrantVectorStore.from_documents(
     docs,
@@ -33,11 +33,66 @@ qdrant = QdrantVectorStore.from_documents(
     url=url,
     prefer_grpc=True,
     api_key=api_key,
-    collection_name="annual_report_chunks",
+    collection_name=ANNUAL_REPORT_VECTOR_STORE,
 )
 
-def get_context(prompt: str) -> str:
+class AChatInput(MessagesState):
+    query: str
+    retrieved_docs: Annotated[List[Document], add]
+    last_ai_message: StopAsyncIteration
+
+class AChatOutput(TypedDict):
+    last_ai_message: str
+    retrieved_docs: Annotated[List[Document], add]
+    
+
+def get_context(state: AChatInput) -> str:
     """
     """
-    retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 7, 'fetch_k': 10})
-    response = retriever.invoke(prompt)
+    retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 5, 'fetch_k': 10})
+    response = retriever.invoke(state['query'])
+    
+    return {
+        "retrieved_docs": [response]
+    }
+    
+    
+def get_answer(state: AChatInput) -> Dict[str, str]:
+    chat_message = [
+        SystemMessage(content=financal_assistant_prompt.format(
+            context=state['retrieved_docs'],
+            query=state['query']
+        )),
+        HumanMessage(content="Provide the answer:"),
+    ]
+    
+    response = gemini_2_flash.invoke(chat_message)
+    
+    return {'last_ai_message': response.content}
+    
+
+a_chat_builder = StateGraph(input=AChatInput, output=AChatOutput)
+
+a_chat_builder.add_node("get_context", get_context)
+a_chat_builder.add_node("get_answer", get_answer)
+
+a_chat_builder.add_edge(START, "get_context")
+a_chat_builder.add_edge("get_context", "get_answer")
+a_chat_builder.add_edge("get_answer", END)
+
+memory = MemorySaver()
+
+annual_report_assistant = a_chat_builder.compile(checkpointer=memory)
+
+"""
+response = annual_report_assistant.invoke(
+    {
+        "query": "What degree programs are offered by Islamabad campus thats not offered by Lahore campus?",
+        "retrieved_docs": [],
+        "last_ai_message": ""
+    },
+    config={"configurable": {"thread_id": 2}}
+)
+
+print(response)
+"""
