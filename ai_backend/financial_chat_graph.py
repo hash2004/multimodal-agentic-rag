@@ -73,18 +73,18 @@ except Exception as e:
     qdrant_a = None
 
 
-class ChatInput(MessagesState):
+class Financial_Input(MessagesState):
     prompt: str
     last_ai_message: str
     tranformed_queries: Annotated[List[str], add]
     retrieved_docs: Annotated[List[Document], add]
-    reranked_docs: str
+    context: List[Document]
     
-class ChatOutput(TypedDict):
+class Financial_Output(TypedDict):
     last_ai_message: str
-    reranked_docs : str
+    context: List[Document]
 
-def transform_query_search_engine(state: ChatInput) -> Dict[str, List[str]]:
+def transform_query_search_engine(state: Financial_Input) -> Dict[str, List[str]]:
     """
     Transform the user query for search engine optimization.
     
@@ -110,7 +110,7 @@ def transform_query_search_engine(state: ChatInput) -> Dict[str, List[str]]:
         return {'tranformed_queries': [state['prompt']]}
 
 
-def transform_query_retrieval(state: ChatInput) -> Dict[str, List[str]]:
+def transform_query_retrieval(state: Financial_Input) -> Dict[str, List[str]]:
     """
     Transform the user query for retrieval optimization.
     
@@ -136,7 +136,7 @@ def transform_query_retrieval(state: ChatInput) -> Dict[str, List[str]]:
         return {'tranformed_queries': [state['prompt']]}
 
 
-def vector_o_search_orignal_mmr_0(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_o_search_orignal_mmr_0(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the original vector store using MMR with transformed query at index 0.
     
@@ -165,7 +165,7 @@ def vector_o_search_orignal_mmr_0(state: ChatInput) -> Dict[str, List[Document]]
         return {'retrieved_docs': [[]]}
     
 
-def vector_c_search_orignal_mmr_0(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_c_search_orignal_mmr_0(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the contextualized vector store using MMR with transformed query at index 0.
     
@@ -194,7 +194,7 @@ def vector_c_search_orignal_mmr_0(state: ChatInput) -> Dict[str, List[Document]]
         return {'retrieved_docs': [[]]}
 
 
-def vector_o_search_orignal_similarity_0(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_o_search_orignal_similarity_0(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the original vector store using similarity threshold with transformed query at index 0.
     
@@ -223,7 +223,7 @@ def vector_o_search_orignal_similarity_0(state: ChatInput) -> Dict[str, List[Doc
         return {'retrieved_docs': [[]]}
 
 
-def vector_c_search_orignal_similarity_0(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_c_search_orignal_similarity_0(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the contextualized vector store using similarity threshold with transformed query at index 0.
     
@@ -252,7 +252,7 @@ def vector_c_search_orignal_similarity_0(state: ChatInput) -> Dict[str, List[Doc
         return {'retrieved_docs': [[]]}
 
 
-def vector_o_search_orignal_mmr_1(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_o_search_orignal_mmr_1(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the original vector store using MMR with transformed query at index 1.
     
@@ -281,7 +281,7 @@ def vector_o_search_orignal_mmr_1(state: ChatInput) -> Dict[str, List[Document]]
         return {'retrieved_docs': [[]]}
 
 
-def vector_c_search_orignal_mmr_1(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_c_search_orignal_mmr_1(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the contextualized vector store using MMR with transformed query at index 1.
     
@@ -310,7 +310,7 @@ def vector_c_search_orignal_mmr_1(state: ChatInput) -> Dict[str, List[Document]]
         return {'retrieved_docs': [[]]}
 
 
-def vector_o_search_orignal_similarity_1(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_o_search_orignal_similarity_1(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the original vector store using similarity threshold with transformed query at index 1.
     
@@ -339,7 +339,7 @@ def vector_o_search_orignal_similarity_1(state: ChatInput) -> Dict[str, List[Doc
         return {'retrieved_docs': [[]]}
 
 
-def vector_c_search_orignal_similarity_1(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_c_search_orignal_similarity_1(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the contextualized vector store using similarity threshold with transformed query at index 1.
     
@@ -368,7 +368,7 @@ def vector_c_search_orignal_similarity_1(state: ChatInput) -> Dict[str, List[Doc
         return {'retrieved_docs': [[]]}
 
 
-def vector_o_search_orignal_mmr_prompt(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_o_search_orignal_mmr_prompt(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the original vector store using MMR with the original prompt.
     
@@ -394,7 +394,7 @@ def vector_o_search_orignal_mmr_prompt(state: ChatInput) -> Dict[str, List[Docum
         return {'retrieved_docs': [[]]}
 
 
-def vector_c_search_orignal_mmr_prompt(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_c_search_orignal_mmr_prompt(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the contextualized vector store using MMR with the original prompt.
     
@@ -420,7 +420,7 @@ def vector_c_search_orignal_mmr_prompt(state: ChatInput) -> Dict[str, List[Docum
         return {'retrieved_docs': [[]]}
 
 
-def vector_o_search_orignal_similarity_prompt(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_o_search_orignal_similarity_prompt(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the original vector store using similarity threshold with the original prompt.
     
@@ -446,7 +446,7 @@ def vector_o_search_orignal_similarity_prompt(state: ChatInput) -> Dict[str, Lis
         return {'retrieved_docs': [[]]}
 
 
-def vector_c_search_orignal_similarity_prompt(state: ChatInput) -> Dict[str, List[Document]]:
+def vector_c_search_orignal_similarity_prompt(state: Financial_Input) -> Dict[str, List[Document]]:
     """
     Search the contextualized vector store using similarity threshold with the original prompt.
     
@@ -472,7 +472,7 @@ def vector_c_search_orignal_similarity_prompt(state: ChatInput) -> Dict[str, Lis
         return {'retrieved_docs': [[]]}
 
 
-def rerank_docs(state: ChatInput) -> Dict[str, str]:
+def rerank_docs(state: Financial_Input) -> Dict[str, str]:
     """
     Rerank retrieved documents based on relevance to the query.
     
@@ -501,28 +501,15 @@ def rerank_docs(state: ChatInput) -> Dict[str, str]:
         
         # Invoking the reranker
         compressed_docs = compression_retriever.invoke(state["prompt"])
-        
-        parts = []
-        for doc in compressed_docs:
-            # Use an f-string to interpolate the page_content and metadata
-            part = (
-                "# CONTENT\n"
-                f"{doc.page_content.strip()}\n\n"
-                "# SOURCE\n"
-                f"{doc.metadata}"
-            )
-            parts.append(part)
-        
-        formatted_result = "\n\n".join(parts)
         logger.info(f"Successfully reranked {len(compressed_docs)} documents")
         
-        return {'reranked_docs': formatted_result}
+        return {'context': compressed_docs}
     except Exception as e:
         logger.error(f"Error reranking documents: {e}")
-        return {'reranked_docs': "No relevant documents found."}
+        return {'context': []}
 
 
-def chat_message(state: ChatInput) -> Dict[str, str]:
+def chat_message(state: Financial_Input) -> Dict[str, str]:
     """
     Generate an AI response based on the retrieved documents and the prompt.
     
@@ -551,7 +538,7 @@ def chat_message(state: ChatInput) -> Dict[str, str]:
         return {'last_ai_message': "I'm sorry, I couldn't generate a response based on the available information."}
 
 
-def gateway(state: ChatInput):
+def gateway(state: Financial_Input):
     """
     Combine data from multiple sources (placeholder function).
     
@@ -569,24 +556,7 @@ def gateway(state: ChatInput):
         return None
 
 
-def gateway_2(state: ChatInput):
-    """
-    Alternative gateway function (placeholder function).
-    
-    Args:
-        state: The current state
-        
-    Returns:
-        None
-    """
-    logger.info("gateway_2 function called")
-    try:
-        return None
-    except Exception as e:
-        logger.error(f"Error in gateway_2 function: {e}")
-        return None
-
-chat_builder = StateGraph(input=ChatInput, output=ChatOutput)
+chat_builder = StateGraph(input=Financial_Input, output=Financial_Output)
 chat_builder.add_node("transform_query_search_engine", transform_query_search_engine)
 chat_builder.add_node("transform_query_retrieval", transform_query_retrieval)
 
@@ -609,7 +579,6 @@ chat_builder.add_node("rerank_docs", rerank_docs)
 chat_builder.add_node("chat_message", chat_message)
 
 chat_builder.add_node("gateway", gateway)
-chat_builder.add_node("gateway_2", gateway_2)
 
 chat_builder.add_edge(START, "transform_query_search_engine")
 chat_builder.add_edge(START, "transform_query_retrieval")
@@ -632,22 +601,21 @@ chat_builder.add_edge("gateway", "vector_c_search_orignal_mmr_prompt")
 chat_builder.add_edge("gateway", "vector_o_search_orignal_similarity_prompt")
 chat_builder.add_edge("gateway", "vector_c_search_orignal_similarity_prompt")
 
-chat_builder.add_edge("vector_o_search_orignal_mmr_0", "gateway_2")
-chat_builder.add_edge("vector_c_search_orignal_mmr_0", "gateway_2")
-chat_builder.add_edge("vector_o_search_orignal_similarity_0", "gateway_2")
-chat_builder.add_edge("vector_c_search_orignal_similarity_0", "gateway_2")
+chat_builder.add_edge("vector_o_search_orignal_mmr_0", "rerank_docs")
+chat_builder.add_edge("vector_c_search_orignal_mmr_0", "rerank_docs")
+chat_builder.add_edge("vector_o_search_orignal_similarity_0", "rerank_docs")
+chat_builder.add_edge("vector_c_search_orignal_similarity_0", "rerank_docs")
 
-chat_builder.add_edge("vector_o_search_orignal_mmr_1", "gateway_2")
-chat_builder.add_edge("vector_c_search_orignal_mmr_1", "gateway_2")
-chat_builder.add_edge("vector_o_search_orignal_similarity_1", "gateway_2")
-chat_builder.add_edge("vector_c_search_orignal_similarity_1", "gateway_2")
+chat_builder.add_edge("vector_o_search_orignal_mmr_1", "rerank_docs")
+chat_builder.add_edge("vector_c_search_orignal_mmr_1", "rerank_docs")
+chat_builder.add_edge("vector_o_search_orignal_similarity_1", "rerank_docs")
+chat_builder.add_edge("vector_c_search_orignal_similarity_1", "rerank_docs")
 
-chat_builder.add_edge("vector_o_search_orignal_mmr_prompt", "gateway_2")
-chat_builder.add_edge("vector_c_search_orignal_mmr_prompt", "gateway_2")
-chat_builder.add_edge("vector_o_search_orignal_similarity_prompt", "gateway_2")
-chat_builder.add_edge("vector_c_search_orignal_similarity_prompt", "gateway_2")
+chat_builder.add_edge("vector_o_search_orignal_mmr_prompt", "rerank_docs")
+chat_builder.add_edge("vector_c_search_orignal_mmr_prompt", "rerank_docs")
+chat_builder.add_edge("vector_o_search_orignal_similarity_prompt", "rerank_docs")
+chat_builder.add_edge("vector_c_search_orignal_similarity_prompt", "rerank_docs")
 
-chat_builder.add_edge("gateway_2", "rerank_docs")
 chat_builder.add_edge("rerank_docs", "chat_message")
 chat_builder.add_edge("chat_message", END)
 
@@ -656,13 +624,13 @@ memory = MemorySaver()
 financial_assistant = chat_builder.compile(checkpointer=memory)
 
 """
-response = chat.invoke(
+response = financial_assistant.invoke(
     {
         "prompt": "What is the revenue for the year 2023?",
         "last_ai_message": "",
         "tranformed_queries": [],
         "retrieved_docs": [],
-        "reranked_docs": ""
+        "context": []
     },
     config={"configurable": {"thread_id": 1}},
 )
