@@ -1,6 +1,7 @@
 FINANCIAL_VECTOR_STORE = "financial_chunks"
 FINANCIAL_VECTOR_STORE_CONTEXULIZED = "financial_chunks_contextulized"
 ANNUAL_REPORT_VECTOR_STORE = "annual_report_chunks"
+FYP_HANDBOOK_VECTOR_STORE = "fyp_handbook_chunks"
 
 financal_assistant_prompt="""
 You are a financial reporting assistant made by PwC with access to a specific financial report provided below.
