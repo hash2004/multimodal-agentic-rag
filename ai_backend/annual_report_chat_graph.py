@@ -56,7 +56,7 @@ except Exception as e:
 
 class Annual_Input(MessagesState):
     """Input state for the Annual Report Assistant."""
-    query: str
+    prompt: str
     context: List[Document]
     last_ai_message: str
 
@@ -69,10 +69,10 @@ class Annual_Output(TypedDict):
 
 def get_context(state: Annual_Input) -> Dict[str, List[Document]]:
     """
-    Retrieves relevant context documents based on the user query.
+    Retrieves relevant context documents based on the user prompt.
     
     Args:
-        state: Current state containing the user query
+        state: Current state containing the user prompt
         
     Returns:
         Dictionary with retrieved context documents
@@ -80,11 +80,11 @@ def get_context(state: Annual_Input) -> Dict[str, List[Document]]:
     Raises:
         Exception: If retrieval fails
     """
-    logger.info(f"Getting context for query: {state['query']}")
+    logger.info(f"Getting context for prompt: {state['prompt']}")
     
     try:
         retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 5, 'fetch_k': 10})
-        response = retriever.invoke(state['query'])
+        response = retriever.invoke(state['prompt'])
         
         logger.info(f"Successfully retrieved {len(response)} context documents")
         return {
@@ -100,10 +100,10 @@ def get_context(state: Annual_Input) -> Dict[str, List[Document]]:
 
 def get_answer(state: Annual_Input) -> Dict[str, str]:
     """
-    Generates an answer based on the context and query.
+    Generates an answer based on the context and prompt.
     
     Args:
-        state: Current state containing context and query
+        state: Current state containing context and prompt
         
     Returns:
         Dictionary with the AI response
@@ -111,13 +111,13 @@ def get_answer(state: Annual_Input) -> Dict[str, str]:
     Raises:
         Exception: If answer generation fails
     """
-    logger.info(f"Generating answer for query: {state['query']}")
+    logger.info(f"Generating answer for prompt: {state['prompt']}")
     
     try:
         chat_message = [
             SystemMessage(content=annual_report_assistant_prompt.format(
                 context=state['context'],
-                query=state['query']
+                query=state['prompt']
             )),
             HumanMessage(content="Provide the answer:"),
         ]
@@ -151,12 +151,14 @@ memory = MemorySaver()
 annual_report_assistant = a_chat_builder.compile(checkpointer=memory)
 logger.info("Successfully compiled the Annual Report Assistant graph")
 
+"""
 response = annual_report_assistant.invoke(
     {
-        "query": "How many students graduated in 2023?",
+        "prompt": "How many students graduated in 2023?",
         "context": [],
         "last_ai_message": ""
     },
     config={"configurable": {"thread_id": 2}}
 )
 print(response)
+"""

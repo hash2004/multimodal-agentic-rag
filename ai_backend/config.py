@@ -16,24 +16,6 @@ FINANCIAL_VECTOR_STORE_CONTEXULIZED = "financial_chunks_contextulized"
 ANNUAL_REPORT_VECTOR_STORE = "annual_report_chunks"
 FYP_HANDBOOK_VECTOR_STORE = "fyp_handbook_chunks"
 FYP_HANDBOOK_VECTOR_STORE_CONTEXULIZED = "fyp_handbook_chunks"
-
-class chat_model(BaseModel):
-    user_query: str = Field(
-        description="The user query to be answered."
-    )
-    context: str = Field(
-        description="The context from the financial report."
-    )
-
-class tranformed_query_model(BaseModel):
-    query: str = Field(
-        description="The query to be tranformed."
-    )
-
-class tranformed_query(BaseModel):
-    transformed_query: str = Field(
-        description="The tranformed query."
-    )
     
 gemini_2_flash = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",

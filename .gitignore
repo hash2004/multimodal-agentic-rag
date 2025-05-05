@@ -8,3 +8,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# no env files:
+# Environment variables
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test

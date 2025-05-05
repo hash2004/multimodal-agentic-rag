@@ -53,25 +53,25 @@ except Exception as e:
     raise
 
 
-class AChatInput(MessagesState):
+class FYP_Input(MessagesState):
     """Input state for the FYP Handbook Assistant."""
-    query: str
+    prompt: str
     context: List[Document]
     last_ai_message: str
 
 
-class AChatOutput(TypedDict):
+class FYP_Output(TypedDict):
     """Output state for the FYP Handbook Assistant."""
     last_ai_message: str
     context: List[Document]
 
 
-def get_context(state: AChatInput) -> Dict[str, List[Document]]:
+def get_context(state: FYP_Input) -> Dict[str, List[Document]]:
     """
-    Retrieves relevant context documents from the vector store based on the user query.
+    Retrieves relevant context documents from the vector store based on the user prompt.
     
     Args:
-        state: Current state containing the user query
+        state: Current state containing the user prompt
         
     Returns:
         Dictionary with retrieved context documents
@@ -79,11 +79,11 @@ def get_context(state: AChatInput) -> Dict[str, List[Document]]:
     Raises:
         Exception: If retrieval fails
     """
-    logger.info(f"Getting context for query: {state['query']}")
+    logger.info(f"Getting context for prompt: {state['prompt']}")
     
     try:
-        retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 3, 'fetch_k': 10})
-        response = retriever.invoke(state['query'])
+        retriever = qdrant.as_retriever(search_type="mmr", search_kwargs={"k": 5, 'fetch_k': 10})
+        response = retriever.invoke(state['prompt'])
         
         logger.info(f"Successfully retrieved {len(response)} context documents")
         return {
@@ -97,12 +97,12 @@ def get_context(state: AChatInput) -> Dict[str, List[Document]]:
         }
 
 
-def get_answer(state: AChatInput) -> Dict[str, str]:
+def get_answer(state: FYP_Input) -> Dict[str, str]:
     """
-    Generates an answer based on the context and query using the Gemini model.
+    Generates an answer based on the context and prompt using the Gemini model.
     
     Args:
-        state: Current state containing context and query
+        state: Current state containing context and prompt
         
     Returns:
         Dictionary with the AI response
@@ -110,13 +110,13 @@ def get_answer(state: AChatInput) -> Dict[str, str]:
     Raises:
         Exception: If answer generation fails
     """
-    logger.info(f"Generating answer for query: {state['query']}")
+    logger.info(f"Generating answer for prompt: {state['prompt']}")
     
     try:
         chat_message = [
             SystemMessage(content=fyp_handbook_assistant_prompt.format(
                 context=state['context'],
-                query=state['query']
+                query=state['prompt']
             )),
             HumanMessage(content="Provide the answer:"),
         ]
@@ -131,7 +131,7 @@ def get_answer(state: AChatInput) -> Dict[str, str]:
         return {'last_ai_message': "I'm sorry, I encountered an error while processing your request. Please try again."}
 
 
-f_chat_builder = StateGraph(input=AChatInput, output=AChatOutput)
+f_chat_builder = StateGraph(input=FYP_Input, output=FYP_Output)
 
 f_chat_builder.add_node("get_context", get_context)
 f_chat_builder.add_node("get_answer", get_answer)
@@ -147,7 +147,7 @@ fyp_handbook_assistant = f_chat_builder.compile(checkpointer=memory)
 """
 response = fyp_handbook_assistant.invoke(
     {
-        "query": "What is the role of FYP coordinator?",
+        "prompt": "What is the role of FYP coordinator?",
         "context": [],
         "last_ai_message": ""
     },

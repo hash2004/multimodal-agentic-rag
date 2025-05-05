@@ -1,0 +1,14 @@
+langchain
+langchain_openai
+langchain_qdrant
+qdrant_client
+tavily-python
+langchain_cohere
+langchain_community 
+langgraph
+langchain_core
+fastembed
+langchain_experimental
+langchain_google_genai
+langchain_groq
+langchain_text_splitters
