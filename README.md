@@ -90,7 +90,3 @@ The project is structured around several key components:
 - Python 3.12
 - Access to OpenAI, Google Gemini, Mistrial, and Qdrant APIs
 - Required packages listed in `requirements.txt`
-
-## License
-
-[Specify your license here]
