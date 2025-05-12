@@ -1,6 +1,6 @@
 import os
 import logging
-import random
+import base64
 from operator import add
 from IPython.display import Image, display
 from typing import Optional, List, Dict, Any, Annotated, Literal
@@ -31,7 +31,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-class Chat_Input(TypedDict):
+class Chat_Input(MessagesState):
     """
     Input state for the chat processing pipeline.
     
@@ -44,6 +44,7 @@ class Chat_Input(TypedDict):
         context: List of contextual documents
     """
     prompt: str
+    image_path: str
     assistant_id: str
     last_ai_message: str
     tranformed_queries: Annotated[List[str], add]
@@ -63,20 +64,65 @@ class Chat_Output(TypedDict):
     
 def gateway_input(state: Chat_Input):
     """
-    Process the input state in the gateway.
+    Process multimodal input by extracting image content using Gemini and combining it with text prompt.
     
     Args:
-        state: The input state containing prompt and context information
+        state: The input state containing prompt and image path
     
     Returns:
-        None
+        Dict with processed prompt including image description
     """
     try:
-        logger.info("Processing gateway input")
-        return
+        # Validate image path
+        if not state.get('image_path'):
+            logger.warning("No image path provided in state")
+            return {"prompt": state['prompt']}
+            
+        if not os.path.isfile(state['image_path']):
+            logger.error(f"Invalid image path: {state['image_path']}")
+            return {"prompt": state['prompt']}
+            
+        logger.info(f"Processing image from path: {state['image_path']}")
+        
+        # Read and encode image
+        try:
+            with open(state['image_path'], "rb") as image_file:
+                encoded_image = base64.b64encode(image_file.read()).decode("utf-8")
+                logger.debug("Successfully encoded image")
+        except Exception as e:
+            logger.error(f"Error reading or encoding image: {str(e)}")
+            return {"prompt": state['prompt']}
+        
+        # Create message with image for Gemini
+        message_local = HumanMessage(
+            content=[
+                {"type": "text", "text": "Describe the image in full detail."},
+                {"type": "image_url", "image_url": f"data:image/png;base64,{encoded_image}"},
+            ]
+        )
+        
+        # Get image description from Gemini
+        try:
+            logger.debug("Invoking Gemini for image description")
+            result = gemini_2_flash.invoke([message_local])
+            final_result = result.content
+            logger.info("Successfully received image description from Gemini")
+        except Exception as e:
+            logger.error(f"Error invoking Gemini for image description: {str(e)}")
+            return {"prompt": state['prompt']}
+        
+        # Combine original prompt with image description
+        query = state['prompt'] + "\nThe user also inserted an image, the content of the image is: \n" + final_result
+        logger.debug(f"Combined prompt created with image description")
+        
+        return {
+            "prompt": query,
+        }
+        
     except Exception as e:
-        logger.error(f"Error in gateway_input: {str(e)}")
-        raise
+        logger.error(f"Unexpected error in gateway_input: {str(e)}")
+        # Return original prompt if any unexpected error occurs
+        return {"prompt": state.get('prompt', '')}
 
 def route_input(state: Chat_Input) -> Literal["FA", "FYPA", "AA"]:
     """
@@ -144,6 +190,7 @@ multimodal_agentic_rag.add_edge("AA", END)
 
 multimodal_agentic_rag_graph = multimodal_agentic_rag.compile()
 
+"""
 # Create the directory if it doesn't exist
 os.makedirs("assets", exist_ok=True)
 
@@ -161,7 +208,8 @@ display(Image(mermaid_png))
 
 response = multimodal_agentic_rag_graph.invoke(
     Chat_Input(
-        prompt="What is the role of FYP supervisor?",
+        prompt="Answer the question in the image.",
+        image_path="/Users/hashimmuhammadnadeem/Documents/test.png",
         assistant_id="",
         last_ai_message="",
         tranformed_queries=[],
@@ -171,3 +219,4 @@ response = multimodal_agentic_rag_graph.invoke(
 )
 
 print(response)
+"""

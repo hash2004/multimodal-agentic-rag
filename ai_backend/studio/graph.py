@@ -1196,9 +1196,11 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_cohere import CohereRerank
 from langchain.retrievers.contextual_compression import ContextualCompressionRetriever
 from langchain_core.runnables.graph import CurveStyle, MermaidDrawMethod, NodeStyles
+import base64
 
 class Chat_Input(TypedDict):
     prompt: str
+    image_path: Optional[str]
     assistant_id: str
     last_ai_message: str
     tranformed_queries: Annotated[List[str], add]
@@ -1209,8 +1211,67 @@ class Chat_Output(TypedDict):
     last_ai_message: str
     context: List[Document]
     
-def gateway_input(state:Chat_Input):
-    return
+def gateway_input(state: Chat_Input):
+    """
+    Process multimodal input by extracting image content using Gemini and combining it with text prompt.
+    
+    Args:
+        state: The input state containing prompt and image path
+    
+    Returns:
+        Dict with processed prompt including image description
+    """
+    try:
+        # Validate image path
+        if not state.get('image_path'):
+            logger.warning("No image path provided in state")
+            return {"prompt": state['prompt']}
+            
+        if not os.path.isfile(state['image_path']):
+            logger.error(f"Invalid image path: {state['image_path']}")
+            return {"prompt": state['prompt']}
+            
+        logger.info(f"Processing image from path: {state['image_path']}")
+        
+        # Read and encode image
+        try:
+            with open(state['image_path'], "rb") as image_file:
+                encoded_image = base64.b64encode(image_file.read()).decode("utf-8")
+                logger.debug("Successfully encoded image")
+        except Exception as e:
+            logger.error(f"Error reading or encoding image: {str(e)}")
+            return {"prompt": state['prompt']}
+        
+        # Create message with image for Gemini
+        message_local = HumanMessage(
+            content=[
+                {"type": "text", "text": "Describe the image in full detail."},
+                {"type": "image_url", "image_url": f"data:image/png;base64,{encoded_image}"},
+            ]
+        )
+        
+        # Get image description from Gemini
+        try:
+            logger.debug("Invoking Gemini for image description")
+            result = gemini_2_flash.invoke([message_local])
+            final_result = result.content
+            logger.info("Successfully received image description from Gemini")
+        except Exception as e:
+            logger.error(f"Error invoking Gemini for image description: {str(e)}")
+            return {"prompt": state['prompt']}
+        
+        # Combine original prompt with image description
+        query = state['prompt'] + "\nThe user also inserted an image, the content of the image is: \n" + final_result
+        logger.debug(f"Combined prompt created with image description")
+        
+        return {
+            "prompt": query,
+        }
+        
+    except Exception as e:
+        logger.error(f"Unexpected error in gateway_input: {str(e)}")
+        # Return original prompt if any unexpected error occurs
+        return
 
 def route_input(state:Chat_Input) -> Literal["FA", "FYPA", "AA"]: 
     model = query_model(query=state['prompt'])
@@ -1235,11 +1296,12 @@ multimodal_agentic_rag.add_conditional_edges("gateway_input", route_input)
 multimodal_agentic_rag.add_edge("FA", END)
 multimodal_agentic_rag.add_edge("FYPA", END)
 multimodal_agentic_rag.add_edge("AA", END)
-
+"""
 graph = multimodal_agentic_rag.compile()
 response = graph.invoke(
     Chat_Input(
-        prompt="Tell me about the libalities in 2018",
+        prompt="Answer the question in the image:",
+        image_path="/Users/hashimmuhammadnadeem/Documents/test.png",
         assistant_id="",
         last_ai_message="",
         tranformed_queries=[],
@@ -1249,3 +1311,4 @@ response = graph.invoke(
 )
 
 print(response)
+"""
